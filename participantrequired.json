@@ -19,7 +19,7 @@
   ],
   "description": "Is the Participant required to attend the appointment",
   "status": "draft",
-  "date": "2014-04-03T04:13:25.369-00:00",
+  "date": "2014-04-10T02:22:13.291-00:00",
   "define": {
     "system": "http://hl7.org/fhir/participantrequired",
     "caseSensitive": true,

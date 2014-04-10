@@ -27,7 +27,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. Records an unexpected reaction suspected to be related to the exposure of the reaction subject to a substance."/>
   <status value="draft"/>
-  <date value="2014-04-03"/>
+  <date value="2014-04-10"/>
   <requirements value="Scope and Usage Adverse Reaction resources are used to provide information about specific reactions to a substance. These are normally associated with an AllergyIntolerance resource, but can be reported on their own when no assumption of further reactions is being made, or when specific events are being described."/>
   <mapping>
     <identity value="rim"/>
@@ -486,11 +486,6 @@ Note: Observation also needs to have a subject of the Adverse Reaction itself (i
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
-    </searchParam>
-    <searchParam>
-      <name value="_language"/>
-      <type value="token"/>
-      <documentation value="The stated language of the resource"/>
     </searchParam>
     <searchParam>
       <name value="date"/>

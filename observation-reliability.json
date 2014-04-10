@@ -19,7 +19,7 @@
   ],
   "description": "Codes that provide an estimate of the degree to which quality issues have impacted on the value of an observation",
   "status": "draft",
-  "date": "2014-04-03T04:13:25.372-00:00",
+  "date": "2014-04-10T02:22:13.297-00:00",
   "define": {
     "system": "http://hl7.org/fhir/observation-reliability",
     "caseSensitive": true,

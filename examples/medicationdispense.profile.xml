@@ -49,7 +49,7 @@ Terminologies used often pre-coordinate this term with the route and or form of 
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. Dispensing a medication to a named patient.  This includes a description of the supply provided and the instructions for administering the medication."/>
   <status value="draft"/>
-  <date value="2014-04-03"/>
+  <date value="2014-04-10"/>
   <requirements value="Scope and Usage This resource covers the supply of all medications to a patient. Examples include dispensing and pick-up from an out-patient pharmacy, dispensing patient-specific medications from in-patient pharmacy to ward as well as issuing a single dose from ward stock to a patient for consumption."/>
   <mapping>
     <identity value="rim"/>
@@ -917,11 +917,6 @@ Terminologies used often pre-coordinate this term with the route and or form of 
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
-    </searchParam>
-    <searchParam>
-      <name value="_language"/>
-      <type value="token"/>
-      <documentation value="The stated language of the resource"/>
     </searchParam>
     <searchParam>
       <name value="destination"/>

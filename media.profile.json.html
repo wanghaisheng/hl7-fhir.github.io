@@ -41,7 +41,7 @@
 		<div class="container"><!-- container -->
 			<a id="logo" href="http://hl7.org/fhir"><img src="./assets/images/fhir-logo-www.png" alt="logo fhir"/> </a>
 			<div id="hl7-status">
-				<b>Nightly</b>
+				<b>travis_build</b>
 			</div>       	
 			
 			<div id="hl7-nav">
@@ -125,7 +125,7 @@
   &quot;publisher&quot;: &quot;FHIR Project&quot;,
   &quot;description&quot;: &quot;Basic Profile. A photo, video, or audio recording acquired or used in healthcare. The actual content may be inline or provided by direct reference.&quot;,
   &quot;status&quot;: &quot;draft&quot;,
-  &quot;date&quot;: &quot;2014-04-03&quot;,
+  &quot;date&quot;: &quot;2014-04-10&quot;,
   &quot;requirements&quot;: &quot;Scope and Usage The Media resource contains photos, videos, and audio recordings. It is used with media acquired or used as part of the healthcare process. Here are some typical usages: \r\n\r\n* Photos of patients and staff for identification purposes\r\n* Photos and videos of diagnostic or care provision procedures for recording purposes \r\n* Storing scans and faxes of paper documents where not enough metadata exists to create a DocumentReference\r\n* Images on diagnostic reports\r\nThe Media resource may contain medical images in a DICOM format. While such images may also be accessible through an ImagingStudy resource, the Media resource enables \&quot;ready for presentation\&quot; access to a specific image. Such images would preferentially be made available in a FHIR ecosystem by the Media.content.url providing a reference to a WADO-RS service to access the image. That WADO-RS service may include rendering the image with annotations and display parameters from an associated DICOM presentation state. Although the Media resource is allowed to contain images collected by a DICOM based system, DICOM images would preferentially be made available in a FHIR ecosystem by provision of a resource with references to a WADO-RS server.&quot;,
   &quot;mapping&quot;: [
     {
@@ -643,11 +643,6 @@
           &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
         },
         {
-          &quot;name&quot;: &quot;_language&quot;,
-          &quot;type&quot;: &quot;token&quot;,
-          &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-        },
-        {
           &quot;name&quot;: &quot;date&quot;,
           &quot;type&quot;: &quot;date&quot;,
           &quot;documentation&quot;: &quot;When the media was taken/recorded (end)&quot;,
@@ -712,7 +707,7 @@
 		<div class="container"><!-- container -->
 			<div class="inner-wrapper">
 				<p>
-        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Thu, Apr 3, 2014 04:14+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
+        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Thu, Apr 10, 2014 02:23+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
         <br/>
         <span style="color: #FFFF77">
         Links: <a href="dstu.html">What's a DSTU?</a> | <a href="history.html">Version History</a> | <a href="license.html">License</a> | <a href="http://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemAdd&amp;tracker_id=677">Propose a change</a>

@@ -84,7 +84,7 @@
   </telecom>
   <description value="Operations supported by REST at the type or instance level"/>
   <status value="draft"/>
-  <date value="2014-04-03T04:13:25.373-00:00"/>
+  <date value="2014-04-10T02:22:13.299-00:00"/>
   <compose>
     <include>
       <system value="http://hl7.org/fhir/restful-operation"/>

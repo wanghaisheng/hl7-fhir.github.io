@@ -47,7 +47,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. Demographics and other administrative information about a person or animal receiving care or other health-related services."/>
   <status value="draft"/>
-  <date value="2014-04-03"/>
+  <date value="2014-04-10"/>
   <requirements value="Scope and Usage This Resource covers data about persons and animals involved in a wide range of health-related activities, including: 
 
 * Curative activities
@@ -919,11 +919,6 @@ The data in the Resource covers the &quot;who&quot; information about the patien
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
-    </searchParam>
-    <searchParam>
-      <name value="_language"/>
-      <type value="token"/>
-      <documentation value="The stated language of the resource"/>
     </searchParam>
     <searchParam>
       <name value="active"/>

@@ -40,7 +40,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. A statement of relationships from one set of concepts to one or more other concept systems."/>
   <status value="draft"/>
-  <date value="2014-04-03"/>
+  <date value="2014-04-10"/>
   <requirements value="Scope and Usage A concept map defines a mapping from a concept defined in one system to one or more concepts defined in other systems. Mappings are always framed within the concept of value sets - they are specific to a context of use."/>
   <mapping>
     <identity value="rim"/>
@@ -617,11 +617,6 @@
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
-    </searchParam>
-    <searchParam>
-      <name value="_language"/>
-      <type value="token"/>
-      <documentation value="The stated language of the resource"/>
     </searchParam>
     <searchParam>
       <name value="date"/>

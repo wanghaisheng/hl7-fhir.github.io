@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. A response to an order.",
   "status": "draft",
-  "date": "2014-04-03",
+  "date": "2014-04-10",
   "requirements": "Scope and Usage The response to an order indicates the outcome of processing the order itself - whether it was accepted or rejected, or is still in process. The order response resource does not itself convey or represent information that arises as a result of performing the actual order, but it may have references to other resources that do have this information, in order to link between the original order and its outcome.",
   "mapping": [
     {
@@ -359,11 +359,6 @@
           "name": "_id",
           "type": "token",
           "documentation": "The logical resource id associated with the resource (must be supported by all servers)"
-        },
-        {
-          "name": "_language",
-          "type": "token",
-          "documentation": "The stated language of the resource"
         },
         {
           "name": "code",

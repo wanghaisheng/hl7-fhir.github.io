@@ -19,7 +19,7 @@
   ],
   "description": "The status of a diagnostic order",
   "status": "draft",
-  "date": "2014-04-03T04:13:25.373-00:00",
+  "date": "2014-04-10T02:22:13.300-00:00",
   "define": {
     "system": "http://hl7.org/fhir/diagnostic-order-status",
     "caseSensitive": true,

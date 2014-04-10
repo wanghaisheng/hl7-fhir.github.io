@@ -19,7 +19,7 @@
   ],
   "description": "Either a resource or a data type",
   "status": "draft",
-  "date": "2014-04-03T04:13:25.372-00:00",
+  "date": "2014-04-10T02:22:13.298-00:00",
   "define": {
     "system": "http://hl7.org/fhir/defined-types",
     "caseSensitive": true,

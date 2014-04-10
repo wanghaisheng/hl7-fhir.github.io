@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. A description of a query with a set of parameters.",
   "status": "draft",
-  "date": "2014-04-03",
+  "date": "2014-04-10",
   "requirements": "Scope and Usage The resource is used to perform queries using messaging-based exchanges, and to perform asynchronous searches using the RESTful interface.",
   "mapping": [
     {
@@ -431,11 +431,6 @@
           "name": "_id",
           "type": "token",
           "documentation": "The logical resource id associated with the resource (must be supported by all servers)"
-        },
-        {
-          "name": "_language",
-          "type": "token",
-          "documentation": "The stated language of the resource"
         },
         {
           "name": "identifier",

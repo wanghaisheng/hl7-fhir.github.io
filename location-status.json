@@ -19,7 +19,7 @@
   ],
   "description": "Indicates whether the location is still in use",
   "status": "draft",
-  "date": "2014-04-03T04:13:25.372-00:00",
+  "date": "2014-04-10T02:22:13.296-00:00",
   "define": {
     "system": "http://hl7.org/fhir/location-status",
     "caseSensitive": true,

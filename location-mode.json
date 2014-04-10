@@ -19,7 +19,7 @@
   ],
   "description": "Indicates whether a resource instance represents a specific location or a class of locations",
   "status": "draft",
-  "date": "2014-04-03T04:13:25.376-00:00",
+  "date": "2014-04-10T02:22:13.308-00:00",
   "define": {
     "system": "http://hl7.org/fhir/location-mode",
     "caseSensitive": true,

@@ -70,7 +70,7 @@
   </telecom>
   <description value="Indicator for type of action performed during the event that generated the audit."/>
   <status value="draft"/>
-  <date value="2014-04-03T04:13:25.368-00:00"/>
+  <date value="2014-04-10T02:22:13.289-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/security-event-action"/>
     <caseSensitive value="true"/>

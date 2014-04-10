@@ -19,7 +19,7 @@
   ],
   "description": "Indicates whether the event succeeded or failed",
   "status": "draft",
-  "date": "2014-04-03T04:13:25.375-00:00",
+  "date": "2014-04-10T02:22:13.306-00:00",
   "define": {
     "system": "http://hl7.org/fhir/security-event-outcome",
     "caseSensitive": true,

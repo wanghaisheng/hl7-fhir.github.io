@@ -19,7 +19,7 @@
   ],
   "description": "Type indicating if this is a parent or child relationship",
   "status": "draft",
-  "date": "2014-04-03T04:13:25.372-00:00",
+  "date": "2014-04-10T02:22:13.297-00:00",
   "define": {
     "system": "http://hl7.org/fhir/hierarchical-relationship-type",
     "caseSensitive": true,

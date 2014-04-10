@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. An interaction between a patient and healthcare provider(s) for the purpose of providing healthcare service(s) or assessing the health status of a patient.",
   "status": "draft",
-  "date": "2014-04-03",
+  "date": "2014-04-10",
   "requirements": "Scope and Usage A patient encounter is further characterized by the setting in which it takes place. Amongst them are ambulatory, emergency, home health, inpatient and virtual encounters. An Encounter encompasses the lifecycle from pre-admission, the actual encounter (for ambulatory encounters), and admission, stay and discharge (for inpatient encounters). During the encounter the patient may move from practitioner to practitioner and location to location. \r\n\r\nBecause of the broad scope of Encounter, not all elements will be relevant in all settings. For this reason, admission/discharge related information is kept in a separate Hospitalization component within Encounter. The class element is used to distinguish between these settings, which will guide further validation and application of business rules. \r\n\r\nThere is also substantial variance from organization to organization (and between jurisdictions and countries) on which business events translate to the start of a new Encounter, or what level of aggregation is used for Encounter. For example, each single visit of a practitioner during a hospitalization may lead to a new instance of Encounter, but depending on local practice and the systems involved, it may well be that this is aggregated to a single instance for a whole hospitalization. Even more aggregation may occur where jurisdictions introduce groups of Encounters for financial or other reasons. Encounters can be aggregated or grouped under other Encounters using the partOf element. See below for examples. \r\n\r\nEncounter instances may exist before the actual encounter takes place to convey pre-admission information, including using Encounters elements to reflect the planned start date, planned accommodation or planned encounter locations. In this case the status element is set to 'planned'.",
   "mapping": [
     {
@@ -1198,11 +1198,6 @@
           "name": "_id",
           "type": "token",
           "documentation": "The logical resource id associated with the resource (must be supported by all servers)"
-        },
-        {
-          "name": "_language",
-          "type": "token",
-          "documentation": "The stated language of the resource"
         },
         {
           "name": "date",

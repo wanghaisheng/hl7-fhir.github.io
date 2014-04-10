@@ -19,7 +19,7 @@
   ],
   "description": "The way in which a person authenticated a composition",
   "status": "draft",
-  "date": "2014-04-03T04:13:25.374-00:00",
+  "date": "2014-04-10T02:22:13.302-00:00",
   "define": {
     "system": "http://hl7.org/fhir/composition-attestation-mode",
     "caseSensitive": true,

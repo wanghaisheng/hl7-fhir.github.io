@@ -98,7 +98,7 @@
   </telecom>
   <description value="The status of the response to an order"/>
   <status value="draft"/>
-  <date value="2014-04-03T04:13:25.371-00:00"/>
+  <date value="2014-04-10T02:22:13.295-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/order-outcome-code"/>
     <caseSensitive value="true"/>

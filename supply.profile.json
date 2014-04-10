@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. A supply - a  request for something, and provision of what is supplied.",
   "status": "draft",
-  "date": "2014-04-03",
+  "date": "2014-04-10",
   "requirements": "Scope and Usage The scope of the supply resource is for supplies used in the healthcare process. This includes supplies specifically used in the treatment of patients as well as supply movement within an institution (transport a set of supplies from materials management to a service unit (nurse station). This resource does not include the provisioning of transportation services.",
   "mapping": [
     {
@@ -564,11 +564,6 @@
           "name": "_id",
           "type": "token",
           "documentation": "The logical resource id associated with the resource (must be supported by all servers)"
-        },
-        {
-          "name": "_language",
-          "type": "token",
-          "documentation": "The stated language of the resource"
         },
         {
           "name": "dispenseid",

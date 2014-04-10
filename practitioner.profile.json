@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. A person who is directly or indirectly involved in the provisioning of healthcare.",
   "status": "draft",
-  "date": "2014-04-03",
+  "date": "2014-04-10",
   "requirements": "Scope and Usage Practitioner covers all individuals who are engaged in the healthcare process and healthcare-related services as part of their formal responsibilities and this Resource is used for attribution of activities and responsibilities to these individuals. Practitioners include (but are not limited to): \r\n\r\n* physicians, dentists, pharmacists\r\n* physician assistants, nurses, scribes\r\n* midwives, dietitians, therapists, optometrists, paramedics\r\n* medical technicians, laboratory scientists, prosthetic technicians, radiographers\r\n* social workers, professional home carers, official volunteers\r\n* receptionists handling patient registration\r\n* IT personnel merging or unmerging patient records",
   "mapping": [
     {
@@ -704,11 +704,6 @@
           "name": "_id",
           "type": "token",
           "documentation": "The logical resource id associated with the resource (must be supported by all servers)"
-        },
-        {
-          "name": "_language",
-          "type": "token",
-          "documentation": "The stated language of the resource"
         },
         {
           "name": "address",

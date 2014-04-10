@@ -19,7 +19,7 @@
   ],
   "description": "High-level categorization of the type of activity in a care plan.",
   "status": "draft",
-  "date": "2014-04-03T04:13:25.373-00:00",
+  "date": "2014-04-10T02:22:13.299-00:00",
   "define": {
     "system": "http://hl7.org/fhir/care-plan-activity-category",
     "caseSensitive": true,

@@ -41,7 +41,7 @@
 		<div class="container"><!-- container -->
 			<a id="logo" href="http://hl7.org/fhir"><img src="./assets/images/fhir-logo-www.png" alt="logo fhir"/> </a>
 			<div id="hl7-status">
-				<b>Nightly</b>
+				<b>travis_build</b>
 			</div>       	
 			
 			<div id="hl7-nav">
@@ -125,7 +125,7 @@
   &quot;publisher&quot;: &quot;FHIR Project&quot;,
   &quot;description&quot;: &quot;Basic Profile. (informative) A container for slot(s) of time that may be available for booking appointments.&quot;,
   &quot;status&quot;: &quot;draft&quot;,
-  &quot;date&quot;: &quot;2014-04-03&quot;,
+  &quot;date&quot;: &quot;2014-04-10&quot;,
   &quot;requirements&quot;: &quot;Scope and Usage Availability resources provide a container for time-slots that can be booked using an appointment, It provides the window of time (period) that slots are defined for and what type of appointments can be booked. They do not provide any information about actual appointments. \r\n\r\nIn HL7 v2.7 (and the RIM) this resource is defined as a schedule (which in fhir is a simple recurrence): \r\n\r\nA schedule controls the dates and times available for the performance of a service and/or the use of a resource. One schedule applies to one service or resource, since each service or resource can be reserved independently of the others. (If two or more services, people, locations, or things cannot be reserved independently of one another, they are considered to be one activity or resource.) A schedule consists of slots of time during which the controlled service or resource is potentially available for performance or use. Slots are categorized as open, booked, or blocked. An open slot on a schedule indicates that the service or resource is available for performance or use during that period of time. A booked slot indicates that the service or resource is not available during the time period, because an appointment has been scheduled. A blocked slot indicates that a service or resource is unavailable for reasons other than a scheduled appointment. \r\n\r\nThe real-world, non-automated analog of the schedule described above is a standard appointment book. These books are generally organized with rows of time slots, during which a service or resource is available. \r\n\r\nA slot is one unit on a schedule. A slot represents the smallest unit of time or quantity that a service or resource may be booked. Depending on the nature of the service or resource, there may be more than one defined slot at a given instant of time. For example, if a service is an open group therapy session with twelve available seats, then there are twelve slots for the given block of time. \r\n\r\nIt is expected that servers could expose this information as an alternate representation using the iCalendar free/busy format, joining the information in slot resources that reference this availability resource.&quot;,
   &quot;mapping&quot;: [
     {
@@ -396,11 +396,6 @@
           &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
         },
         {
-          &quot;name&quot;: &quot;_language&quot;,
-          &quot;type&quot;: &quot;token&quot;,
-          &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-        },
-        {
           &quot;name&quot;: &quot;date&quot;,
           &quot;type&quot;: &quot;date&quot;,
           &quot;documentation&quot;: &quot;Search for availability resources that have a period that contains this date specified&quot;,
@@ -441,7 +436,7 @@
 		<div class="container"><!-- container -->
 			<div class="inner-wrapper">
 				<p>
-        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Thu, Apr 3, 2014 04:13+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
+        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Thu, Apr 10, 2014 02:22+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
         <br/>
         <span style="color: #FFFF77">
         Links: <a href="dstu.html">What's a DSTU?</a> | <a href="history.html">Version History</a> | <a href="license.html">License</a> | <a href="http://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemAdd&amp;tracker_id=677">Propose a change</a>

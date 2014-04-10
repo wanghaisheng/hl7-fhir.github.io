@@ -19,7 +19,7 @@
   ],
   "description": "One of the message events defined as part of FHIR",
   "status": "draft",
-  "date": "2014-04-03T04:13:25.377-00:00",
+  "date": "2014-04-10T02:22:13.310-00:00",
   "define": {
     "system": "http://hl7.org/fhir/message-events",
     "caseSensitive": true,

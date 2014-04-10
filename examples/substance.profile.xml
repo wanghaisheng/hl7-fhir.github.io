@@ -23,7 +23,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. A homogeneous material with a definite composition."/>
   <status value="draft"/>
-  <date value="2014-04-03"/>
+  <date value="2014-04-10"/>
   <requirements value="Scope and Usage This resource allows for a material to be represented. The resource can be used to represent either a kind of a substance - e.g. a formulation commonly used for treating patients, or it can be used to describe a particular package of a known substance (e.g. bottle, jar, packet). 
 
 The composition of the material can be specified in terms of a mix of other materials, including with precise amounts if required."/>
@@ -345,11 +345,6 @@ The composition of the material can be specified in terms of a mix of other mate
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
-    </searchParam>
-    <searchParam>
-      <name value="_language"/>
-      <type value="token"/>
-      <documentation value="The stated language of the resource"/>
     </searchParam>
     <searchParam>
       <name value="expiry"/>

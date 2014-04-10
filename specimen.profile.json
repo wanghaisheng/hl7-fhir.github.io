@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. Sample for analysis.",
   "status": "draft",
-  "date": "2014-04-03",
+  "date": "2014-04-10",
   "requirements": "Scope and Usage Any material sample:\r\n\r\n* taken from a biological entity, living or dead\r\n* taken from a physical object or the environment\r\nBiospecimen can contain one or more components including but not limited to cellular molecules, cells, tissues, organs, body fluids, embryos, and body excretory products (source: NCIt, modified). \r\n\r\nThe specimen resource covers substances used for diagnostic and environmental testing. The focus of the specimen resource is the process for gathering, maintaining and processing the specimen as well as where the specimen originated. This is distinct from the use of Substance which is only used when these other aspects are not relevant.",
   "mapping": [
     {
@@ -958,11 +958,6 @@
           "name": "_id",
           "type": "token",
           "documentation": "The logical resource id associated with the resource (must be supported by all servers)"
-        },
-        {
-          "name": "_language",
-          "type": "token",
-          "documentation": "The stated language of the resource"
         },
         {
           "name": "subject",

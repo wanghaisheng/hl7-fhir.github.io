@@ -41,7 +41,7 @@
 		<div class="container"><!-- container -->
 			<a id="logo" href="http://hl7.org/fhir"><img src="./assets/images/fhir-logo-www.png" alt="logo fhir"/> </a>
 			<div id="hl7-status">
-				<b>Nightly</b>
+				<b>travis_build</b>
 			</div>       	
 			
 			<div id="hl7-nav">
@@ -133,7 +133,7 @@
   ],
   &quot;description&quot;: &quot;This is the base conformance statement for FHIR. It represents a server that provides the full set of functionality defined by FHIR. It is provided to use as a template for system designers to build their own conformance statements from&quot;,
   &quot;status&quot;: &quot;draft&quot;,
-  &quot;date&quot;: &quot;2014-04-03T04:12:15.156-00:00&quot;,
+  &quot;date&quot;: &quot;2014-04-10T02:21:31.593-00:00&quot;,
   &quot;fhirVersion&quot;: &quot;0.80&quot;,
   &quot;acceptUnknown&quot;: false,
   &quot;format&quot;: [
@@ -199,12 +199,6 @@
               &quot;documentation&quot;: &quot;The subject that the sensitivity is about&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/AdverseReaction&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;date&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/AdverseReaction&quot;,
               &quot;type&quot;: &quot;date&quot;,
@@ -264,12 +258,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Alert&quot;,
               &quot;type&quot;: &quot;reference&quot;,
               &quot;documentation&quot;: &quot;The identity of a subject to list alerts for&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Alert&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             }
           ]
         },
@@ -337,12 +325,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/AllergyIntolerance&quot;,
               &quot;type&quot;: &quot;reference&quot;,
               &quot;documentation&quot;: &quot;The subject that the sensitivity is about&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/AllergyIntolerance&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;date&quot;,
@@ -418,12 +400,6 @@
               &quot;documentation&quot;: &quot;The overall status of the appointment&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Appointment&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;date&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Appointment&quot;,
               &quot;type&quot;: &quot;date&quot;,
@@ -485,12 +461,6 @@
               &quot;documentation&quot;: &quot;The subject that the appointment response replies for&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/AppointmentResponse&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;appointment&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/AppointmentResponse&quot;,
               &quot;type&quot;: &quot;reference&quot;,
@@ -544,12 +514,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Availability&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Availability&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;date&quot;,
@@ -643,12 +607,6 @@
               &quot;documentation&quot;: &quot;Who is involved&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/CarePlan&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;date&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/CarePlan&quot;,
               &quot;type&quot;: &quot;date&quot;,
@@ -734,12 +692,6 @@
               &quot;documentation&quot;: &quot;Categorization of Composition&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Composition&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;section-type&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Composition&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -801,37 +753,13 @@
           ],
           &quot;searchParam&quot;: [
             {
-              &quot;name&quot;: &quot;dependson&quot;,
+              &quot;name&quot;: &quot;product&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ConceptMap&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;Reference to element/field/valueset provides the context&quot;
             },
             {
-              &quot;name&quot;: &quot;status&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ConceptMap&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;Status of the concept map&quot;
-            },
-            {
-              &quot;name&quot;: &quot;date&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ConceptMap&quot;,
-              &quot;type&quot;: &quot;date&quot;,
-              &quot;documentation&quot;: &quot;The concept map publication date&quot;
-            },
-            {
-              &quot;name&quot;: &quot;version&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ConceptMap&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The version identifier of the concept map&quot;
-            },
-            {
-              &quot;name&quot;: &quot;publisher&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ConceptMap&quot;,
-              &quot;type&quot;: &quot;string&quot;,
-              &quot;documentation&quot;: &quot;Name of the publisher of the concept map&quot;
-            },
-            {
-              &quot;name&quot;: &quot;product&quot;,
+              &quot;name&quot;: &quot;dependson&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ConceptMap&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;Reference to element/field/valueset provides the context&quot;
@@ -843,16 +771,22 @@
               &quot;documentation&quot;: &quot;The system for any destination concepts mapped by this map&quot;
             },
             {
+              &quot;name&quot;: &quot;source&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ConceptMap&quot;,
+              &quot;type&quot;: &quot;reference&quot;,
+              &quot;documentation&quot;: &quot;The system for any concepts mapped by this concept map&quot;
+            },
+            {
               &quot;name&quot;: &quot;_id&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ConceptMap&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
             },
             {
-              &quot;name&quot;: &quot;source&quot;,
+              &quot;name&quot;: &quot;status&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ConceptMap&quot;,
-              &quot;type&quot;: &quot;reference&quot;,
-              &quot;documentation&quot;: &quot;The system for any concepts mapped by this concept map&quot;
+              &quot;type&quot;: &quot;token&quot;,
+              &quot;documentation&quot;: &quot;Status of the concept map&quot;
             },
             {
               &quot;name&quot;: &quot;description&quot;,
@@ -873,16 +807,28 @@
               &quot;documentation&quot;: &quot;Provides context to the mappings&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
+              &quot;name&quot;: &quot;date&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ConceptMap&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
+              &quot;type&quot;: &quot;date&quot;,
+              &quot;documentation&quot;: &quot;The concept map publication date&quot;
             },
             {
               &quot;name&quot;: &quot;identifier&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ConceptMap&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;The identifier of the concept map&quot;
+            },
+            {
+              &quot;name&quot;: &quot;publisher&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ConceptMap&quot;,
+              &quot;type&quot;: &quot;string&quot;,
+              &quot;documentation&quot;: &quot;Name of the publisher of the concept map&quot;
+            },
+            {
+              &quot;name&quot;: &quot;version&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ConceptMap&quot;,
+              &quot;type&quot;: &quot;token&quot;,
+              &quot;documentation&quot;: &quot;The version identifier of the concept map&quot;
             }
           ]
         },
@@ -928,16 +874,16 @@
               &quot;documentation&quot;: &quot;Person who asserts this condition&quot;
             },
             {
-              &quot;name&quot;: &quot;location&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Condition&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;Location - may include laterality&quot;
-            },
-            {
               &quot;name&quot;: &quot;status&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Condition&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;The status of the condition&quot;
+            },
+            {
+              &quot;name&quot;: &quot;location&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Condition&quot;,
+              &quot;type&quot;: &quot;token&quot;,
+              &quot;documentation&quot;: &quot;Location - may include laterality&quot;
             },
             {
               &quot;name&quot;: &quot;subject&quot;,
@@ -1010,12 +956,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Condition&quot;,
               &quot;type&quot;: &quot;reference&quot;,
               &quot;documentation&quot;: &quot;Relationship target resource&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Condition&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             }
           ]
         },
@@ -1115,16 +1055,16 @@
               &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
             },
             {
-              &quot;name&quot;: &quot;event&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Conformance&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;Event code in a conformance statement&quot;
-            },
-            {
               &quot;name&quot;: &quot;description&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Conformance&quot;,
               &quot;type&quot;: &quot;string&quot;,
               &quot;documentation&quot;: &quot;Text search in the description of the conformance statement&quot;
+            },
+            {
+              &quot;name&quot;: &quot;event&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Conformance&quot;,
+              &quot;type&quot;: &quot;token&quot;,
+              &quot;documentation&quot;: &quot;Event code in a conformance statement&quot;
             },
             {
               &quot;name&quot;: &quot;name&quot;,
@@ -1143,12 +1083,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Conformance&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;The version of FHIR&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Conformance&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;identifier&quot;,
@@ -1236,12 +1170,6 @@
               &quot;documentation&quot;: &quot;The manufacturer of the device&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Device&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;udi&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Device&quot;,
               &quot;type&quot;: &quot;string&quot;,
@@ -1319,12 +1247,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/DeviceObservationReport&quot;,
               &quot;type&quot;: &quot;reference&quot;,
               &quot;documentation&quot;: &quot;Subject of the measurement&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/DeviceObservationReport&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;code&quot;,
@@ -1460,12 +1382,6 @@
               &quot;documentation&quot;: &quot;A combination of past-status and date&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/DiagnosticOrder&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;event-date&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/DiagnosticOrder&quot;,
               &quot;type&quot;: &quot;date&quot;,
@@ -1599,12 +1515,6 @@
               &quot;documentation&quot;: &quot;Who was the source of the report (organization)&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/DiagnosticReport&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;identifier&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/DiagnosticReport&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -1702,12 +1612,6 @@
               &quot;documentation&quot;: &quot;The subject of the set of documents&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/DocumentManifest&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;type&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/DocumentManifest&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -1781,16 +1685,16 @@
               &quot;documentation&quot;: &quot;current | superceded | entered in error&quot;
             },
             {
-              &quot;name&quot;: &quot;relatesto&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/DocumentReference&quot;,
-              &quot;type&quot;: &quot;reference&quot;,
-              &quot;documentation&quot;: &quot;Target of the relationship&quot;
-            },
-            {
               &quot;name&quot;: &quot;subject&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/DocumentReference&quot;,
               &quot;type&quot;: &quot;reference&quot;,
               &quot;documentation&quot;: &quot;Who|what is the subject of the document&quot;
+            },
+            {
+              &quot;name&quot;: &quot;relatesto&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/DocumentReference&quot;,
+              &quot;type&quot;: &quot;reference&quot;,
+              &quot;documentation&quot;: &quot;Target of the relationship&quot;
             },
             {
               &quot;name&quot;: &quot;relation&quot;,
@@ -1889,12 +1793,6 @@
               &quot;documentation&quot;: &quot;Human-readable description (title)&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/DocumentReference&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;language&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/DocumentReference&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -1980,12 +1878,6 @@
               &quot;documentation&quot;: &quot;Length of encounter in days&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Encounter&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;date&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Encounter&quot;,
               &quot;type&quot;: &quot;date&quot;,
@@ -2051,12 +1943,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/FamilyHistory&quot;,
               &quot;type&quot;: &quot;reference&quot;,
               &quot;documentation&quot;: &quot;The identity of a subject to list family history items for&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/FamilyHistory&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             }
           ]
         },
@@ -2130,12 +2016,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Group&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;Group includes or excludes&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Group&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;code&quot;,
@@ -2239,12 +2119,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ImagingStudy&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;The study id for the image&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ImagingStudy&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;modality&quot;,
@@ -2386,12 +2260,6 @@
               &quot;documentation&quot;: &quot;The practitioner who administered the vaccination&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Immunization&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;refused&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Immunization&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -2495,12 +2363,6 @@
               &quot;documentation&quot;: &quot;Who this profile is for&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ImmunizationRecommendation&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;date&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ImmunizationRecommendation&quot;,
               &quot;type&quot;: &quot;date&quot;,
@@ -2572,12 +2434,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/List&quot;,
               &quot;type&quot;: &quot;reference&quot;,
               &quot;documentation&quot;: &quot;Actual entry&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/List&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;code&quot;,
@@ -2671,12 +2527,6 @@
               &quot;documentation&quot;: &quot;A (portion of the) name of the location&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Location&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;near-distance&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Location&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -2748,12 +2598,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Media&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;The type of acquisition equipment/process&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Media&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;view&quot;,
@@ -2865,12 +2709,6 @@
               &quot;documentation&quot;: &quot;The product contained&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Medication&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;code&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Medication&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -2962,12 +2800,6 @@
               &quot;documentation&quot;: &quot;Date of administration&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationAdministration&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;encounter&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationAdministration&quot;,
               &quot;type&quot;: &quot;reference&quot;,
@@ -3023,30 +2855,6 @@
               &quot;documentation&quot;: &quot;Returns dispenses of this medicine&quot;
             },
             {
-              &quot;name&quot;: &quot;prescription&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationDispense&quot;,
-              &quot;type&quot;: &quot;reference&quot;,
-              &quot;documentation&quot;: &quot;The identity of a prescription to list dispenses from&quot;
-            },
-            {
-              &quot;name&quot;: &quot;status&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationDispense&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;Status of the dispense&quot;
-            },
-            {
-              &quot;name&quot;: &quot;type&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationDispense&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;Return all dispenses of a specific type&quot;
-            },
-            {
-              &quot;name&quot;: &quot;destination&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationDispense&quot;,
-              &quot;type&quot;: &quot;reference&quot;,
-              &quot;documentation&quot;: &quot;Return dispenses that should be sent to a secific destination&quot;
-            },
-            {
               &quot;name&quot;: &quot;patient&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationDispense&quot;,
               &quot;type&quot;: &quot;reference&quot;,
@@ -3057,6 +2865,18 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationDispense&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
+            },
+            {
+              &quot;name&quot;: &quot;status&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationDispense&quot;,
+              &quot;type&quot;: &quot;token&quot;,
+              &quot;documentation&quot;: &quot;Status of the dispense&quot;
+            },
+            {
+              &quot;name&quot;: &quot;prescription&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationDispense&quot;,
+              &quot;type&quot;: &quot;reference&quot;,
+              &quot;documentation&quot;: &quot;The identity of a prescription to list dispenses from&quot;
             },
             {
               &quot;name&quot;: &quot;responsibleparty&quot;,
@@ -3071,10 +2891,10 @@
               &quot;documentation&quot;: &quot;Return all dispenses performed by a specific indiividual&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
+              &quot;name&quot;: &quot;type&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationDispense&quot;,
               &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
+              &quot;documentation&quot;: &quot;Return all dispenses of a specific type&quot;
             },
             {
               &quot;name&quot;: &quot;identifier&quot;,
@@ -3093,6 +2913,12 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationDispense&quot;,
               &quot;type&quot;: &quot;date&quot;,
               &quot;documentation&quot;: &quot;Date when medication handed over to patient (outpatient setting), or supplied to ward or clinic (inpatient setting)&quot;
+            },
+            {
+              &quot;name&quot;: &quot;destination&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationDispense&quot;,
+              &quot;type&quot;: &quot;reference&quot;,
+              &quot;documentation&quot;: &quot;Return dispenses that should be sent to a secific destination&quot;
             }
           ]
         },
@@ -3160,12 +2986,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationPrescription&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;Status of the prescription&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationPrescription&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;encounter&quot;,
@@ -3241,12 +3061,6 @@
               &quot;documentation&quot;: &quot;Return administrations with this administration device identity&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationStatement&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;when-given&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MedicationStatement&quot;,
               &quot;type&quot;: &quot;date&quot;,
@@ -3300,12 +3114,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MessageHeader&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/MessageHeader&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             }
           ]
         },
@@ -3349,12 +3157,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Namespace&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Namespace&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             }
           ]
         },
@@ -3478,12 +3280,6 @@
               &quot;documentation&quot;: &quot;Who and/or what performed the observation&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Observation&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;value-quantity&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Observation&quot;,
               &quot;type&quot;: &quot;quantity&quot;,
@@ -3537,12 +3333,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/OperationOutcome&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/OperationOutcome&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             }
           ]
         },
@@ -3624,12 +3414,6 @@
               &quot;documentation&quot;: &quot;Who is intended to fulfill the order&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Order&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;when_code&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Order&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -3695,12 +3479,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/OrderResponse&quot;,
               &quot;type&quot;: &quot;reference&quot;,
               &quot;documentation&quot;: &quot;The order that this is a response to&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/OrderResponse&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;code&quot;,
@@ -3788,12 +3566,6 @@
               &quot;documentation&quot;: &quot;Whether the organization's record is active&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Organization&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;type&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Organization&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -3859,12 +3631,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Other&quot;,
               &quot;type&quot;: &quot;reference&quot;,
               &quot;documentation&quot;: &quot;Identifies the&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Other&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;code&quot;,
@@ -3994,12 +3760,6 @@
               &quot;documentation&quot;: &quot;Gender of the patient&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Patient&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;language&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Patient&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -4103,12 +3863,6 @@
               &quot;documentation&quot;: &quot;Gender of the practitioner&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Practitioner&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;identifier&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Practitioner&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -4164,12 +3918,6 @@
               &quot;documentation&quot;: &quot;The identity of a patient to list procedures  for&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Procedure&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;date&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Procedure&quot;,
               &quot;type&quot;: &quot;date&quot;,
@@ -4219,10 +3967,40 @@
           ],
           &quot;searchParam&quot;: [
             {
+              &quot;name&quot;: &quot;extension&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
+              &quot;type&quot;: &quot;token&quot;,
+              &quot;documentation&quot;: &quot;An extension code (use or definition)&quot;
+            },
+            {
+              &quot;name&quot;: &quot;_id&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
+              &quot;type&quot;: &quot;token&quot;,
+              &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
+            },
+            {
+              &quot;name&quot;: &quot;valueset&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
+              &quot;type&quot;: &quot;reference&quot;,
+              &quot;documentation&quot;: &quot;A vocabulary binding code&quot;
+            },
+            {
               &quot;name&quot;: &quot;status&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;The current status of the profile&quot;
+            },
+            {
+              &quot;name&quot;: &quot;description&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
+              &quot;type&quot;: &quot;string&quot;,
+              &quot;documentation&quot;: &quot;Text search in the description of the profile&quot;
+            },
+            {
+              &quot;name&quot;: &quot;name&quot;,
+              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
+              &quot;type&quot;: &quot;string&quot;,
+              &quot;documentation&quot;: &quot;Name of the profile&quot;
             },
             {
               &quot;name&quot;: &quot;code&quot;,
@@ -4243,10 +4021,10 @@
               &quot;documentation&quot;: &quot;The profile publication date&quot;
             },
             {
-              &quot;name&quot;: &quot;version&quot;,
+              &quot;name&quot;: &quot;identifier&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
               &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The version identifier of the profile&quot;
+              &quot;documentation&quot;: &quot;The identifier of the profile&quot;
             },
             {
               &quot;name&quot;: &quot;publisher&quot;,
@@ -4255,46 +4033,10 @@
               &quot;documentation&quot;: &quot;Name of the publisher of the profile&quot;
             },
             {
-              &quot;name&quot;: &quot;extension&quot;,
+              &quot;name&quot;: &quot;version&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
               &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;An extension code (use or definition)&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_id&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
-            },
-            {
-              &quot;name&quot;: &quot;valueset&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
-              &quot;type&quot;: &quot;reference&quot;,
-              &quot;documentation&quot;: &quot;A vocabulary binding code&quot;
-            },
-            {
-              &quot;name&quot;: &quot;description&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
-              &quot;type&quot;: &quot;string&quot;,
-              &quot;documentation&quot;: &quot;Text search in the description of the profile&quot;
-            },
-            {
-              &quot;name&quot;: &quot;name&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
-              &quot;type&quot;: &quot;string&quot;,
-              &quot;documentation&quot;: &quot;Name of the profile&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
-              &quot;name&quot;: &quot;identifier&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Profile&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The identifier of the profile&quot;
+              &quot;documentation&quot;: &quot;The version identifier of the profile&quot;
             }
           ]
         },
@@ -4364,12 +4106,6 @@
               &quot;documentation&quot;: &quot;Target resource(s) (usually version specific)&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Provenance&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;party&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Provenance&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -4429,12 +4165,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Query&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Query&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;identifier&quot;,
@@ -4514,12 +4244,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Questionnaire&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;Name of the questionnaire&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Questionnaire&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;encounter&quot;,
@@ -4611,12 +4335,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/RelatedPerson&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;Gender of the person&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/RelatedPerson&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;identifier&quot;,
@@ -4746,12 +4464,6 @@
               &quot;documentation&quot;: &quot;Type of action performed during the event&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/SecurityEvent&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;object-type&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/SecurityEvent&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -4819,12 +4531,6 @@
               &quot;documentation&quot;: &quot;The type of appointments that can be booked into the slot&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Slot&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;fbtype&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Slot&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -4884,12 +4590,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Specimen&quot;,
               &quot;type&quot;: &quot;reference&quot;,
               &quot;documentation&quot;: &quot;The subject of the specimen&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Specimen&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             }
           ]
         },
@@ -4945,12 +4645,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Substance&quot;,
               &quot;type&quot;: &quot;number&quot;,
               &quot;documentation&quot;: &quot;Amount of substance in the package&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Substance&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;type&quot;,
@@ -5030,12 +4724,6 @@
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Supply&quot;,
               &quot;type&quot;: &quot;token&quot;,
               &quot;documentation&quot;: &quot;External identifier&quot;
-            },
-            {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/Supply&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
             },
             {
               &quot;name&quot;: &quot;identifier&quot;,
@@ -5129,12 +4817,6 @@
               &quot;documentation&quot;: &quot;The name of the value set&quot;
             },
             {
-              &quot;name&quot;: &quot;_language&quot;,
-              &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ValueSet&quot;,
-              &quot;type&quot;: &quot;token&quot;,
-              &quot;documentation&quot;: &quot;The stated language of the resource&quot;
-            },
-            {
               &quot;name&quot;: &quot;code&quot;,
               &quot;definition&quot;: &quot;http://hl7.org/fhir/profiles/ValueSet&quot;,
               &quot;type&quot;: &quot;token&quot;,
@@ -5206,7 +4888,7 @@
 		<div class="container"><!-- container -->
 			<div class="inner-wrapper">
 				<p>
-        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Thu, Apr 3, 2014 04:13+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
+        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Thu, Apr 10, 2014 02:22+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
         <br/>
         <span style="color: #FFFF77">
         Links: <a href="dstu.html">What's a DSTU?</a> | <a href="history.html">Version History</a> | <a href="license.html">License</a> | <a href="http://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemAdd&amp;tracker_id=677">Propose a change</a>

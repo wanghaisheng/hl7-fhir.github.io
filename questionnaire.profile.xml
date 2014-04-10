@@ -41,7 +41,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. A structured set of questions and their answers. The Questionnaire may contain questions, answers or both. The questions are ordered and grouped into coherent subsets, corresponding to the structure of the grouping of the underlying questions."/>
   <status value="draft"/>
-  <date value="2014-04-03"/>
+  <date value="2014-04-10"/>
   <requirements value="Scope and Usage The Questionnaire may be a single list of questions, or can be hierarchically organized in groups and sub-groups, each containing questions. Questions may contain and single answer, which can take the form of simple text, numbers, dates or a set of coded choices. 
 
 Questionnaires cover the need to communicate data originating from forms used in medical history examinations, research questionnaires and sometimes full clinical speciality records. In many systems this data is collected using user-defined screens and forms. Questionnaires record specifics about data capture - exactly what questions were asked, in what order, what choices for answers were, etc. Each of these questions are part of the Questionnaire, and as such the Questionnaire is a separately identifiable Resource, whereas the individual questions are not. 
@@ -701,11 +701,6 @@ or
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
-    </searchParam>
-    <searchParam>
-      <name value="_language"/>
-      <type value="token"/>
-      <documentation value="The stated language of the resource"/>
     </searchParam>
     <searchParam>
       <name value="author"/>

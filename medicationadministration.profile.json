@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. Describes the event of a patient being given a dose of a medication.  This may be as simple as swallowing a tablet or it may be a long running infusion.\n\nRelated resources tie this event to the authorizing prescription, and the specific encounter between patient and health care practitioner.",
   "status": "draft",
-  "date": "2014-04-03",
+  "date": "2014-04-10",
   "requirements": "Scope and Usage This resource covers the administration of all medications with the exception of vaccines. It will principally be used within inpatient settings to record the capture of medication administrations including self-administrations of oral medications, injections, intra-venous adjustments, etc. It can also be used in out-patient settings to record allergy shots and other non-immunization administrations. In some cases it might be used for home-health reporting, such as recording self-administered or even device-administered insulin.",
   "mapping": [
     {
@@ -749,11 +749,6 @@
           "name": "_id",
           "type": "token",
           "documentation": "The logical resource id associated with the resource (must be supported by all servers)"
-        },
-        {
-          "name": "_language",
-          "type": "token",
-          "documentation": "The stated language of the resource"
         },
         {
           "name": "device",
