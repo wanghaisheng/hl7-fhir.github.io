@@ -1,0 +1,45 @@
+{
+  "resourceType": "ValueSet",
+  "text": {
+    "status": "generated",
+    "div": "<div><h2>NamespaceCategory</h2><p>Identifies the general purpose of the namespace identifiers provided</p><p>This value set defines its own terms in the system http://hl7.org/fhir/namespace-category</p><table><tr><td><b>Code</b></td><td><b>Display</b></td><td><b>Definition</b></td></tr><tr><td>driver<a name=\"driver\"> </a></td><td/><td>Driver's license/operator's license.</td></tr><tr><td>provider<a name=\"provider\"> </a></td><td/><td>Provider license or registration id.</td></tr><tr><td>patient<a name=\"patient\"> </a></td><td/><td>Patient record numbers, jurisdictional patient ids, etc.</td></tr><tr><td>bank<a name=\"bank\"> </a></td><td/><td>Credit, debit and other bank card identifiers.</td></tr></table></div>"
+  },
+  "identifier": "http://hl7.org/fhir/vs/namespace-category",
+  "name": "NamespaceCategory",
+  "publisher": "HL7 (FHIR Project)",
+  "telecom": [
+    {
+      "system": "url",
+      "value": "http://hl7.org/fhir"
+    },
+    {
+      "system": "email",
+      "value": "fhir@lists.hl7.org"
+    }
+  ],
+  "description": "Identifies the general purpose of the namespace identifiers provided",
+  "status": "draft",
+  "date": "2014-04-03T04:13:25.373-00:00",
+  "define": {
+    "system": "http://hl7.org/fhir/namespace-category",
+    "caseSensitive": true,
+    "concept": [
+      {
+        "code": "driver",
+        "definition": "Driver's license/operator's license."
+      },
+      {
+        "code": "provider",
+        "definition": "Provider license or registration id."
+      },
+      {
+        "code": "patient",
+        "definition": "Patient record numbers, jurisdictional patient ids, etc."
+      },
+      {
+        "code": "bank",
+        "definition": "Credit, debit and other bank card identifiers."
+      }
+    ]
+  }
+}

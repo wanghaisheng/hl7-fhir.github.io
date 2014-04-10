@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Questionnaire xmlns="http://hl7.org/fhir">
+  <text>
+    <status value="generated"/>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <p>
+        <b>Generated Narrative with Details</b>
+      </p>
+      <p>
+        <b>status</b>: completed
+      </p>
+      <p>
+        <b>authored</b>: 18-Jun 2013 0:0
+      </p>
+      <p>
+        <b>subject</b>: 
+        <a href="patient-example-f201-roel.html">Roel. Generated Summary: BSN = 123456789 (official), BSN = 123456789 (official); Roel(official); 
+          <span title="Codes: {http://snomed.info/sct 248153007}, {http://hl7.org/fhir/v3/AdministrativeGender M}">Male</span>; birthDate: 13-Mar 1960; 
+          <span title="Codes: {http://snomed.info/sct 36629006}, {http://hl7.org/fhir/v3/MaritalStatus M}">Legally married</span>; 
+          <span title="Codes: {urn:std:iso:639-1 nl-NL}">Dutch</span>; active
+        </a>
+      </p>
+      <p>
+        <b>author</b>: 
+        <a href="practitioner-example-f201-ab.html">Generated Summary: UZI-nummer = 12345678901 (official); Dokter Bronsig(official); 
+          <span title="Codes: {http://snomed.info/sct 248153007}">Male</span>; birthDate: 24-Dec 1956; 
+          <span title="Codes: {http://snomed.info/sct 225304007}">Implementation of planned interventions</span>; 
+          <span title="Codes: {http://snomed.info/sct 310512001}">Medical oncologist</span>
+        </a>
+      </p>
+      <p>
+        <b>source</b>: 
+        <a href="practitioner-example-f201-ab.html">Generated Summary: UZI-nummer = 12345678901 (official); Dokter Bronsig(official); 
+          <span title="Codes: {http://snomed.info/sct 248153007}">Male</span>; birthDate: 24-Dec 1956; 
+          <span title="Codes: {http://snomed.info/sct 225304007}">Implementation of planned interventions</span>; 
+          <span title="Codes: {http://snomed.info/sct 310512001}">Medical oncologist</span>
+        </a>
+      </p>
+      <p>
+        <b>name</b>: Lifelines Questionnaire 1 part 1 
+        <span style="background: LightGoldenRodYellow ">(Details : {https://lifelines.nl code &#39;VL 1-1, 18-65_1.2.2&#39; = &#39;VL 1-1, 18-65_1.2.2&#39;, given as &#39;Lifelines Questionnaire 1 part 1&#39;})</span>
+      </p>
+      <p>
+        <b>identifier</b>: Roel&#39;s VL 1-1, 18-65_1.2.2 = ?? (temp)
+      </p>
+      <blockquote>
+        <p>
+          <b>group</b>
+        </p>
+        <blockquote>
+          <p>
+            <b>group</b>
+          </p>
+        </blockquote>
+      </blockquote>
+      <p>
+        <b style="color: maroon">Exception generating Narrative: null</b>
+      </p>
+    </div>
+  </text>
+  <status value="completed"/>
+  <authored value="2013-06-18T00:00:00+01:00"/>
+  <subject>
+    <reference value="Patient/f201"/>
+    <display value="Roel"/>
+  </subject>
+  <author>
+    <reference value="Practitioner/f201"/>
+  </author>
+  <source>
+    <reference value="Practitioner/f201"/>
+  </source>
+  <name>
+    <coding>
+      <system value="https://lifelines.nl"/>
+      <code value="VL 1-1, 18-65_1.2.2"/>
+      <display value="Lifelines Questionnaire 1 part 1"/>
+    </coding>
+  </name>
+  <identifier>
+    <use value="temp"/>
+    <label value="Roel&#39;s VL 1-1, 18-65_1.2.2"/>
+  </identifier>
+  <group>
+    <group>
+      <question>
+        <text value="Do you have allergies?"/>
+        <answerString value="I am allergic to house dust"/>
+      </question>
+    </group>
+    <group>
+      <header value="General questions"/>
+      <question>
+        <text value="What is your gender?"/>
+        <answerString value="Male"/>
+      </question>
+      <question>
+        <name>
+          <text value="What is your date of birth?"/>
+        </name>
+        <answerDate value="1960-03-13"/>
+      </question>
+      <question>
+        <name>
+          <text value="What is your country of birth?"/>
+        </name>
+        <answerString value="The Netherlands"/>
+      </question>
+      <question>
+        <name>
+          <text value="What is your marital status?"/>
+        </name>
+        <answerString value="married"/>
+      </question>
+    </group>
+    <group>
+      <header value="Intoxications"/>
+      <question>
+        <text value="Do you smoke?"/>
+        <answerString value="No"/>
+      </question>
+      <question>
+        <text value="Do you drink alchohol?"/>
+        <answerString value="No, but I used to drink"/>
+      </question>
+    </group>
+  </group>
+</Questionnaire>

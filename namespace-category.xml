@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValueSet xmlns="http://hl7.org/fhir">
+  <text>
+    <status value="generated"/>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <h2>NamespaceCategory</h2>
+      <p>Identifies the general purpose of the namespace identifiers provided</p>
+      <p>This value set defines its own terms in the system http://hl7.org/fhir/namespace-category</p>
+      <table>
+        <tr>
+          <td>
+            <b>Code</b>
+          </td>
+          <td>
+            <b>Display</b>
+          </td>
+          <td>
+            <b>Definition</b>
+          </td>
+        </tr>
+        <tr>
+          <td>driver
+            <a name="driver"> </a>
+          </td>
+          <td/>
+          <td>Driver&#39;s license/operator&#39;s license.</td>
+        </tr>
+        <tr>
+          <td>provider
+            <a name="provider"> </a>
+          </td>
+          <td/>
+          <td>Provider license or registration id.</td>
+        </tr>
+        <tr>
+          <td>patient
+            <a name="patient"> </a>
+          </td>
+          <td/>
+          <td>Patient record numbers, jurisdictional patient ids, etc.</td>
+        </tr>
+        <tr>
+          <td>bank
+            <a name="bank"> </a>
+          </td>
+          <td/>
+          <td>Credit, debit and other bank card identifiers.</td>
+        </tr>
+      </table>
+    </div>
+  </text>
+  <identifier value="http://hl7.org/fhir/vs/namespace-category"/>
+  <name value="NamespaceCategory"/>
+  <publisher value="HL7 (FHIR Project)"/>
+  <telecom>
+    <system value="url"/>
+    <value value="http://hl7.org/fhir"/>
+  </telecom>
+  <telecom>
+    <system value="email"/>
+    <value value="fhir@lists.hl7.org"/>
+  </telecom>
+  <description value="Identifies the general purpose of the namespace identifiers provided"/>
+  <status value="draft"/>
+  <date value="2014-04-03T04:13:25.373-00:00"/>
+  <define>
+    <system value="http://hl7.org/fhir/namespace-category"/>
+    <caseSensitive value="true"/>
+    <concept>
+      <code value="driver"/>
+      <definition value="Driver&#39;s license/operator&#39;s license."/>
+    </concept>
+    <concept>
+      <code value="provider"/>
+      <definition value="Provider license or registration id."/>
+    </concept>
+    <concept>
+      <code value="patient"/>
+      <definition value="Patient record numbers, jurisdictional patient ids, etc."/>
+    </concept>
+    <concept>
+      <code value="bank"/>
+      <definition value="Credit, debit and other bank card identifiers."/>
+    </concept>
+  </define>
+</ValueSet>
