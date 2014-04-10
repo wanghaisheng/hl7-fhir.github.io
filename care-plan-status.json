@@ -19,7 +19,7 @@
   ],
   "description": "Indicates whether the plan is currently being acted upon, represents future intentions or is now just historical record.",
   "status": "draft",
-  "date": "2014-04-10T02:22:13.303-00:00",
+  "date": "2014-04-10T06:00:30.272-00:00",
   "define": {
     "system": "http://hl7.org/fhir/care-plan-status",
     "caseSensitive": true,

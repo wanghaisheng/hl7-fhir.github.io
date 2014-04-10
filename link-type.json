@@ -19,7 +19,7 @@
   ],
   "description": "The type of link between this patient resource and another patient resource.",
   "status": "draft",
-  "date": "2014-04-10T02:22:13.311-00:00",
+  "date": "2014-04-10T06:00:30.281-00:00",
   "define": {
     "system": "http://hl7.org/fhir/link-type",
     "caseSensitive": true,

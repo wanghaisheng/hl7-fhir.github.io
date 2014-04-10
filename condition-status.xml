@@ -63,7 +63,7 @@
   </telecom>
   <description value="The clinical status of the Condition or diagnosis"/>
   <status value="draft"/>
-  <date value="2014-04-10T02:22:13.310-00:00"/>
+  <date value="2014-04-10T06:00:30.280-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/condition-status"/>
     <caseSensitive value="true"/>

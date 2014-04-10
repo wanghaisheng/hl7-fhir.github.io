@@ -19,7 +19,7 @@
   ],
   "description": "Status of the supply",
   "status": "draft",
-  "date": "2014-04-10T02:22:13.295-00:00",
+  "date": "2014-04-10T06:00:30.265-00:00",
   "define": {
     "system": "http://hl7.org/fhir/valueset-supply-status",
     "caseSensitive": true,

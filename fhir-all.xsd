@@ -26,7 +26,7 @@ Copyright (c) 2011-2012, HL7, Inc
  ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
  POSSIBILITY OF SUCH DAMAGE.
 
- Generated on Thu, Apr 10, 2014 02:21+0000 for FHIR v0.80
+ Generated on Thu, Apr 10, 2014 05:59+0000 for FHIR v0.80
 -->
 <xs:schema xmlns="http://hl7.org/fhir" xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://hl7.org/fhir" elementFormDefault="qualified" version="0.80">
   <xs:include schemaLocation="adversereaction.xsd"/>

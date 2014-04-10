@@ -63,7 +63,7 @@
   </telecom>
   <description value="The way in which a person authenticated a composition"/>
   <status value="draft"/>
-  <date value="2014-04-10T02:22:13.302-00:00"/>
+  <date value="2014-04-10T06:00:30.272-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/composition-attestation-mode"/>
     <caseSensitive value="true"/>

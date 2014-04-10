@@ -63,7 +63,7 @@
   </telecom>
   <description value="The free/busy status of an appointment"/>
   <status value="draft"/>
-  <date value="2014-04-10T02:22:13.294-00:00"/>
+  <date value="2014-04-10T06:00:30.264-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/appointmentstatus"/>
     <caseSensitive value="true"/>

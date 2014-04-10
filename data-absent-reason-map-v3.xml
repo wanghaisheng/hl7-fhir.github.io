@@ -9,7 +9,7 @@
         <a href="data-absent-reason.html">http://hl7.org/fhir/vs/data-absent-reason</a> to 
         <a href="v3/NullFlavor/index.html">http://hl7.org/fhir/v3/vs/NullFlavor</a>
       </p>
-      <p>Draft. Published on 10-Apr 2014 2:22 by HL7 (FHIR Project) (
+      <p>Draft. Published on 10-Apr 2014 6:0 by HL7 (FHIR Project) (
         <a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, 
         <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). 
       </p>
@@ -78,7 +78,7 @@
   </telecom>
   <description value="v3 Map (NullFlavor)"/>
   <status value="draft"/>
-  <date value="2014-04-10T02:22:13.992-00:00"/>
+  <date value="2014-04-10T06:00:30.865-00:00"/>
   <source>
     <reference value="http://hl7.org/fhir/vs/data-absent-reason"/>
   </source>

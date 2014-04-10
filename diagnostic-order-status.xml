@@ -98,7 +98,7 @@
   </telecom>
   <description value="The status of a diagnostic order"/>
   <status value="draft"/>
-  <date value="2014-04-10T02:22:13.300-00:00"/>
+  <date value="2014-04-10T06:00:30.269-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/diagnostic-order-status"/>
     <caseSensitive value="true"/>
