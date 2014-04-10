@@ -20,12 +20,12 @@
           </td>
           <td>
             <b>
-              <a href="v2/0200/index.html">v2 Map (0200)</a>
+              <a href="v3/EntityNameUseR2/index.html">v3 Map (EntityNameUseR2)</a>
             </b>
           </td>
           <td>
             <b>
-              <a href="v3/EntityNameUseR2/index.html">v3 Map (EntityNameUseR2)</a>
+              <a href="v2/0200/index.html">v2 Map (0200)</a>
             </b>
           </td>
         </tr>
@@ -36,12 +36,12 @@
           <td/>
           <td>Known as/conventional/the one you normally use.</td>
           <td>
-            <span title="equivalent">~</span>
-            <a href="v2/0200/index.html#D">D</a>
-          </td>
-          <td>
             <span title="equal">=</span>
             <a href="v3/EntityNameUseR2/index.html#C">C</a>
+          </td>
+          <td>
+            <span title="equivalent">~</span>
+            <a href="v2/0200/index.html#D">D</a>
           </td>
         </tr>
         <tr>
@@ -51,12 +51,12 @@
           <td/>
           <td>The formal name as registered in an official (government) registry, but which name might not be commonly used. May be called &quot;legal name&quot;.</td>
           <td>
-            <span title="equivalent">~</span>
-            <a href="v2/0200/index.html#L">L</a>
-          </td>
-          <td>
             <span title="equal">=</span>
             <a href="v3/EntityNameUseR2/index.html#OR">OR</a>
+          </td>
+          <td>
+            <span title="equivalent">~</span>
+            <a href="v2/0200/index.html#L">L</a>
           </td>
         </tr>
         <tr>
@@ -66,12 +66,12 @@
           <td/>
           <td>A temporary name. Name.period can provide more detailed information. This may also be used for temporary names assigned at birth or in emergency situations.</td>
           <td>
-            <span title="equivalent">~</span>
-            <a href="v2/0200/index.html#TEMP">TEMP</a>
-          </td>
-          <td>
             <span title="equal">=</span>
             <a href="v3/EntityNameUseR2/index.html#T">T</a>
+          </td>
+          <td>
+            <span title="equivalent">~</span>
+            <a href="v2/0200/index.html#TEMP">TEMP</a>
           </td>
         </tr>
         <tr>
@@ -82,11 +82,11 @@
           <td>A name that is used to address the person in an informal manner, but is not part of their formal or usual name.</td>
           <td>
             <span title="equivalent">~</span>
-            <a href="v2/0200/index.html#N">N</a>
+            <a href="v3/EntityNameUseR2/index.html#P">P</a>
           </td>
           <td>
             <span title="equivalent">~</span>
-            <a href="v3/EntityNameUseR2/index.html#P">P</a>
+            <a href="v2/0200/index.html#N">N</a>
           </td>
         </tr>
         <tr>
@@ -97,11 +97,11 @@
           <td>Anonymous assigned name, alias, or pseudonym (used to protect a person&#39;s identity for privacy reasons).</td>
           <td>
             <span title="equivalent">~</span>
-            <a href="v2/0200/index.html#S">S</a>
+            <a href="v3/EntityNameUseR2/index.html#ANON">ANON</a>
           </td>
           <td>
             <span title="equivalent">~</span>
-            <a href="v3/EntityNameUseR2/index.html#ANON">ANON</a>
+            <a href="v2/0200/index.html#S">S</a>
           </td>
         </tr>
         <tr>
@@ -111,15 +111,15 @@
           <td/>
           <td>This name is no longer in use (or was never correct, but retained for records).</td>
           <td>
+            <span title="equivalent">~</span>
+            <a href="v3/EntityNameUseR2/index.html#OLD">OLD</a>
+          </td>
+          <td>
             <span title="narrower">&gt;</span>
             <a href="v2/0200/index.html#NOUSE">NOUSE</a>
             <br/>
             <span title="narrower">&gt;</span>
             <a href="v2/0200/index.html#BAD">BAD</a>
-          </td>
-          <td>
-            <span title="equivalent">~</span>
-            <a href="v3/EntityNameUseR2/index.html#OLD">OLD</a>
           </td>
         </tr>
         <tr>
@@ -129,12 +129,12 @@
           <td/>
           <td>A name used prior to marriage. Marriage naming customs vary greatly around the world. This name use is for use by applications that collect and store &quot;maiden&quot; names. Though the concept of maiden name is often gender specific, the use of this term is not gender specific. The use of this term does not imply any particular history for a person&#39;s name, nor should the maiden name be determined algorithmically.</td>
           <td>
-            <span title="equivalent">~</span>
-            <a href="v2/0200/index.html#M">M</a>
-          </td>
-          <td>
             <span title="equal">=</span>
             <a href="v3/EntityNameUseR2/index.html#M">M</a>
+          </td>
+          <td>
+            <span title="equivalent">~</span>
+            <a href="v2/0200/index.html#M">M</a>
           </td>
         </tr>
       </table>
@@ -153,7 +153,7 @@
   </telecom>
   <description value="The use of a human name"/>
   <status value="draft"/>
-  <date value="2014-04-10T06:19:25.511-00:00"/>
+  <date value="2014-04-10T08:35:03.572-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/name-use"/>
     <caseSensitive value="true"/>

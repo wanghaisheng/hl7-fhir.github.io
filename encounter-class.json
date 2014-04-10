@@ -19,7 +19,7 @@
   ],
   "description": "Classification of the encounter",
   "status": "draft",
-  "date": "2014-04-10T06:19:25.511-00:00",
+  "date": "2014-04-10T08:35:03.572-00:00",
   "define": {
     "system": "http://hl7.org/fhir/encounter-class",
     "caseSensitive": true,

@@ -75,7 +75,7 @@
 
 Describes the lifecycle of the dispense."/>
   <status value="draft"/>
-  <date value="2014-04-10T06:19:25.501-00:00"/>
+  <date value="2014-04-10T08:35:03.562-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/medication-dispense-status"/>
     <caseSensitive value="true"/>

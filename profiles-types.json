@@ -9,7 +9,7 @@
         "href": "http://hl7.org/implement/standards/fhir/profiles-types.xml"
       }
     ],
-    "updated": "2014-04-10T06:19:09.296-00:00",
+    "updated": "2014-04-10T08:34:48.592-00:00",
     "entry": [
       {
         "title": "\"period\" as a profile (to help derivation)",
@@ -20,8 +20,8 @@
             "href": "http://hl7.org/implement/standards/fhir/period.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -197,8 +197,8 @@
             "href": "http://hl7.org/implement/standards/fhir/coding.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -475,8 +475,8 @@
             "href": "http://hl7.org/implement/standards/fhir/range.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -659,8 +659,8 @@
             "href": "http://hl7.org/implement/standards/fhir/quantity.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -921,8 +921,8 @@
             "href": "http://hl7.org/implement/standards/fhir/attachment.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -1212,8 +1212,8 @@
             "href": "http://hl7.org/implement/standards/fhir/ratio.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -1378,8 +1378,8 @@
             "href": "http://hl7.org/implement/standards/fhir/sampleddata.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -1643,8 +1643,8 @@
             "href": "http://hl7.org/implement/standards/fhir/resourcereference.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -1802,8 +1802,8 @@
             "href": "http://hl7.org/implement/standards/fhir/codeableconcept.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -1979,8 +1979,8 @@
             "href": "http://hl7.org/implement/standards/fhir/identifier.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -2282,8 +2282,8 @@
             "href": "http://hl7.org/implement/standards/fhir/extension.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -2434,8 +2434,8 @@
             "href": "http://hl7.org/implement/standards/fhir/narrative.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -2611,8 +2611,8 @@
             "href": "http://hl7.org/implement/standards/fhir/schedule.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -2985,8 +2985,8 @@
             "href": "http://hl7.org/implement/standards/fhir/contact.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -3254,8 +3254,8 @@
             "href": "http://hl7.org/implement/standards/fhir/address.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -3644,8 +3644,8 @@
             "href": "http://hl7.org/implement/standards/fhir/humanname.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -3977,8 +3977,8 @@
             "href": "http://hl7.org/implement/standards/fhir/age.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -4240,8 +4240,8 @@
             "href": "http://hl7.org/implement/standards/fhir/count.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -4503,8 +4503,8 @@
             "href": "http://hl7.org/implement/standards/fhir/money.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -4766,8 +4766,8 @@
             "href": "http://hl7.org/implement/standards/fhir/distance.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -5029,8 +5029,8 @@
             "href": "http://hl7.org/implement/standards/fhir/duration.profile.xml"
           }
         ],
-        "updated": "2014-04-10T06:18:34.624-00:00",
-        "published": "2014-04-10T06:18:34.624-00:00",
+        "updated": "2014-04-10T08:34:09.027-00:00",
+        "published": "2014-04-10T08:34:09.027-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
