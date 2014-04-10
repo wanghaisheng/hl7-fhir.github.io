@@ -19,7 +19,7 @@
   ],
   "description": "Whether the medication is a product or a package",
   "status": "draft",
-  "date": "2014-04-10T06:00:30.274-00:00",
+  "date": "2014-04-10T06:19:25.517-00:00",
   "define": {
     "system": "http://hl7.org/fhir/medication-kind",
     "caseSensitive": true,

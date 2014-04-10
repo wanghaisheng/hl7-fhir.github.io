@@ -56,7 +56,7 @@
   </telecom>
   <description value="The status of this conformance statement"/>
   <status value="draft"/>
-  <date value="2014-04-10T06:00:30.281-00:00"/>
+  <date value="2014-04-10T06:19:25.524-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/conformance-statement-status"/>
     <caseSensitive value="true"/>

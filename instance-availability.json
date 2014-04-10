@@ -20,7 +20,7 @@
   "description": "Availability of the resource",
   "copyright": "These codes are excerpted from Digital Imaging and Communications in Medicine (DICOM) Standard, Part 16: Content Mapping Resource, Copyright 2011 by the National Electrical Manufacturers Association",
   "status": "draft",
-  "date": "2014-04-10T06:00:30.266-00:00",
+  "date": "2014-04-10T06:19:25.508-00:00",
   "compose": {
     "include": [
       {

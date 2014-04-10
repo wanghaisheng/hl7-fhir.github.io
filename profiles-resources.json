@@ -9,7 +9,7 @@
         "href": "http://hl7.org/implement/standards/fhir/profiles-resources.xml"
       }
     ],
-    "updated": "2014-04-10T06:00:17.831-00:00",
+    "updated": "2014-04-10T06:19:09.296-00:00",
     "entry": [
       {
         "title": "\"conformance-base\" - to help with system development",
@@ -20,8 +20,8 @@
             "href": "http://hl7.org/implement/standards/fhir/conformance/conformance-base"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -46,7 +46,7 @@
           ],
           "description": "This is the base conformance statement for FHIR. It represents a server that provides the full set of functionality defined by FHIR. It is provided to use as a template for system designers to build their own conformance statements from",
           "status": "draft",
-          "date": "2014-04-10T05:59:50.698-00:00",
+          "date": "2014-04-10T06:18:34.624-00:00",
           "fhirVersion": "0.80",
           "acceptUnknown": false,
           "format": [
@@ -4793,8 +4793,8 @@
             "href": "http://hl7.org/implement/standards/fhir/conformance/conformance-base2"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -4819,7 +4819,7 @@
           ],
           "description": "This is the base conformance statement for FHIR. It represents a server that provides the none of the functionality defined by FHIR. It is provided to use as a template for system designers to build their own conformance statements from. A conformance profile has to contain something, so this contains a read of a Conformance Statement",
           "status": "draft",
-          "date": "2014-04-10T05:59:50.698-00:00",
+          "date": "2014-04-10T06:18:34.624-00:00",
           "fhirVersion": "0.80",
           "acceptUnknown": false,
           "format": [
@@ -4854,8 +4854,8 @@
             "href": "http://hl7.org/implement/standards/fhir/valueset.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -6087,8 +6087,8 @@
             "href": "http://hl7.org/implement/standards/fhir/conformance/conformance-base"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -6113,7 +6113,7 @@
           ],
           "description": "This is the base conformance statement for FHIR. It represents a server that provides the full set of functionality defined by FHIR. It is provided to use as a template for system designers to build their own conformance statements from",
           "status": "draft",
-          "date": "2014-04-10T05:59:50.698-00:00",
+          "date": "2014-04-10T06:18:34.624-00:00",
           "fhirVersion": "0.80",
           "acceptUnknown": false,
           "format": [
@@ -10860,8 +10860,8 @@
             "href": "http://hl7.org/implement/standards/fhir/conformance/conformance-base2"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -10886,7 +10886,7 @@
           ],
           "description": "This is the base conformance statement for FHIR. It represents a server that provides the none of the functionality defined by FHIR. It is provided to use as a template for system designers to build their own conformance statements from. A conformance profile has to contain something, so this contains a read of a Conformance Statement",
           "status": "draft",
-          "date": "2014-04-10T05:59:50.698-00:00",
+          "date": "2014-04-10T06:18:34.624-00:00",
           "fhirVersion": "0.80",
           "acceptUnknown": false,
           "format": [
@@ -10921,8 +10921,8 @@
             "href": "http://hl7.org/implement/standards/fhir/adversereaction.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -11526,8 +11526,8 @@
             "href": "http://hl7.org/implement/standards/fhir/alert.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -11835,8 +11835,8 @@
             "href": "http://hl7.org/implement/standards/fhir/allergyintolerance.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -12312,8 +12312,8 @@
             "href": "http://hl7.org/implement/standards/fhir/appointment.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -12946,8 +12946,8 @@
             "href": "http://hl7.org/implement/standards/fhir/appointmentresponse.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -13366,8 +13366,8 @@
             "href": "http://hl7.org/implement/standards/fhir/availability.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -13687,8 +13687,8 @@
             "href": "http://hl7.org/implement/standards/fhir/careplan.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -14933,8 +14933,8 @@
             "href": "http://hl7.org/implement/standards/fhir/composition.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -16024,8 +16024,8 @@
             "href": "http://hl7.org/implement/standards/fhir/conceptmap.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -16813,8 +16813,8 @@
             "href": "http://hl7.org/implement/standards/fhir/condition.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -17941,8 +17941,8 @@
             "href": "http://hl7.org/implement/standards/fhir/conformance.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -19987,8 +19987,8 @@
             "href": "http://hl7.org/implement/standards/fhir/device.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -20481,8 +20481,8 @@
             "href": "http://hl7.org/implement/standards/fhir/deviceobservationreport.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -21009,8 +21009,8 @@
             "href": "http://hl7.org/implement/standards/fhir/diagnosticorder.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -21827,8 +21827,8 @@
             "href": "http://hl7.org/implement/standards/fhir/diagnosticreport.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -22606,8 +22606,8 @@
             "href": "http://hl7.org/implement/standards/fhir/documentmanifest.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -23189,8 +23189,8 @@
             "href": "http://hl7.org/implement/standards/fhir/documentreference.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -24549,8 +24549,8 @@
             "href": "http://hl7.org/implement/standards/fhir/encounter.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -25821,8 +25821,8 @@
             "href": "http://hl7.org/implement/standards/fhir/familyhistory.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -26398,8 +26398,8 @@
             "href": "http://hl7.org/implement/standards/fhir/group.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -26956,8 +26956,8 @@
             "href": "http://hl7.org/implement/standards/fhir/imagingstudy.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -28136,8 +28136,8 @@
             "href": "http://hl7.org/implement/standards/fhir/immunization.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -29348,8 +29348,8 @@
             "href": "http://hl7.org/implement/standards/fhir/immunizationrecommendation.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -30127,8 +30127,8 @@
             "href": "http://hl7.org/implement/standards/fhir/list.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -30714,8 +30714,8 @@
             "href": "http://hl7.org/implement/standards/fhir/location.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -31307,8 +31307,8 @@
             "href": "http://hl7.org/implement/standards/fhir/media.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -31899,8 +31899,8 @@
             "href": "http://hl7.org/implement/standards/fhir/medication.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -32628,8 +32628,8 @@
             "href": "http://hl7.org/implement/standards/fhir/medicationadministration.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -33457,8 +33457,8 @@
             "href": "http://hl7.org/implement/standards/fhir/medicationdispense.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -34583,8 +34583,8 @@
             "href": "http://hl7.org/implement/standards/fhir/medicationprescription.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -35644,8 +35644,8 @@
             "href": "http://hl7.org/implement/standards/fhir/medicationstatement.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -36323,8 +36323,8 @@
             "href": "http://hl7.org/implement/standards/fhir/messageheader.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -37206,8 +37206,8 @@
             "href": "http://hl7.org/implement/standards/fhir/namespace.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -37747,8 +37747,8 @@
             "href": "http://hl7.org/implement/standards/fhir/observation.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -38769,8 +38769,8 @@
             "href": "http://hl7.org/implement/standards/fhir/operationoutcome.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -39115,8 +39115,8 @@
             "href": "http://hl7.org/implement/standards/fhir/order.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -39655,8 +39655,8 @@
             "href": "http://hl7.org/implement/standards/fhir/orderresponse.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -40070,8 +40070,8 @@
             "href": "http://hl7.org/implement/standards/fhir/organization.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -40746,8 +40746,8 @@
             "href": "http://hl7.org/implement/standards/fhir/other.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -41048,8 +41048,8 @@
             "href": "http://hl7.org/implement/standards/fhir/patient.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -42192,8 +42192,8 @@
             "href": "http://hl7.org/implement/standards/fhir/practitioner.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -42976,8 +42976,8 @@
             "href": "http://hl7.org/implement/standards/fhir/procedure.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -43684,8 +43684,8 @@
             "href": "http://hl7.org/implement/standards/fhir/profile.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -45833,8 +45833,8 @@
             "href": "http://hl7.org/implement/standards/fhir/provenance.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -46548,8 +46548,8 @@
             "href": "http://hl7.org/implement/standards/fhir/query.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -47017,8 +47017,8 @@
             "href": "http://hl7.org/implement/standards/fhir/questionnaire.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -47870,8 +47870,8 @@
             "href": "http://hl7.org/implement/standards/fhir/relatedperson.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -48294,8 +48294,8 @@
             "href": "http://hl7.org/implement/standards/fhir/securityevent.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -49778,8 +49778,8 @@
             "href": "http://hl7.org/implement/standards/fhir/slot.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -50134,8 +50134,8 @@
             "href": "http://hl7.org/implement/standards/fhir/specimen.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -51124,8 +51124,8 @@
             "href": "http://hl7.org/implement/standards/fhir/substance.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",
@@ -51582,8 +51582,8 @@
             "href": "http://hl7.org/implement/standards/fhir/supply.profile.xml"
           }
         ],
-        "updated": "2014-04-10T05:59:50.698-00:00",
-        "published": "2014-04-10T05:59:50.698-00:00",
+        "updated": "2014-04-10T06:18:34.624-00:00",
+        "published": "2014-04-10T06:18:34.624-00:00",
         "author": [
           {
             "name": "HL7, Inc (FHIR Project)",

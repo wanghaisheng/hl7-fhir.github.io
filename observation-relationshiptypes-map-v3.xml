@@ -9,7 +9,7 @@
         <a href="observation-relationshiptypes.html">http://hl7.org/fhir/vs/observation-relationshiptypes</a> to 
         <a href="v3/ActRelationshipType/index.html">http://hl7.org/fhir/v3/vs/ActRelationshipType</a>
       </p>
-      <p>Draft. Published on 10-Apr 2014 6:0 by HL7 (FHIR Project) (
+      <p>Draft. Published on 10-Apr 2014 6:19 by HL7 (FHIR Project) (
         <a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, 
         <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). 
       </p>
@@ -78,7 +78,7 @@
   </telecom>
   <description value="v3 Map (ActRrelationshipType)"/>
   <status value="draft"/>
-  <date value="2014-04-10T06:00:32.205-00:00"/>
+  <date value="2014-04-10T06:19:28.097-00:00"/>
   <source>
     <reference value="http://hl7.org/fhir/vs/observation-relationshiptypes"/>
   </source>

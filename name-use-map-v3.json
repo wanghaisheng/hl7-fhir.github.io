@@ -2,7 +2,7 @@
   "resourceType": "ConceptMap",
   "text": {
     "status": "generated",
-    "div": "<div><h2>v3 map for NameUse (http://hl7.org/fhir/cm/v3/name-use)</h2><p>Mapping from <a href=\"name-use.html\">http://hl7.org/fhir/vs/name-use</a> to <a href=\"v3/EntityNameUseR2/index.html\">http://hl7.org/fhir/v3/vs/EntityNameUseR2</a></p><p>Draft. Published on 10-Apr 2014 6:0 by HL7 (FHIR Project) (<a href=\"http://hl7.org/fhir\">http://hl7.org/fhir</a>, <a href=\"mailto:fhir@lists.hl7.org\">fhir@lists.hl7.org</a>). </p><p>v3 Map (EntityNameUseR2)</p><br/><table class=\"grid\"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>usual</td><td>equal</td><td>C (customary)</td></tr><tr><td>official</td><td>equal</td><td>OR (official registry name)</td></tr><tr><td>temp</td><td>equal</td><td>T (temporary)</td></tr><tr><td>nickname</td><td>equivalent</td><td>P (Other/Pseudonym/Alias)</td></tr><tr><td>anonymous</td><td>equivalent</td><td>ANON (Anonymous)</td></tr><tr><td>old</td><td>equivalent</td><td>OLD (no longer in use)</td></tr><tr><td>maiden</td><td>equal</td><td>M (maiden name)</td></tr></table></div>"
+    "div": "<div><h2>v3 map for NameUse (http://hl7.org/fhir/cm/v3/name-use)</h2><p>Mapping from <a href=\"name-use.html\">http://hl7.org/fhir/vs/name-use</a> to <a href=\"v3/EntityNameUseR2/index.html\">http://hl7.org/fhir/v3/vs/EntityNameUseR2</a></p><p>Draft. Published on 10-Apr 2014 6:19 by HL7 (FHIR Project) (<a href=\"http://hl7.org/fhir\">http://hl7.org/fhir</a>, <a href=\"mailto:fhir@lists.hl7.org\">fhir@lists.hl7.org</a>). </p><p>v3 Map (EntityNameUseR2)</p><br/><table class=\"grid\"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>usual</td><td>equal</td><td>C (customary)</td></tr><tr><td>official</td><td>equal</td><td>OR (official registry name)</td></tr><tr><td>temp</td><td>equal</td><td>T (temporary)</td></tr><tr><td>nickname</td><td>equivalent</td><td>P (Other/Pseudonym/Alias)</td></tr><tr><td>anonymous</td><td>equivalent</td><td>ANON (Anonymous)</td></tr><tr><td>old</td><td>equivalent</td><td>OLD (no longer in use)</td></tr><tr><td>maiden</td><td>equal</td><td>M (maiden name)</td></tr></table></div>"
   },
   "identifier": "http://hl7.org/fhir/cm/v3/name-use",
   "name": "v3 map for NameUse",
@@ -19,7 +19,7 @@
   ],
   "description": "v3 Map (EntityNameUseR2)",
   "status": "draft",
-  "date": "2014-04-10T06:00:31.615-00:00",
+  "date": "2014-04-10T06:19:27.373-00:00",
   "source": {
     "reference": "http://hl7.org/fhir/vs/name-use"
   },
