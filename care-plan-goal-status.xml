@@ -63,7 +63,7 @@
   </telecom>
   <description value="Indicates whether the goal has been met and is still being targeted"/>
   <status value="draft"/>
-  <date value="2014-04-10T08:35:03.580-00:00"/>
+  <date value="2014-04-11T01:43:04.020-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/care-plan-goal-status"/>
     <caseSensitive value="true"/>

@@ -19,7 +19,7 @@
   ],
   "description": "A code specifying the state of the prescribing event. Describes the lifecycle of the prescription.",
   "status": "draft",
-  "date": "2014-04-10T08:35:03.585-00:00",
+  "date": "2014-04-11T01:43:04.025-00:00",
   "define": {
     "system": "http://hl7.org/fhir/medication-prescription-status",
     "caseSensitive": true,

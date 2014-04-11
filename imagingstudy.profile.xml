@@ -48,7 +48,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. Manifest of a set of images produced in study. The set of images may include every image in the study, or it may be an incomplete sample, such as a list of key images."/>
   <status value="draft"/>
-  <date value="2014-04-10"/>
+  <date value="2014-04-11"/>
   <requirements value="Scope and Usage This resource summarizes a series of images or other instances generated as part of an imaging study, and provides references to where the images are available using WADO-RS. This resource is used to make information concerning images etc. that are available in other clinical contexts such as diagnostic reports, Care Plans, etc. Also, see the use case description below. 
 
 This resources has been specifically designed with use in DICOM contexts in mind. The content is closely based on the definitions of the equivalent DICOM constructs, and informed by usage patterns already established through DICOM implementation practices, including XDS-I. It is not, however, necessary to use DICOM infrastructure in order to use this resource."/>

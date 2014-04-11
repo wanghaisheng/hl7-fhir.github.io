@@ -20,7 +20,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. Information about a person that is involved in the care for a patient, but who is not the target of healthcare, nor has a formal responsibility in the care process."/>
   <status value="draft"/>
-  <date value="2014-04-10"/>
+  <date value="2014-04-11"/>
   <requirements value="Scope and Usage RelatedPersons typically have a personal or non-healthcare-specific professional relationship to the patient. A RelatedPerson resource is primarily used for attribution of information, since RelatedPersons are often a source of information about the patient. For keeping information about persons for contact purposes for a patient, use a Patient&#39;s Contact element instead. 
 
 Example RelatedPersons are: 

@@ -2,7 +2,7 @@
   "resourceType": "ConceptMap",
   "text": {
     "status": "generated",
-    "div": "<div><h2>v2 map for ContactUse (http://hl7.org/fhir/cm/v2/contact-use)</h2><p>Mapping from <a href=\"contact-use.html\">http://hl7.org/fhir/vs/contact-use</a> to <a href=\"v2/0201/index.html\">http://hl7.org/fhir/v2/vs/0201</a></p><p>Draft. Published on 10-Apr 2014 8:35 by HL7 (FHIR Project) (<a href=\"http://hl7.org/fhir\">http://hl7.org/fhir</a>, <a href=\"mailto:fhir@lists.hl7.org\">fhir@lists.hl7.org</a>). </p><p>v2 Map (0201)</p><br/><table class=\"grid\"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>home</td><td>narrower</td><td>PRN (Primary Residence Number)</td></tr><tr><td>home</td><td>narrower</td><td>ORN (Other Residence Number)</td></tr><tr><td>home</td><td>narrower</td><td>VHN (Vacation Home Number)</td></tr><tr><td>work</td><td>equivalent</td><td>WPN (Work Number)</td></tr><tr><td>mobile</td><td>equivalent</td><td>PRS (Personal)</td></tr></table></div>"
+    "div": "<div><h2>v2 map for ContactUse (http://hl7.org/fhir/cm/v2/contact-use)</h2><p>Mapping from <a href=\"contact-use.html\">http://hl7.org/fhir/vs/contact-use</a> to <a href=\"v2/0201/index.html\">http://hl7.org/fhir/v2/vs/0201</a></p><p>Draft. Published on 11-Apr 2014 1:43 by HL7 (FHIR Project) (<a href=\"http://hl7.org/fhir\">http://hl7.org/fhir</a>, <a href=\"mailto:fhir@lists.hl7.org\">fhir@lists.hl7.org</a>). </p><p>v2 Map (0201)</p><br/><table class=\"grid\"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>home</td><td>narrower</td><td>PRN (Primary Residence Number)</td></tr><tr><td>home</td><td>narrower</td><td>ORN (Other Residence Number)</td></tr><tr><td>home</td><td>narrower</td><td>VHN (Vacation Home Number)</td></tr><tr><td>work</td><td>equivalent</td><td>WPN (Work Number)</td></tr><tr><td>mobile</td><td>equivalent</td><td>PRS (Personal)</td></tr></table></div>"
   },
   "identifier": "http://hl7.org/fhir/cm/v2/contact-use",
   "name": "v2 map for ContactUse",
@@ -19,7 +19,7 @@
   ],
   "description": "v2 Map (0201)",
   "status": "draft",
-  "date": "2014-04-10T08:35:07.270-00:00",
+  "date": "2014-04-11T01:43:06.568-00:00",
   "source": {
     "reference": "http://hl7.org/fhir/vs/contact-use"
   },

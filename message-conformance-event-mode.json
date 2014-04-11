@@ -19,7 +19,7 @@
   ],
   "description": "The mode of a message conformance statement",
   "status": "draft",
-  "date": "2014-04-10T08:35:03.564-00:00",
+  "date": "2014-04-11T01:43:04.006-00:00",
   "define": {
     "system": "http://hl7.org/fhir/message-conformance-event-mode",
     "caseSensitive": true,

@@ -18,7 +18,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. A collection of error, warning or information messages that result from a system action."/>
   <status value="draft"/>
-  <date value="2014-04-10"/>
+  <date value="2014-04-11"/>
   <requirements value="Scope and Usage Operation Outcomes are sets of error, warning and information messages that provide detailed information about the outcome of some attempted system operation. They are provided as a direct system response, or component of one, where they provide information about the outcome of the operation. 
 
 Specifically, OperationOutcomes are used in the following circumstances: 

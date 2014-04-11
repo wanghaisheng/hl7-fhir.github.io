@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. A statement of relationships from one set of concepts to one or more other concept systems.",
   "status": "draft",
-  "date": "2014-04-10",
+  "date": "2014-04-11",
   "requirements": "Scope and Usage A concept map defines a mapping from a concept defined in one system to one or more concepts defined in other systems. Mappings are always framed within the concept of value sets - they are specific to a context of use.",
   "mapping": [
     {

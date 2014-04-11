@@ -8,7 +8,7 @@
   "publisher": "FHIR Specification",
   "description": "Basic Profile for Coding for validation support",
   "status": "draft",
-  "date": "2014-04-10",
+  "date": "2014-04-11",
   "mapping": [
     {
       "identity": "rim",

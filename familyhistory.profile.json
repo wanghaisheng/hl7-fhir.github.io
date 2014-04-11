@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. Significant health events and conditions for people related to the subject relevant in the context of care for the subject.",
   "status": "draft",
-  "date": "2014-04-10",
+  "date": "2014-04-11",
   "requirements": "Scope and Usage This resource records significant health events and conditions for people related to the subject. This information can be known to different levels of accuracy. Sometimes the exact condition ('asthma') is known, and sometimes it is less precise ('some sort of cancer'). Equally, sometimes the person can be identified ('my aunt Agatha') and sometimes all that is known is that the person was an uncle. \r\n\r\nThis resource represents a simple structure used to capture an 'elementary' family history. However, it can also be the basis for capturing a more rigorous history useful for genetic and other analysis - refer to the Genetic Pedigree profile for an example.\r\n\r\nThe entire family history for an individual is stored in a single resource.",
   "mapping": [
     {

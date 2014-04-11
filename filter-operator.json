@@ -19,7 +19,7 @@
   ],
   "description": "The kind of operation to perform as a part of a property based filter",
   "status": "draft",
-  "date": "2014-04-10T08:35:03.563-00:00",
+  "date": "2014-04-11T01:43:04.005-00:00",
   "define": {
     "system": "http://hl7.org/fhir/filter-operator",
     "caseSensitive": true,

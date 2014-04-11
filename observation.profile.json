@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. Measurements and simple assertions made about a patient, device or other subject.",
   "status": "draft",
-  "date": "2014-04-10",
+  "date": "2014-04-11",
   "requirements": "Scope and Usage Observations are a central element in healthcare, used to support diagnosis, monitor progress, determine baselines and patterns and even capture demographic characteristics. Most observations are simple name/value pair assertions with some metadata, but some observations group other observations together logically, or even are multi-component observations. Note that the resources DiagnosticReport and DeviceObservationReport provide a clinical or workflow context for a set of observations. Expected uses for the Observation resource include: \r\n\r\n* Vital signs: temperature, blood pressure, respiration rate\r\n* Laboratory Data and other Diagnostic Measures\r\n* Measurements emitted by Devices\r\n* Clinical assessments such as APGAR\r\n* Personal characteristics: height, weight, eye-color\r\n* Diagnoses (Note: trackable conditions, allergies, adverse reactions and more complex structures are handled elsewhere)\r\n* Social history: tobacco use, family supports, cognitive status\r\n* Core characteristics: pregnancy status, death assertion",
   "mapping": [
     {

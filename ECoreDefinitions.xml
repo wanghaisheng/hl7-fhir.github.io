@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fhir:Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fhir="http://hl7.org/fhir/definitions" date="2014-04-10T08:34:09.027+0000" version="0.80">
+<fhir:Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fhir="http://hl7.org/fhir/definitions" date="2014-04-11T01:42:17.266+0000" version="0.80">
   <type xsi:type="fhir:CompositeTypeDefn" name="Address" fullName="Address">
     <annotations shortDefinition="A postal address" definition="There is a variety of postal address formats defined around the world. This format defines a superset that is the basis for all addresses around the world." comment="Note: address is for postal addresses, not physical locations." requirements="Need to be able to record postal addresses, along with notes about their use." rimMapping="AD" v2Mapping="XAD"/>
     <binding id="16" name="AddressUse" fullName="Address.AddressUse" binding="CodeList" reference="address-use" source="address.xml" description="" definition="The use of an address" v2Map="http://hl7.org/fhir/v2/vs/0190" v3Map="http://hl7.org/fhir/v3/vs/AddressUse">
