@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. A set of information summarized from a list of other resources.",
   "status": "draft",
-  "date": "2014-04-11",
+  "date": "2014-04-12",
   "requirements": "Scope and Usage List resources are used in many places, including allergies, medications, alerts, medical history, etc.",
   "mapping": [
     {
@@ -525,6 +525,11 @@
           "name": "_id",
           "type": "token",
           "documentation": "The logical resource id associated with the resource (must be supported by all servers)"
+        },
+        {
+          "name": "_language",
+          "type": "token",
+          "documentation": "The stated language of the resource"
         },
         {
           "name": "code",

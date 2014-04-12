@@ -125,7 +125,7 @@
   &quot;publisher&quot;: &quot;FHIR Project&quot;,
   &quot;description&quot;: &quot;Basic Profile. Significant health events and conditions for people related to the subject relevant in the context of care for the subject.&quot;,
   &quot;status&quot;: &quot;draft&quot;,
-  &quot;date&quot;: &quot;2014-04-11&quot;,
+  &quot;date&quot;: &quot;2014-04-12&quot;,
   &quot;requirements&quot;: &quot;Scope and Usage This resource records significant health events and conditions for people related to the subject. This information can be known to different levels of accuracy. Sometimes the exact condition ('asthma') is known, and sometimes it is less precise ('some sort of cancer'). Equally, sometimes the person can be identified ('my aunt Agatha') and sometimes all that is known is that the person was an uncle. \r\n\r\nThis resource represents a simple structure used to capture an 'elementary' family history. However, it can also be the basis for capturing a more rigorous history useful for genetic and other analysis - refer to the Genetic Pedigree profile for an example.\r\n\r\nThe entire family history for an individual is stored in a single resource.&quot;,
   &quot;mapping&quot;: [
     {
@@ -664,6 +664,11 @@
           &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
         },
         {
+          &quot;name&quot;: &quot;_language&quot;,
+          &quot;type&quot;: &quot;token&quot;,
+          &quot;documentation&quot;: &quot;The stated language of the resource&quot;
+        },
+        {
           &quot;name&quot;: &quot;subject&quot;,
           &quot;type&quot;: &quot;reference&quot;,
           &quot;documentation&quot;: &quot;The identity of a subject to list family history items for&quot;,
@@ -692,7 +697,7 @@
 		<div class="container"><!-- container -->
 			<div class="inner-wrapper">
 				<p>
-        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Fri, Apr 11, 2014 01:44+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
+        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Sat, Apr 12, 2014 04:31+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
         <br/>
         <span style="color: #FFFF77">
         Links: <a href="dstu.html">What's a DSTU?</a> | <a href="history.html">Version History</a> | <a href="license.html">License</a> | <a href="http://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemAdd&amp;tracker_id=677">Propose a change</a>

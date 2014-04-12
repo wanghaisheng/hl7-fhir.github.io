@@ -8,7 +8,7 @@
   <publisher value="FHIR Specification"/>
   <description value="Basic Profile for Ratio for validation support"/>
   <status value="draft"/>
-  <date value="2014-04-11"/>
+  <date value="2014-04-12"/>
   <mapping>
     <identity value="rim"/>
     <uri value="http://hl7.org/v3"/>

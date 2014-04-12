@@ -19,7 +19,7 @@
   ],
   "description": "Used to specify why the normally expected content of the data element is missing",
   "status": "draft",
-  "date": "2014-04-11T01:43:04.007-00:00",
+  "date": "2014-04-12T04:31:03.999-00:00",
   "define": {
     "system": "http://hl7.org/fhir/data-absent-reason",
     "caseSensitive": true,

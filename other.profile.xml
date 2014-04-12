@@ -17,7 +17,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. Other is a conformant for handling resource concepts not yet defined for FHIR or outside HL7&#39;s scope of interest."/>
   <status value="draft"/>
-  <date value="2014-04-11"/>
+  <date value="2014-04-12"/>
   <requirements value="Scope and Usage Other is a special type of resource. Unlike all other resources, it doesn&#39;t correspond to a specific identifiable real-world concept. Instead, it&#39;s a placeholder for any resource-like concept that isn&#39;t already defined in the HL7 specification. 
 
 The Other resource is intended for use in two circumstances: 
@@ -229,6 +229,11 @@ Implementers don&#39;t really need to be concerned with one of the two categorie
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
+    </searchParam>
+    <searchParam>
+      <name value="_language"/>
+      <type value="token"/>
+      <documentation value="The stated language of the resource"/>
     </searchParam>
     <searchParam>
       <name value="code"/>

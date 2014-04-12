@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. Information about a person that is involved in the care for a patient, but who is not the target of healthcare, nor has a formal responsibility in the care process.",
   "status": "draft",
-  "date": "2014-04-11",
+  "date": "2014-04-12",
   "requirements": "Scope and Usage RelatedPersons typically have a personal or non-healthcare-specific professional relationship to the patient. A RelatedPerson resource is primarily used for attribution of information, since RelatedPersons are often a source of information about the patient. For keeping information about persons for contact purposes for a patient, use a Patient's Contact element instead. \r\n\r\nExample RelatedPersons are: \r\n\r\n* A patient's wife or husband\r\n* A patient's relatives or friends\r\n* A neighbor bringing a patient to the hospital\r\n* The owner or trainer of a horse\r\n* A patient's attorney or guardian",
   "mapping": [
     {
@@ -357,6 +357,11 @@
           "name": "_id",
           "type": "token",
           "documentation": "The logical resource id associated with the resource (must be supported by all servers)"
+        },
+        {
+          "name": "_language",
+          "type": "token",
+          "documentation": "The stated language of the resource"
         },
         {
           "name": "address",

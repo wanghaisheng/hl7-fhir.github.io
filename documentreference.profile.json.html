@@ -125,7 +125,7 @@
   &quot;publisher&quot;: &quot;FHIR Project&quot;,
   &quot;description&quot;: &quot;Basic Profile. A reference to a document.&quot;,
   &quot;status&quot;: &quot;draft&quot;,
-  &quot;date&quot;: &quot;2014-04-11&quot;,
+  &quot;date&quot;: &quot;2014-04-12&quot;,
   &quot;requirements&quot;: &quot;Scope and Usage A document reference resource is used to describe a document that is made available to a healthcare system. A document is some sequence of bytes that is identifiable, establishes its own context (e.g. what subject, author etc), can be displayed to the user, and has defined update management. The document resource can be used with any document format that has a recognized mime type, and that conforms to this definition. \r\n\r\nTypically, Document Reference Resources are used in document indexing systems, such as IHE XDS (see the XDS specific profile), and are used to refer to: \r\n\r\n* CDA documents in FHIR systems\r\n* FHIR documents stored elsewhere (i.e. registry/repository following the XDS model)\r\n* PDF documents, and even digital records of faxes where sufficient information is available\r\n* Other kinds of documents, such as records of prescriptions.&quot;,
   &quot;mapping&quot;: [
     {
@@ -1323,6 +1323,11 @@
           &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
         },
         {
+          &quot;name&quot;: &quot;_language&quot;,
+          &quot;type&quot;: &quot;token&quot;,
+          &quot;documentation&quot;: &quot;The stated language of the resource&quot;
+        },
+        {
           &quot;name&quot;: &quot;authenticator&quot;,
           &quot;type&quot;: &quot;reference&quot;,
           &quot;documentation&quot;: &quot;Who/What authenticated the document&quot;,
@@ -1475,7 +1480,7 @@
 		<div class="container"><!-- container -->
 			<div class="inner-wrapper">
 				<p>
-        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Fri, Apr 11, 2014 01:44+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
+        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Sat, Apr 12, 2014 04:31+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
         <br/>
         <span style="color: #FFFF77">
         Links: <a href="dstu.html">What's a DSTU?</a> | <a href="history.html">Version History</a> | <a href="license.html">License</a> | <a href="http://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemAdd&amp;tracker_id=677">Propose a change</a>

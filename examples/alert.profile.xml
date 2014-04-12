@@ -18,7 +18,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. Prospective warnings of potential issues when providing care to the patient."/>
   <status value="draft"/>
-  <date value="2014-04-11"/>
+  <date value="2014-04-12"/>
   <requirements value="Scope and Usage The Alert resource provides a single interface for managing clinical and administrative facts that need to be brought to the attention of users of clinical systems. Examples can include many things. Patient&#39;s posing particular risks (falls, physical violence), patient&#39;s needing special accomodations (hard of hearing, use easy-open caps), administrative concerns (verify postal address, pre-payment required) or any other situation that needs to be brought to attention within the context of a particular workflow. (The workflow relevant to the issue can be identified by the category element.) 
 
 Usually, resources specific to particular types of issues (health conditions, allergies, active medications will be used to communicate those issues. However, in some cases, particularly important information (a latex or severe food allergy) migt be highlighted as an Alert as well as the more typical resource."/>
@@ -239,6 +239,11 @@ Usually, resources specific to particular types of issues (health conditions, al
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
+    </searchParam>
+    <searchParam>
+      <name value="_language"/>
+      <type value="token"/>
+      <documentation value="The stated language of the resource"/>
     </searchParam>
     <searchParam>
       <name value="subject"/>

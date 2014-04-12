@@ -29,7 +29,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. A formally or informally recognized grouping of people or organizations formed for the purpose of achieving some form of collective action.  Includes companies, institutions, corporations, departments, community groups, healthcare practice groups, etc."/>
   <status value="draft"/>
-  <date value="2014-04-11"/>
+  <date value="2014-04-12"/>
   <requirements value="Scope and Usage This resource may be used in a shared registry of contact and other information for various organizations or it can be used merely as a support for other resources that need to reference organizations, perhaps as a document, message or as a contained resource. If using a registry approach, it&#39;s entirely possible for multiple registries to exist, each dealing with different types or levels of organization."/>
   <mapping>
     <identity value="rim"/>
@@ -542,6 +542,11 @@
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
+    </searchParam>
+    <searchParam>
+      <name value="_language"/>
+      <type value="token"/>
+      <documentation value="The stated language of the resource"/>
     </searchParam>
     <searchParam>
       <name value="active"/>

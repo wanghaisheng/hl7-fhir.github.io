@@ -53,10 +53,17 @@
             <b>group</b>
           </p>
         </blockquote>
+        <blockquote>
+          <p>
+            <b>group</b>
+          </p>
+        </blockquote>
+        <blockquote>
+          <p>
+            <b>group</b>
+          </p>
+        </blockquote>
       </blockquote>
-      <p>
-        <b style="color: maroon">Exception generating Narrative: null</b>
-      </p>
     </div>
   </text>
   <status value="completed"/>

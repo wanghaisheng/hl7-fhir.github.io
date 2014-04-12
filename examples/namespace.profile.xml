@@ -30,7 +30,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. A curated namespace that issues unique symbols within that namespace for the identification of concepts, people, devices, etc.  Represents a &quot;System&quot; used within the Identifier and Coding data types."/>
   <status value="draft"/>
-  <date value="2014-04-11"/>
+  <date value="2014-04-12"/>
   <requirements value="Scope and Usage Defines a specific code system or identifier system"/>
   <mapping>
     <identity value="rim"/>
@@ -465,6 +465,11 @@
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
+    </searchParam>
+    <searchParam>
+      <name value="_language"/>
+      <type value="token"/>
+      <documentation value="The stated language of the resource"/>
     </searchParam>
   </structure>
 </Profile>

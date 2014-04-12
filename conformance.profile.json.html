@@ -125,7 +125,7 @@
   &quot;publisher&quot;: &quot;FHIR Project&quot;,
   &quot;description&quot;: &quot;Basic Profile. A conformance statement is a set of requirements for a desired implementation or a description of how a target application fulfills those requirements in a particular implementation.&quot;,
   &quot;status&quot;: &quot;draft&quot;,
-  &quot;date&quot;: &quot;2014-04-11&quot;,
+  &quot;date&quot;: &quot;2014-04-12&quot;,
   &quot;requirements&quot;: &quot;Scope and Usage Conformance statements are used in one of three ways: \r\n\r\nDescribe an actual implementation In this scenario, the conformance statement describes the capabilities of a deployed and configured solution available at a particular access point or set of access points. The statement describes exactly how to interface with that deployed solution and thus provides for a degree of self-configuration of software solutions. \r\n\r\nThis is the type of profile that FHIR restful solutions are expected to make available on invocation of the conformance operation. It is also the type of statement that forms a basis for the testing, certification or commissioning of specific software installations. \r\n\r\nA conformance statement is identified as being an implementation statement through the presence of the implementation element. \r\n\r\nDescribe software solution capabilities In this scenario, the conformance statement describes generic capabilities of a software application or component solution. The solution might be available for purchase or other acquisition and might be deployed and configured at any number of independent sites. Because it is not dependent on any particular implementation, the profile cannot provide specific details such as endpoint addresses. It may also need to document various configurations in which the application can be set up or describe the degree of customizability associated with the solution. \r\n\r\nThis type of statement may be used as a marketing tool by software and system developers to formally describe their capabilities. It can also be used as the basis for conformance testing of software solutions independent of a particular installation. \r\n\r\nA conformance statement is identified as being a software solution statement through the presence of the software element. \r\n\r\nDescribe a desired solution In this scenario, the conformance statement describes the capabilities of a desired system. It might be used as part of an architectural design process to document needed system capabilities, or might be used as part of an RFP process to formally document the requirements of a requested solution and to document the criteria by which proposals will be evaluated. \r\n\r\nA conformance statement is identified as being a requirements statement through the presence of the proposal element. \r\n\r\n\r\n\r\nThese three types of profiles can be used together. A requirements statement can be compared against the solution statements proffered by respondents to an RFP. A solution statement for a software package forms the starting point for the implementation statement associated with a particular installation of that software package.&quot;,
   &quot;structure&quot;: [
     {
@@ -2043,6 +2043,11 @@
           &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
         },
         {
+          &quot;name&quot;: &quot;_language&quot;,
+          &quot;type&quot;: &quot;token&quot;,
+          &quot;documentation&quot;: &quot;The stated language of the resource&quot;
+        },
+        {
           &quot;name&quot;: &quot;date&quot;,
           &quot;type&quot;: &quot;date&quot;,
           &quot;documentation&quot;: &quot;The conformance statement publication date&quot;,
@@ -2161,7 +2166,7 @@
 		<div class="container"><!-- container -->
 			<div class="inner-wrapper">
 				<p>
-        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Fri, Apr 11, 2014 01:43+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
+        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Sat, Apr 12, 2014 04:31+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
         <br/>
         <span style="color: #FFFF77">
         Links: <a href="dstu.html">What's a DSTU?</a> | <a href="history.html">Version History</a> | <a href="license.html">License</a> | <a href="http://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemAdd&amp;tracker_id=677">Propose a change</a>

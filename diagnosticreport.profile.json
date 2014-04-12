@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. The findings and interpretation of diagnostic  tests performed on patients, groups of patients, devices, and locations, and/or specimens derived from these. The report includes clinical context such as requesting and provider information, and some mix of atomic results, images, textual and coded interpretation, and formatted representation of diagnostic reports.",
   "status": "draft",
-  "date": "2014-04-11",
+  "date": "2014-04-12",
   "requirements": "Scope and Usage A diagnostic report is the set of information that is typically provided by a diagnostic service when investigations are complete. The information includes a mix of atomic results, text reports, images, and codes. The mix varies depending on the nature of the diagnostic procedure, and sometimes on the nature of the outcomes for a particular investigation. \r\n\r\nThe Diagnostic Report Resource is suitable for the following kinds of Diagnostic Reports: \r\n\r\n* Laboratory (Clinical Chemistry, Hematology, Microbiology, etc.)\r\n* Pathology / Histopathology / related disciplines\r\n* Imaging Investigations (x-ray, CT, MRI etc.)\r\n* Other diagnostics - Cardiology, Gastroenterology etc.\r\nThe Diagnostic Report resource is not intended to support cumulative result presentation (tabular presentation of past and present results in the resource). The Diagnostic Report resource does not yet provide full support for detailed structured reports of sequencing; this is planned for a future release.",
   "mapping": [
     {
@@ -675,6 +675,11 @@
           "name": "_id",
           "type": "token",
           "documentation": "The logical resource id associated with the resource (must be supported by all servers)"
+        },
+        {
+          "name": "_language",
+          "type": "token",
+          "documentation": "The stated language of the resource"
         },
         {
           "name": "date",

@@ -38,7 +38,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. Measurements and simple assertions made about a patient, device or other subject."/>
   <status value="draft"/>
-  <date value="2014-04-11"/>
+  <date value="2014-04-12"/>
   <requirements value="Scope and Usage Observations are a central element in healthcare, used to support diagnosis, monitor progress, determine baselines and patterns and even capture demographic characteristics. Most observations are simple name/value pair assertions with some metadata, but some observations group other observations together logically, or even are multi-component observations. Note that the resources DiagnosticReport and DeviceObservationReport provide a clinical or workflow context for a set of observations. Expected uses for the Observation resource include: 
 
 * Vital signs: temperature, blood pressure, respiration rate
@@ -814,6 +814,11 @@ Amended &amp; Final are differentiated by whether it is the subject of a Control
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
+    </searchParam>
+    <searchParam>
+      <name value="_language"/>
+      <type value="token"/>
+      <documentation value="The stated language of the resource"/>
     </searchParam>
     <searchParam>
       <name value="date"/>

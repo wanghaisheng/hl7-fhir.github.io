@@ -49,7 +49,7 @@
   </telecom>
   <description value="The mode of a message conformance statement"/>
   <status value="draft"/>
-  <date value="2014-04-11T01:43:04.006-00:00"/>
+  <date value="2014-04-12T04:31:03.998-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/message-conformance-event-mode"/>
     <caseSensitive value="true"/>

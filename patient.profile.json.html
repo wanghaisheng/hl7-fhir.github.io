@@ -125,7 +125,7 @@
   &quot;publisher&quot;: &quot;FHIR Project&quot;,
   &quot;description&quot;: &quot;Basic Profile. Demographics and other administrative information about a person or animal receiving care or other health-related services.&quot;,
   &quot;status&quot;: &quot;draft&quot;,
-  &quot;date&quot;: &quot;2014-04-11&quot;,
+  &quot;date&quot;: &quot;2014-04-12&quot;,
   &quot;requirements&quot;: &quot;Scope and Usage This Resource covers data about persons and animals involved in a wide range of health-related activities, including: \r\n\r\n* Curative activities\r\n* Psychiatric care\r\n* Social services\r\n* Pregnancy care\r\n* Nursing and assisted living\r\n* Dietary services\r\n* Tracking of personal health and exercise data\r\nThe data in the Resource covers the \&quot;who\&quot; information about the patient: its attributes are focused on the demographic information necessary to support the administrative, financial and logistic procedures. A Patient record is generally created and maintained by each organization providing care for a patient. A person or animal receiving care at multiple organizations may therefore have its information present in multiple Patient Resources.&quot;,
   &quot;mapping&quot;: [
     {
@@ -1148,6 +1148,11 @@
           &quot;documentation&quot;: &quot;The logical resource id associated with the resource (must be supported by all servers)&quot;
         },
         {
+          &quot;name&quot;: &quot;_language&quot;,
+          &quot;type&quot;: &quot;token&quot;,
+          &quot;documentation&quot;: &quot;The stated language of the resource&quot;
+        },
+        {
           &quot;name&quot;: &quot;active&quot;,
           &quot;type&quot;: &quot;token&quot;,
           &quot;documentation&quot;: &quot;Whether the patient record is active&quot;,
@@ -1259,7 +1264,7 @@
 		<div class="container"><!-- container -->
 			<div class="inner-wrapper">
 				<p>
-        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Fri, Apr 11, 2014 01:44+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
+        © HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Sat, Apr 12, 2014 04:32+0000. <!-- <a href="qa.html">QA Report</a> --> <!-- achive note -->
         <br/>
         <span style="color: #FFFF77">
         Links: <a href="dstu.html">What's a DSTU?</a> | <a href="history.html">Version History</a> | <a href="license.html">License</a> | <a href="http://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemAdd&amp;tracker_id=677">Propose a change</a>

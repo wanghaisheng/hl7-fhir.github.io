@@ -19,7 +19,7 @@
   ],
   "description": "Identifies the general purpose of the namespace identifiers provided",
   "status": "draft",
-  "date": "2014-04-11T01:43:04.016-00:00",
+  "date": "2014-04-12T04:31:04.007-00:00",
   "define": {
     "system": "http://hl7.org/fhir/namespace-category",
     "caseSensitive": true,

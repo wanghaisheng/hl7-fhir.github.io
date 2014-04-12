@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. Describes the data produced by a device at a point in time.",
   "status": "draft",
-  "date": "2014-04-11",
+  "date": "2014-04-12",
   "requirements": "Scope and Usage This resource carries a set of data from a device that is observing a subject. Most commonly, the subject is a patient, and the device is something like a vital signs monitor, or a glucose measurement device, but other kinds of subjects and devices are expected as well. \r\n\r\nThis resource does not cater for: \r\n\r\n* Supporting real-time analytics and in particular, alarms that might be raised as a result of such analysis\r\n* Sending commands to a device\r\nThis capability is expected to be subject of additional resources that are yet to be developed, and implmenter input on this is welcome.",
   "mapping": [
     {
@@ -472,6 +472,11 @@
           "name": "_id",
           "type": "token",
           "documentation": "The logical resource id associated with the resource (must be supported by all servers)"
+        },
+        {
+          "name": "_language",
+          "type": "token",
+          "documentation": "The stated language of the resource"
         },
         {
           "name": "channel",

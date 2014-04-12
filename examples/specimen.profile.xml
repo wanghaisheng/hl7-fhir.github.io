@@ -43,7 +43,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. Sample for analysis."/>
   <status value="draft"/>
-  <date value="2014-04-11"/>
+  <date value="2014-04-12"/>
   <requirements value="Scope and Usage Any material sample:
 
 * taken from a biological entity, living or dead
@@ -851,6 +851,11 @@ or
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
+    </searchParam>
+    <searchParam>
+      <name value="_language"/>
+      <type value="token"/>
+      <documentation value="The stated language of the resource"/>
     </searchParam>
     <searchParam>
       <name value="subject"/>

@@ -53,7 +53,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. A reference to a document."/>
   <status value="draft"/>
-  <date value="2014-04-11"/>
+  <date value="2014-04-12"/>
   <requirements value="Scope and Usage A document reference resource is used to describe a document that is made available to a healthcare system. A document is some sequence of bytes that is identifiable, establishes its own context (e.g. what subject, author etc), can be displayed to the user, and has defined update management. The document resource can be used with any document format that has a recognized mime type, and that conforms to this definition. 
 
 Typically, Document Reference Resources are used in document indexing systems, such as IHE XDS (see the XDS specific profile), and are used to refer to: 
@@ -1076,6 +1076,11 @@ where it is simply &quot;Procedure Report&quot; and the procedure was a &quot;co
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
+    </searchParam>
+    <searchParam>
+      <name value="_language"/>
+      <type value="token"/>
+      <documentation value="The stated language of the resource"/>
     </searchParam>
     <searchParam>
       <name value="authenticator"/>

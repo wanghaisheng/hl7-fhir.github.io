@@ -109,16 +109,38 @@
 <a name="history"> </a>
 <h2><span class="sectioncount">1.4<a name="1.4"> </a></span> Version History</h2>
 
-<p>
-FHIR was first proposed in July 2011. In May 2012, FHIR moved to it's current home at hl7.org/fhir. 
-Some of the more significant releases are archived for purposes of comparison with the current 
-version:
-</p>
-<p>
-TODO: Move the <a href="http://www.healthintersections.com.au/fhir/index.htm">DSTU ballot version</a> to this list.
-</p>
+<h3><span class="sectioncount">1.4.1<a name="1.4.1"> </a></span> Ongoing releases of the DSTU</h3>
 
-<h2><span class="sectioncount">1.4<a name="1.4"> </a></span> Archived Versions of FHIR</h2><p>These archives only keep the more significant past versions of FHIR, and only the book form, and are provided for purposes of supporting html diff tools. A full archive history of everything is available <a href="http://wiki.hl7.org/index.php?title=FHIR">through the HL7 gForge archives</a>.</p><ul><li><a href="http://www.hl7.org/implement/standards/FHIR/0.11/index.htm">Version 0.11</a>, Connectathon 2013 May Cambridge + DSTU ballot</li><li><a href="http://www.hl7.org/implement/standards/FHIR/0.08/index.htm">Version 0.08</a>, Connectathon 2013 May Atlanta</li><li><a href="http://www.hl7.org/implement/standards/FHIR/0.06/index.htm">Version 0.06</a>, Second Draft for Comment</li><li><a href="http://www.hl7.org/implement/standards/FHIR/0.01/index.htm">Version 0.01</a>, First Archived Version (During Vancouver WGM), May 14, 2012</li></ul>
+<p>
+This version of the FHIR is the <a href="dstu.html">DSTU</a>, as published 
+on Feb-3 2014. The date at the foot of the pages is more recent because of 
+ongoing releases to the FHIR version. Subsequent releases:
+</p>
+<ul>
+ <li>Apr-X 2014: Add <a href="security.html#narrative">security alert</a> about Narrative, and the following changes to reference implementations:
+   <ul>
+     <li>All: Change the way version numbering works - the reference implementations have their own version now, in addition to the FHIR version</li>
+     <li>Java: Fix major bug in reading/writing JSON bundles. The specification changed so that there was 
+       &quot;resourceType&quot; : &quot;Bundle&quot; instead of a surrounding &quot;feed&quot; object, but the Java implementation hadn't been changed. 
+       This meant that the java implementation wasn't consistent with the specification or the other reference implementations,
+       <b>and it meant that the example JSON bundles in the specification were wrong</b>; these have also been fixed</li>
+     <li>Java: Enforce FHIR rules about narrative (no active content)</li>
+     <li>Pascal: Change minor error in list generation, enforce narrative rules  (no active content), better handling of relative references, </li>
+     <li>C#/.Net: Enforce FHIR rules about narrative (no active content), plus many others changes (see <a href="http://ewoutkramer.github.io/fhir-net-api/whats-new.html">http://ewoutkramer.github.io/fhir-net-api/whats-new.html</a>)</li>
+     <li>ObjectiveC: rename Resource to BaseResource and ResourceReference to Resource </li>
+     <li>Javascript: Add the Javascript implementation</li>
+   </ul>
+ </li>
+ <li>Apr-3 2014: Fix archive links (below), add link to HIMSS video on home page, and reference platform changes:
+   <ul>
+     <li>Java: Re-organise dependencies in the parsers so that JSON serialiser doesn't include XmlPullParser</li>
+     <li>ObjectiveC: rename Resource to BaseResource and ResourceReference to Resource </li>
+   </ul>
+ </li>
+</ul>
+
+
+<h2><span class="sectioncount">1.4<a name="1.4"> </a></span> Archived Versions of FHIR</h2><p>These archives only keep the more significant past versions of FHIR, and only the book form, and are provided for purposes of supporting html diff tools. A full archive history of everything is available <a href="http://wiki.hl7.org/index.php?title=FHIR">through the HL7 gForge archives</a>.</p><ul><li><a href="http://www.hl7.org/implement/standards/FHIR/v0.11/index.htm">Version 0.11</a>, Connectathon 2013 May Cambridge + DSTU ballot</li><li><a href="http://www.hl7.org/implement/standards/FHIR/v0.08/index.htm">Version 0.08</a>, Connectathon 2013 May Atlanta</li><li><a href="http://www.hl7.org/implement/standards/FHIR/v0.06/index.htm">Version 0.06</a>, Second Draft for Comment</li><li><a href="http://www.hl7.org/implement/standards/FHIR/v0.01/index.htm">Version 0.01</a>, First Archived Version (During Vancouver WGM), May 14, 2012</li></ul>
 
 <p>
 Note: a useful tool for displaying the differences between pages is the <a href="http://services.w3.org/htmldiff">W3C HTML Diff engine</a>.
@@ -305,7 +327,7 @@ Note that an absolute full version history is available from the <a href="http:/
 		<div class="container">  <!-- container -->
 			<div class="inner-wrapper">
 				<p>
-        &copy; HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Fri, Apr 11, 2014 01:45+0000.   <!-- <a href="qa.html">QA Report</a> -->   <!-- achive note -->
+        &copy; HL7.org 2011 - 2014. FHIR DSTU (v0.80-????) generated on Sat, Apr 12, 2014 04:33+0000.   <!-- <a href="qa.html">QA Report</a> -->   <!-- achive note -->
         <br/>
         <span style="color: #FFFF77">
         Links: <a href="dstu.html">What's a DSTU?</a> | <a href="history.html">Version History</a> | <a href="license.html">License</a> | <a href="http://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemAdd&amp;tracker_id=677">Propose a change</a>

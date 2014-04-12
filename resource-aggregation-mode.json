@@ -19,7 +19,7 @@
   ],
   "description": "How resource references can be aggregated",
   "status": "draft",
-  "date": "2014-04-11T01:43:04.019-00:00",
+  "date": "2014-04-12T04:31:04.009-00:00",
   "define": {
     "system": "http://hl7.org/fhir/resource-aggregation-mode",
     "caseSensitive": true,

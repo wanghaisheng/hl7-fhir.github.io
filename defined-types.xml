@@ -646,7 +646,7 @@ Related resources tie this event to the authorizing prescription, and the specif
   </telecom>
   <description value="Either a resource or a data type"/>
   <status value="draft"/>
-  <date value="2014-04-11T01:43:04.013-00:00"/>
+  <date value="2014-04-12T04:31:04.004-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/defined-types"/>
     <caseSensitive value="true"/>

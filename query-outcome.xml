@@ -63,7 +63,7 @@
   </telecom>
   <description value="The outcome of processing a query request"/>
   <status value="draft"/>
-  <date value="2014-04-11T01:43:04.020-00:00"/>
+  <date value="2014-04-12T04:31:04.010-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/query-outcome"/>
     <caseSensitive value="true"/>

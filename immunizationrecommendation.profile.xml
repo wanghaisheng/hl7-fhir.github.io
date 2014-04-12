@@ -34,7 +34,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. A patient&#39;s point-of-time immunization status and recommendation with optional supporting justification."/>
   <status value="draft"/>
-  <date value="2014-04-11"/>
+  <date value="2014-04-12"/>
   <requirements value="Scope and Usage The ImmunizationRecommendation resource is intended to cover communication of a specified patient&#39;s immunization recommendation and status across all healthcare disciplines in all care settings and all regions. 
 
 Additionally, the ImmunizationRecommendation resource is expected to cover key concepts related to the querying of a patient&#39;s immunization recommendation and status. This resource - through consultation with the PHER work group - is believed to meet key use cases and information requirements as defined in the existing HL7 v3 POIZ domain and Immunization Domain Analysis Model."/>
@@ -615,6 +615,11 @@ Additionally, the ImmunizationRecommendation resource is expected to cover key c
       <name value="_id"/>
       <type value="token"/>
       <documentation value="The logical resource id associated with the resource (must be supported by all servers)"/>
+    </searchParam>
+    <searchParam>
+      <name value="_language"/>
+      <type value="token"/>
+      <documentation value="The stated language of the resource"/>
     </searchParam>
     <searchParam>
       <name value="date"/>
