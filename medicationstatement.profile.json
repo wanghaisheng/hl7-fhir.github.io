@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. A record of medication being taken by a patient, or that the medication has been given to a patient where the record is the result of a report from the patient or another clinician.",
   "status": "draft",
-  "date": "2014-04-12",
+  "date": "2014-04-13",
   "requirements": "Scope and Usage Common usage includes: \r\n\r\n* the recording of non-prescription and/or recreational drugs\r\n* the recording of an intake medication list upon admission to hospital\r\n* the summarization of a patient's \"active medications\" in a patient profile",
   "mapping": [
     {

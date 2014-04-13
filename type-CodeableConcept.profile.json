@@ -8,7 +8,7 @@
   "publisher": "FHIR Specification",
   "description": "Basic Profile for CodeableConcept for validation support",
   "status": "draft",
-  "date": "2014-04-12",
+  "date": "2014-04-13",
   "mapping": [
     {
       "identity": "rim",

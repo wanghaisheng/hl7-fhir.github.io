@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. Records an unexpected reaction suspected to be related to the exposure of the reaction subject to a substance.",
   "status": "draft",
-  "date": "2014-04-12",
+  "date": "2014-04-13",
   "requirements": "Scope and Usage Adverse Reaction resources are used to provide information about specific reactions to a substance. These are normally associated with an AllergyIntolerance resource, but can be reported on their own when no assumption of further reactions is being made, or when specific events are being described.",
   "mapping": [
     {

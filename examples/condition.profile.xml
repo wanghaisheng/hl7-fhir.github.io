@@ -43,7 +43,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. Use to record detailed information about conditions, problems or diagnoses recognized by a clinician. There are many uses including: recording a Diagnosis during an Encounter; populating a problem List or a Summary Statement, such as a Discharge Summary."/>
   <status value="draft"/>
-  <date value="2014-04-12"/>
+  <date value="2014-04-13"/>
   <requirements value="Scope and Usage This resource is used to record detailed information about a specific aspect of or issue with the health state of a patient. It is intended for use for issues that have been identified as relevant for tracking and reporting purposes or where there&#39;s a need to capture a concrete diagnosis or the gathering of data such as signs and symptoms. There are situations where the same information might appear as both an observation as well as a condition. For example, the appearance of a rash or an instance of a fever are signs and symptoms that would typically be captured using the Observation resource. However, a pattern of ongoing fevers or a persistent or severe rash requiring treatment might be captured as a condition. The Condition resource specifically excludes AdverseReactions and AllergyIntolerances as those are handled with their own resources. 
 
 The Condition resource may be used to record positive aspects of the health state of a patient (e.g. pregnancy) as well as the major use, which is for problems/concerns (e.g. hypertension). 

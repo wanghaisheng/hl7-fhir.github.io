@@ -56,7 +56,7 @@
   </telecom>
   <description value="Binding conformance for applications"/>
   <status value="draft"/>
-  <date value="2014-04-12T04:31:04.005-00:00"/>
+  <date value="2014-04-13T23:15:34.483-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/binding-conformance"/>
     <caseSensitive value="true"/>

@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. A manifest that defines a set of documents.",
   "status": "draft",
-  "date": "2014-04-12",
+  "date": "2014-04-13",
   "requirements": "Scope and Usage A document manifest gathers a set of Document Reference resources into a single package that may be the subject of workflow such as access control, auditing, and targeted delivery. \r\n\r\nTypically, Document Manifest Resources are used in document indexing systems, such as IHE XDS (see the XDS specific profile).",
   "mapping": [
     {

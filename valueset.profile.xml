@@ -59,7 +59,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. A value set specifies a set of codes drawn from one or more code systems."/>
   <status value="draft"/>
-  <date value="2014-04-12"/>
+  <date value="2014-04-13"/>
   <requirements value="Scope and Usage Value sets may be constructed in one of two ways: 
 
 * A value set can define its own codes, and/or

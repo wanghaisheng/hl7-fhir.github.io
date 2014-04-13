@@ -56,7 +56,7 @@
   </telecom>
   <description value="The type of exposure that resulted in an adverse reaction"/>
   <status value="draft"/>
-  <date value="2014-04-12T04:31:04.005-00:00"/>
+  <date value="2014-04-13T23:15:34.484-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/exposureType"/>
     <caseSensitive value="true"/>

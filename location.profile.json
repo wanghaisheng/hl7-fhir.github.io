@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. Details and position information for a physical place where services are provided  and resources and participants may be stored, found, contained or accommodated.",
   "status": "draft",
-  "date": "2014-04-12",
+  "date": "2014-04-13",
   "requirements": "Scope and Usage A Location includes both incidental locations (a place which is used for healthcare without prior designation or authorization) and dedicated, formally appointed locations. Locations may be private, public, mobile or fixed and scale from small freezers to full hospital buildings or parking garages. \r\n\r\nExamples of Locations are:\r\n\r\n* Building, ward, corridor or room\r\n* Freezer, incubator\r\n* Vehicle or lift\r\n* Home, shed, or a garage\r\n* Road, parking place, a park",
   "mapping": [
     {

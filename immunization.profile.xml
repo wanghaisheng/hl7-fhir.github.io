@@ -46,7 +46,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. Immunization event information."/>
   <status value="draft"/>
-  <date value="2014-04-12"/>
+  <date value="2014-04-13"/>
   <requirements value="Scope and Usage The immunization resource is intended to cover the administration of vaccines to patients across all healthcare disciplines in all care settings and all regions. This includes immunization of both humans and animals but does not include the administration of non-vaccine agents, even those that may have or claim immunological effects. 
 
 Additionally, the immunization resource is expected to cover key concepts related to the creation, revision and querying of a patient&#39;s immunization history. This resource - through consultation with the PHER work group - is believed to meet key use cases and information requirements as defined in the existing HL7 v2.x immunization implementation guide, HL7 v3 POIZ domain and Immunization Domain Analysis Model."/>

@@ -19,7 +19,7 @@
   ],
   "description": "Identifies the purpose of the namespace",
   "status": "draft",
-  "date": "2014-04-12T04:31:04.012-00:00",
+  "date": "2014-04-13T23:15:34.491-00:00",
   "define": {
     "system": "http://hl7.org/fhir/namespace-type",
     "caseSensitive": true,

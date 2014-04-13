@@ -19,7 +19,7 @@
   ],
   "description": "Identifies the purpose for this identifier, if known",
   "status": "draft",
-  "date": "2014-04-12T04:31:03.998-00:00",
+  "date": "2014-04-13T23:15:34.476-00:00",
   "define": {
     "system": "http://hl7.org/fhir/identifier-use",
     "caseSensitive": true,

@@ -70,7 +70,7 @@
   </telecom>
   <description value="Types of security services used with FHIR"/>
   <status value="draft"/>
-  <date value="2014-04-12T04:31:04.012-00:00"/>
+  <date value="2014-04-13T23:15:34.490-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/restful-security-service"/>
     <caseSensitive value="true"/>
