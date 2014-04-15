@@ -19,7 +19,7 @@
   ],
   "description": "One of the resource types defined as part of FHIR",
   "status": "draft",
-  "date": "2014-04-13T23:15:34.488-00:00",
+  "date": "2014-04-15T02:00:40.035-00:00",
   "define": {
     "system": "http://hl7.org/fhir/resource-types",
     "caseSensitive": true,

@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. A value set specifies a set of codes drawn from one or more code systems.",
   "status": "draft",
-  "date": "2014-04-13",
+  "date": "2014-04-15",
   "requirements": "Scope and Usage Value sets may be constructed in one of two ways: \r\n\r\n* A value set can define its own codes, and/or\r\n* A value set can be composed of codes defined in other code systems, either by listing the codes or by providing a set of selection criteria\r\nA value set can also be \"expanded\", where the value set is turned into a simple collection of enumerated codes. This operation is performed to produce a collection of codes that are ready to use for data entry or validation. An expanded value set may also contain the original definition as well.",
   "mapping": [
     {

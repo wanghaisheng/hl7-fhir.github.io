@@ -47,7 +47,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. Demographics and other administrative information about a person or animal receiving care or other health-related services."/>
   <status value="draft"/>
-  <date value="2014-04-13"/>
+  <date value="2014-04-15"/>
   <requirements value="Scope and Usage This Resource covers data about persons and animals involved in a wide range of health-related activities, including: 
 
 * Curative activities

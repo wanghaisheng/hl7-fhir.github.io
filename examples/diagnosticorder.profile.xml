@@ -34,7 +34,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. A request for a diagnostic investigation service to be performed."/>
   <status value="draft"/>
-  <date value="2014-04-13"/>
+  <date value="2014-04-15"/>
   <requirements value="Scope and Usage A Diagnostic Order is a record of a request for a set of diagnostic investigations to be performed. The investigation will lead to a Diagnostic Report that summarizes the outcome of the investigation, and includes any useful data and/or images that are relevant to the treatment/management of the subject. 
 
 The principal intention of the Diagnostic Order is to support ordering diagnostic investigations on patients (which includes non-human patients in veterinary medicine). However in many contexts, healthcare related processes include performing diagnostic investigations on groups of subjects, devices involved in the provision of healthcare, and even environmental locations such as ducts, bodies of water, etc. The Diagnostic Order supports all these usages. 

@@ -95,7 +95,7 @@
   </telecom>
   <description value="The workflow/clinical status of the composition"/>
   <status value="draft"/>
-  <date value="2014-04-13T23:15:34.492-00:00"/>
+  <date value="2014-04-15T02:00:40.040-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/composition-status"/>
     <caseSensitive value="true"/>

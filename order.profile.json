@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. A request to perform an action.",
   "status": "draft",
-  "date": "2014-04-13",
+  "date": "2014-04-15",
   "requirements": "Scope and Usage An order resource describes a request that an action be performed. An order is expected to lead to one or more responses that describe the outcome of processing/handling the order. The order resource is focused on the process of actually requesting an action be performed; the actual action to be performed is detailed in a separate resource that contains the details. Note that orders are often called \"requests\", but this name is not used here since the word \"request\" is used differently elsewhere in this specification. \r\n\r\nNote that there are a variety of processes associated with making and processing orders. Some orders may be handled immediately by automated systems but most require real world actions by one or more humans. Some orders can only be processed when other real world actions happen, such as a patient actually presenting themselves so that the action to be performed can actually be performed. Often these real world dependencies are only implicit in the order details.",
   "mapping": [
     {

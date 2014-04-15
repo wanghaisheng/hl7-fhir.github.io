@@ -70,7 +70,7 @@
   </telecom>
   <description value="The type of network access point that originated the audit event"/>
   <status value="draft"/>
-  <date value="2014-04-13T23:15:34.491-00:00"/>
+  <date value="2014-04-15T02:00:40.038-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/network-type"/>
     <caseSensitive value="true"/>

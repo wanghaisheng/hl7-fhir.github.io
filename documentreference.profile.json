@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. A reference to a document.",
   "status": "draft",
-  "date": "2014-04-13",
+  "date": "2014-04-15",
   "requirements": "Scope and Usage A document reference resource is used to describe a document that is made available to a healthcare system. A document is some sequence of bytes that is identifiable, establishes its own context (e.g. what subject, author etc), can be displayed to the user, and has defined update management. The document resource can be used with any document format that has a recognized mime type, and that conforms to this definition. \r\n\r\nTypically, Document Reference Resources are used in document indexing systems, such as IHE XDS (see the XDS specific profile), and are used to refer to: \r\n\r\n* CDA documents in FHIR systems\r\n* FHIR documents stored elsewhere (i.e. registry/repository following the XDS model)\r\n* PDF documents, and even digital records of faxes where sufficient information is available\r\n* Other kinds of documents, such as records of prescriptions.",
   "mapping": [
     {

@@ -43,7 +43,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. Sample for analysis."/>
   <status value="draft"/>
-  <date value="2014-04-13"/>
+  <date value="2014-04-15"/>
   <requirements value="Scope and Usage Any material sample:
 
 * taken from a biological entity, living or dead

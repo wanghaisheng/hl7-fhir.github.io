@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. A photo, video, or audio recording acquired or used in healthcare. The actual content may be inline or provided by direct reference.",
   "status": "draft",
-  "date": "2014-04-13",
+  "date": "2014-04-15",
   "requirements": "Scope and Usage The Media resource contains photos, videos, and audio recordings. It is used with media acquired or used as part of the healthcare process. Here are some typical usages: \r\n\r\n* Photos of patients and staff for identification purposes\r\n* Photos and videos of diagnostic or care provision procedures for recording purposes \r\n* Storing scans and faxes of paper documents where not enough metadata exists to create a DocumentReference\r\n* Images on diagnostic reports\r\nThe Media resource may contain medical images in a DICOM format. While such images may also be accessible through an ImagingStudy resource, the Media resource enables \"ready for presentation\" access to a specific image. Such images would preferentially be made available in a FHIR ecosystem by the Media.content.url providing a reference to a WADO-RS service to access the image. That WADO-RS service may include rendering the image with annotations and display parameters from an associated DICOM presentation state. Although the Media resource is allowed to contain images collected by a DICOM based system, DICOM images would preferentially be made available in a FHIR ecosystem by provision of a resource with references to a WADO-RS server.",
   "mapping": [
     {

@@ -32,7 +32,7 @@ Terminologies used often pre-coordinate this term with the route and or form of 
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. A record of medication being taken by a patient, or that the medication has been given to a patient where the record is the result of a report from the patient or another clinician."/>
   <status value="draft"/>
-  <date value="2014-04-13"/>
+  <date value="2014-04-15"/>
   <requirements value="Scope and Usage Common usage includes: 
 
 * the recording of non-prescription and/or recreational drugs

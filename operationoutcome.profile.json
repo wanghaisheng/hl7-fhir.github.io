@@ -8,7 +8,7 @@
   "publisher": "FHIR Project",
   "description": "Basic Profile. A collection of error, warning or information messages that result from a system action.",
   "status": "draft",
-  "date": "2014-04-13",
+  "date": "2014-04-15",
   "requirements": "Scope and Usage Operation Outcomes are sets of error, warning and information messages that provide detailed information about the outcome of some attempted system operation. They are provided as a direct system response, or component of one, where they provide information about the outcome of the operation. \r\n\r\nSpecifically, OperationOutcomes are used in the following circumstances: \r\n\r\n* When an RESTful operation fails\r\n* As the response on a validation operation, to provide information about the outcomes\r\n* As part of a message response, usually when the message has not been processed correctly",
   "mapping": [
     {

@@ -4,17 +4,17 @@
   <title>v2 tables as ValueSets</title>
   <id>http://hl7.org/fhir/v2/valuesets</id>
   <link href="http://hl7.org/implement/standards/fhir/v2-tables.xml" rel="self"/>
-  <updated>2014-04-13T23:15:21.811-00:00</updated>
+  <updated>2014-04-15T02:00:28.882-00:00</updated>
   <entry>
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0001&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0001</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0001" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -87,12 +87,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0002&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0002</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0002" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -225,12 +225,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0003&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0003</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0003" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -2496,12 +2496,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0004&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0004</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0004" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -2618,12 +2618,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0006/2.1&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0006/2.1</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0006/2.1" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -2714,12 +2714,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0006/2.4+&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0006/2.4+</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0006/2.4+" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -3254,12 +3254,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0007&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0007</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0007" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -3338,12 +3338,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0027&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0027</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0027" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -3410,12 +3410,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0038&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0038</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0038" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -3506,12 +3506,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0048&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0048</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0048" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -3890,12 +3890,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0052&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0052</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0052" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -3950,12 +3950,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0061&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0061</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0061" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -4022,12 +4022,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0063&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0063</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0063" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -4256,12 +4256,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0065&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0065</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0065" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -4349,12 +4349,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0074&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0074</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0074" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -4661,12 +4661,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0076&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0076</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0076" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -5627,12 +5627,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0078&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0078</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0078" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -5849,12 +5849,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0100&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0100</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0100" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -5921,12 +5921,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0102&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0102</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0102" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -5981,12 +5981,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0103&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0103</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0103" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -6041,12 +6041,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0104&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0104</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0104" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -6158,12 +6158,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0105&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0105</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0105" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -6218,12 +6218,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0106&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0106</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0106" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -6287,12 +6287,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0107&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0107</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0107" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -6347,12 +6347,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0108&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0108</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0108" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -6425,12 +6425,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0109&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0109</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0109" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -6485,12 +6485,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0119&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0119</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0119" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -6842,12 +6842,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0121&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0121</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0121" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -6914,12 +6914,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0122&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0122</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0122" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -7004,12 +7004,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0123/2.2-&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0123/2.2-</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0123/2.2-" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -7106,12 +7106,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0123/2.3+&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0123/2.3+</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0123/2.3+" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -7214,12 +7214,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0124&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0124</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0124" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -7280,12 +7280,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0126&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0126</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0126" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -7352,12 +7352,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0136&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0136</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0136" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -7406,12 +7406,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0148&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0148</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0148" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -7460,12 +7460,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0153&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0153</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0153" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -8003,12 +8003,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0155&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0155</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0155" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -8069,12 +8069,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0156&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0156</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0156" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -8174,12 +8174,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0157&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0157</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0157" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -8270,12 +8270,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0158&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0158</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0158" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -8348,12 +8348,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0159&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0159</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0159" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -8408,12 +8408,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0160&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0160</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0160" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -8480,12 +8480,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0161&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0161</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0161" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -8540,12 +8540,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0162&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0162</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0162" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -8864,12 +8864,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0163&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0163</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0163" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -9248,12 +9248,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0164&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0164</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0164" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -9344,12 +9344,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0165&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0165</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0165" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -9476,12 +9476,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0166&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0166</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0166" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -9530,12 +9530,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0167&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0167</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0167" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -9638,12 +9638,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0168&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0168</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0168" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -9722,12 +9722,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0169&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0169</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0169" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -9776,12 +9776,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0170&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0170</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0170" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -9836,12 +9836,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0174&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0174</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0174" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -9908,12 +9908,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0175&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0175</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0175" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -10118,12 +10118,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0178&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0178</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0178" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -10172,12 +10172,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0179&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0179</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0179" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -10238,12 +10238,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0180&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0180</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0180" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -10310,12 +10310,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0183&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0183</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0183" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -10364,12 +10364,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0185&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0185</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0185" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -10451,12 +10451,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0187&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0187</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0187" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -10505,12 +10505,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0190&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0190</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0190" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -10655,12 +10655,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0191&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0191</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0191" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -10793,12 +10793,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0200&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0200</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0200" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -10970,12 +10970,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0201&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0201</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0201" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -11066,12 +11066,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0202&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0202</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0202" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -11168,12 +11168,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0203&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0203</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0203" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -11858,12 +11858,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0205&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0205</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0205" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -11942,12 +11942,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0206&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0206</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0206" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -12008,12 +12008,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0207&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0207</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0207" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -12116,12 +12116,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0210&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0210</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0210" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -12169,12 +12169,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0211&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0211</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0211" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -12367,12 +12367,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0227&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0227</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0227" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -12739,12 +12739,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0234&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0234</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0234" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -12841,12 +12841,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0235&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0235</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0235" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -12943,12 +12943,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0236&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0236</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0236" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -13009,12 +13009,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0237&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0237</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0237" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -13099,12 +13099,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0238&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0238</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0238" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -13159,12 +13159,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0239&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0239</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0239" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -13219,12 +13219,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0240&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0240</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0240" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -13315,12 +13315,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0241&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0241</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0241" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -13399,12 +13399,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0242&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0242</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0242" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -13483,12 +13483,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0243&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0243</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0243" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -13543,12 +13543,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0247&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0247</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0247" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -13657,12 +13657,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0248&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0248</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0248" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -13723,12 +13723,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0250&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0250</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0250" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -13795,12 +13795,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0251&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0251</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0251" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -13873,12 +13873,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0252&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0252</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0252" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -13981,12 +13981,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0254&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0254</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0254" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -14635,12 +14635,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0256&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0256</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0256" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -14941,12 +14941,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0267&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0267</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0267" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -15025,12 +15025,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0271&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0271</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0271" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -15127,12 +15127,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0272&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0272</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0272" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -15241,12 +15241,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0273&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0273</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0273" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -15307,12 +15307,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0274&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0274</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0274" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -15367,12 +15367,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0275&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0275</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0275" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -15433,12 +15433,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0279&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0279</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0279" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -15535,12 +15535,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0280&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0280</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0280" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -15595,12 +15595,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0281&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0281</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0281" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -15727,12 +15727,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0282&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0282</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0282" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -15793,12 +15793,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0283&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0283</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0283" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -15859,12 +15859,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0284&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0284</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0284" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -15925,12 +15925,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0286&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0286</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0286" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -15991,12 +15991,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0287&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0287</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0287" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -16075,12 +16075,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0290&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0290</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0290" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -16702,12 +16702,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0291&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0291</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0291" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -16891,12 +16891,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0292&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0292</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0292" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -17677,12 +17677,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0298&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0298</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0298" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -17731,12 +17731,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0299&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0299</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0299" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -17791,12 +17791,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0316&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0316</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0316" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -17875,12 +17875,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0347&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0347</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0347" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -17950,12 +17950,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0348&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0348</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0348" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -18073,12 +18073,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0349&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0349</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0349" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -18169,12 +18169,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0350&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0350</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0350" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -18622,12 +18622,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0351&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0351</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0351" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -18778,12 +18778,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0354&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0354</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0354" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -20625,12 +20625,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0373&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0373</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0373" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -20715,12 +20715,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0411&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0411</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0411" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -21042,12 +21042,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0445&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0445</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0445" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -21108,12 +21108,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0487&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0487</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0487" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -22794,12 +22794,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0488&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0488</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0488" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -23088,12 +23088,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0489&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0489</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0489" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -23196,12 +23196,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0490&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0490</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0490" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -23322,12 +23322,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0491&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0491</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0491" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -23388,12 +23388,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0492&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0492</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0492" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -23454,12 +23454,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0493&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0493</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0493" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -23550,12 +23550,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0494&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0494</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0494" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -23610,12 +23610,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0495&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0495</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0495" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -23748,12 +23748,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0496&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0496</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0496" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -24612,12 +24612,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0497&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0497</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0497" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -24672,12 +24672,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0498&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0498</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0498" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -24750,12 +24750,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0499&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0499</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0499" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -24804,12 +24804,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0500&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0500</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0500" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -24864,12 +24864,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0501&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0501</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0501" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -24924,12 +24924,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0502&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0502</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0502" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -24984,12 +24984,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0503&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0503</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0503" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -25044,12 +25044,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0504&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0504</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0504" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -25110,12 +25110,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0505&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0505</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0505" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -25164,12 +25164,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0506&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0506</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0506" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -25236,12 +25236,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0507&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0507</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0507" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -25290,12 +25290,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0508&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0508</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0508" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -25398,12 +25398,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0510&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0510</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0510" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -25506,12 +25506,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0511&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0511</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0511" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -25584,12 +25584,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0513&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0513</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0513" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -25656,12 +25656,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0514&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0514</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0514" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -25812,12 +25812,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0516&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0516</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0516" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -25878,12 +25878,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0517&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0517</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0517" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -25944,12 +25944,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0518&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0518</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0518" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26004,12 +26004,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0520&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0520</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0520" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26064,12 +26064,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0634&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0634</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0634" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26112,12 +26112,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0728&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0728</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0728" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26184,12 +26184,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0731&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0731</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0731" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26256,12 +26256,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0734&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0734</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0734" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26358,12 +26358,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0739&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0739</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0739" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26418,12 +26418,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0742&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0742</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0742" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26502,12 +26502,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0749&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0749</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0749" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26568,12 +26568,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0755&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0755</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0755" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26628,12 +26628,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0757&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0757</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0757" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26688,12 +26688,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0759&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0759</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0759" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26754,12 +26754,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0761&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0761</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0761" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26826,12 +26826,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0763&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0763</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0763" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26886,12 +26886,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0776&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0776</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0776" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -26946,12 +26946,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0778&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0778</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0778" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27018,12 +27018,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0790&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0790</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0790" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27072,12 +27072,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0793&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0793</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0793" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27120,12 +27120,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0806&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0806</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0806" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27180,12 +27180,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0818&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0818</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0818" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27246,12 +27246,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0868&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0868</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0868" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27318,12 +27318,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0871&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0871</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0871" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27402,12 +27402,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0881&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0881</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0881" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27462,12 +27462,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0882&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0882</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0882" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27516,12 +27516,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0894&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0894</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0894" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27570,12 +27570,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0895&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0895</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0895" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27642,12 +27642,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0904&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0904</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0904" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27702,12 +27702,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0905&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0905</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0905" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27780,12 +27780,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0906&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0906</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0906" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -27912,12 +27912,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0907&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0907</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0907" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -28038,12 +28038,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0909&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0909</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0909" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -28116,12 +28116,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0910&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0910</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0910" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>
@@ -28164,12 +28164,12 @@
     <title>Valueset &quot;http://hl7.org/fhir/v2/vs/0912&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0912</id>
     <link href="http://hl7.org/fhir/vs/http://hl7.org/fhir/v2/vs/0912" rel="self"/>
-    <updated>2014-04-13T23:14:52.178-00:00</updated>
+    <updated>2014-04-15T02:00:01.676-00:00</updated>
     <author>
       <name>HL7, Inc</name>
       <uri>http://hl7.org</uri>
     </author>
-    <published>2014-04-13T23:14:52.178-00:00</published>
+    <published>2014-04-15T02:00:01.676-00:00</published>
     <content type="text/xml">
       <ValueSet xmlns="http://hl7.org/fhir">
         <text>

@@ -26,7 +26,7 @@
   <publisher value="FHIR Project"/>
   <description value="Basic Profile. A photo, video, or audio recording acquired or used in healthcare. The actual content may be inline or provided by direct reference."/>
   <status value="draft"/>
-  <date value="2014-04-13"/>
+  <date value="2014-04-15"/>
   <requirements value="Scope and Usage The Media resource contains photos, videos, and audio recordings. It is used with media acquired or used as part of the healthcare process. Here are some typical usages: 
 
 * Photos of patients and staff for identification purposes

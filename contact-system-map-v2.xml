@@ -9,7 +9,7 @@
         <a href="contact-system.html">http://hl7.org/fhir/vs/contact-system</a> to 
         <a href="v2/0202/index.html">http://hl7.org/fhir/v2/vs/0202</a>
       </p>
-      <p>Draft. Published on 13-Apr 2014 23:15 by HL7 (FHIR Project) (
+      <p>Draft. Published on 15-Apr 2014 2:0 by HL7 (FHIR Project) (
         <a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, 
         <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). 
       </p>
@@ -70,7 +70,7 @@
   </telecom>
   <description value="v2 Map (0202)"/>
   <status value="draft"/>
-  <date value="2014-04-13T23:15:37.025-00:00"/>
+  <date value="2014-04-15T02:00:42.474-00:00"/>
   <source>
     <reference value="http://hl7.org/fhir/vs/contact-system"/>
   </source>

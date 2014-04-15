@@ -19,7 +19,7 @@
   ],
   "description": "Whether the application produces or consumes documents",
   "status": "draft",
-  "date": "2014-04-13T23:15:34.493-00:00",
+  "date": "2014-04-15T02:00:40.040-00:00",
   "define": {
     "system": "http://hl7.org/fhir/document-mode",
     "caseSensitive": true,
