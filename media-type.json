@@ -19,7 +19,7 @@
   ],
   "description": "Whether the Media is a photo, video, or audio",
   "status": "draft",
-  "date": "2014-04-15T06:55:42.486-00:00",
+  "date": "2014-04-15T12:51:59.840-00:00",
   "define": {
     "system": "http://hl7.org/fhir/media-type",
     "caseSensitive": true,

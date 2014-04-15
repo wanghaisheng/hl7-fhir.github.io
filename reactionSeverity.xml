@@ -63,7 +63,7 @@
   </telecom>
   <description value="The severity of an adverse reaction."/>
   <status value="draft"/>
-  <date value="2014-04-15T06:55:42.492-00:00"/>
+  <date value="2014-04-15T12:51:59.846-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/reactionSeverity"/>
     <caseSensitive value="true"/>

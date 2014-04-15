@@ -19,7 +19,7 @@
   ],
   "description": "Current state of the encounter",
   "status": "draft",
-  "date": "2014-04-15T06:55:42.487-00:00",
+  "date": "2014-04-15T12:51:59.841-00:00",
   "define": {
     "system": "http://hl7.org/fhir/encounter-state",
     "caseSensitive": true,

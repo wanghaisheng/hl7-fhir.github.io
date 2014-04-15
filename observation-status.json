@@ -19,7 +19,7 @@
   ],
   "description": "Codes providing the status of an observation",
   "status": "draft",
-  "date": "2014-04-15T06:55:42.481-00:00",
+  "date": "2014-04-15T12:51:59.835-00:00",
   "define": {
     "system": "http://hl7.org/fhir/observation-status",
     "caseSensitive": true,

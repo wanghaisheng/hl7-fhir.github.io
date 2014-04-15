@@ -56,7 +56,7 @@
   </telecom>
   <description value="Indicates whether the namespace should be used"/>
   <status value="draft"/>
-  <date value="2014-04-15T06:55:42.480-00:00"/>
+  <date value="2014-04-15T12:51:59.834-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/namespace-status"/>
     <caseSensitive value="true"/>

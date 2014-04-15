@@ -112,7 +112,7 @@
   </telecom>
   <description value="The expected format of an answer"/>
   <status value="draft"/>
-  <date value="2014-04-15T06:55:42.487-00:00"/>
+  <date value="2014-04-15T12:51:59.841-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/answer-format"/>
     <caseSensitive value="true"/>

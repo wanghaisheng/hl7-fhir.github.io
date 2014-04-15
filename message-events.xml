@@ -112,7 +112,7 @@
   </telecom>
   <description value="One of the message events defined as part of FHIR"/>
   <status value="draft"/>
-  <date value="2014-04-15T06:55:42.495-00:00"/>
+  <date value="2014-04-15T12:51:59.849-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/message-events"/>
     <caseSensitive value="true"/>

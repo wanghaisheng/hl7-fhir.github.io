@@ -84,7 +84,7 @@
   </telecom>
   <description value="High-level categorization of the type of activity in a care plan."/>
   <status value="draft"/>
-  <date value="2014-04-15T06:55:42.484-00:00"/>
+  <date value="2014-04-15T12:51:59.838-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/care-plan-activity-category"/>
     <caseSensitive value="true"/>

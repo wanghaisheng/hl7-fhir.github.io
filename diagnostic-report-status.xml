@@ -91,7 +91,7 @@
   </telecom>
   <description value="The status of the diagnostic report as a whole"/>
   <status value="draft"/>
-  <date value="2014-04-15T06:55:42.474-00:00"/>
+  <date value="2014-04-15T12:51:59.828-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/diagnostic-report-status"/>
     <caseSensitive value="true"/>

@@ -63,7 +63,7 @@
   </telecom>
   <description value="How likely is it that the given exposure caused a reaction"/>
   <status value="draft"/>
-  <date value="2014-04-15T06:55:42.475-00:00"/>
+  <date value="2014-04-15T12:51:59.829-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/causalityExpectation"/>
     <caseSensitive value="true"/>

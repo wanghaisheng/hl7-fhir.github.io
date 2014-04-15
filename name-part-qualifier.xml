@@ -95,7 +95,7 @@ track of this.</td>
   </telecom>
   <description value="A set of codes each of which specifies a certain subcategory of the name part in addition to the main name part type"/>
   <status value="draft"/>
-  <date value="2014-04-15T06:55:42.493-00:00"/>
+  <date value="2014-04-15T12:51:59.847-00:00"/>
   <compose>
     <include>
       <system value="http://hl7.org/fhir/v3/EntityNamePartQualifier2"/>
