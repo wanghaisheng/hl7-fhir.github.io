@@ -77,7 +77,7 @@
   </telecom>
   <description value="Codes providing the status of an observation"/>
   <status value="draft"/>
-  <date value="2014-04-15T02:00:40.027-00:00"/>
+  <date value="2014-04-15T03:36:34.148-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/observation-status"/>
     <caseSensitive value="true"/>

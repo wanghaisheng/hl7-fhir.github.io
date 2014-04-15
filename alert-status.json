@@ -19,7 +19,7 @@
   ],
   "description": "Indicates whether this alert is active and needs to be displayed to a user, or whether it is no longer needed or entered in error",
   "status": "draft",
-  "date": "2014-04-15T02:00:40.040-00:00",
+  "date": "2014-04-15T03:36:34.162-00:00",
   "define": {
     "system": "http://hl7.org/fhir/alert-status",
     "caseSensitive": true,

@@ -16,7 +16,7 @@
   ],
   "description": "This is the base conformance statement for FHIR. It represents a server that provides the full set of functionality defined by FHIR. It is provided to use as a template for system designers to build their own conformance statements from",
   "status": "draft",
-  "date": "2014-04-15T02:00:01.676-00:00",
+  "date": "2014-04-15T03:35:53.644-00:00",
   "fhirVersion": "0.80",
   "acceptUnknown": false,
   "format": [

@@ -77,7 +77,7 @@
   </telecom>
   <description value="A code specifying the state of the prescribing event. Describes the lifecycle of the prescription."/>
   <status value="draft"/>
-  <date value="2014-04-15T02:00:40.040-00:00"/>
+  <date value="2014-04-15T03:36:34.162-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/medication-prescription-status"/>
     <caseSensitive value="true"/>

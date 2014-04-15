@@ -27,7 +27,7 @@
   POSSIBILITY OF SUCH DAMAGE.
   
 
-  Generated on Tue, Apr 15, 2014 02:00+0000 for FHIR v0.80 
+  Generated on Tue, Apr 15, 2014 03:35+0000 for FHIR v0.80 
 -->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://hl7.org/fhir" xmlns:xhtml="http://www.w3.org/1999/xhtml" targetNamespace="http://hl7.org/fhir" elementFormDefault="qualified" version="0.80">
   <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>

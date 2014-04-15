@@ -19,7 +19,7 @@
   ],
   "description": "The status of the diagnostic report as a whole",
   "status": "draft",
-  "date": "2014-04-15T02:00:40.020-00:00",
+  "date": "2014-04-15T03:36:34.141-00:00",
   "define": {
     "system": "http://hl7.org/fhir/diagnostic-report-status",
     "caseSensitive": true,

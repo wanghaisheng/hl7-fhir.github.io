@@ -2,7 +2,7 @@
   "resourceType": "ConceptMap",
   "text": {
     "status": "generated",
-    "div": "<div><h2>v3 map for CompositionStatus (http://hl7.org/fhir/cm/v3/composition-status)</h2><p>Mapping from <a href=\"composition-status.html\">http://hl7.org/fhir/vs/composition-status</a> to <a href=\"v3/ActStatus/index.html\">http://hl7.org/fhir/v3/vs/ActStatus</a></p><p>Draft. Published on 15-Apr 2014 2:0 by HL7 (FHIR Project) (<a href=\"http://hl7.org/fhir\">http://hl7.org/fhir</a>, <a href=\"mailto:fhir@lists.hl7.org\">fhir@lists.hl7.org</a>). </p><p>v3 Map (ActStatus)</p><br/><table class=\"grid\"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>preliminary</td><td>equivalent</td><td>active (active)</td></tr><tr><td>final</td><td>wider</td><td>completed (completed)</td></tr><tr><td>appended</td><td>wider</td><td>completed (completed)</td></tr><tr><td>amended</td><td>wider</td><td>completed (completed)</td></tr><tr><td>entered in error</td><td>equivalent</td><td>nullified (nullified)</td></tr></table></div>"
+    "div": "<div><h2>v3 map for CompositionStatus (http://hl7.org/fhir/cm/v3/composition-status)</h2><p>Mapping from <a href=\"composition-status.html\">http://hl7.org/fhir/vs/composition-status</a> to <a href=\"v3/ActStatus/index.html\">http://hl7.org/fhir/v3/vs/ActStatus</a></p><p>Draft. Published on 15-Apr 2014 3:36 by HL7 (FHIR Project) (<a href=\"http://hl7.org/fhir\">http://hl7.org/fhir</a>, <a href=\"mailto:fhir@lists.hl7.org\">fhir@lists.hl7.org</a>). </p><p>v3 Map (ActStatus)</p><br/><table class=\"grid\"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>preliminary</td><td>equivalent</td><td>active (active)</td></tr><tr><td>final</td><td>wider</td><td>completed (completed)</td></tr><tr><td>appended</td><td>wider</td><td>completed (completed)</td></tr><tr><td>amended</td><td>wider</td><td>completed (completed)</td></tr><tr><td>entered in error</td><td>equivalent</td><td>nullified (nullified)</td></tr></table></div>"
   },
   "identifier": "http://hl7.org/fhir/cm/v3/composition-status",
   "name": "v3 map for CompositionStatus",
@@ -19,7 +19,7 @@
   ],
   "description": "v3 Map (ActStatus)",
   "status": "draft",
-  "date": "2014-04-15T02:00:42.510-00:00",
+  "date": "2014-04-15T03:36:38.145-00:00",
   "source": {
     "reference": "http://hl7.org/fhir/vs/composition-status"
   },

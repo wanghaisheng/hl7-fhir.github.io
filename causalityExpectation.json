@@ -19,7 +19,7 @@
   ],
   "description": "How likely is it that the given exposure caused a reaction",
   "status": "draft",
-  "date": "2014-04-15T02:00:40.021-00:00",
+  "date": "2014-04-15T03:36:34.141-00:00",
   "define": {
     "system": "http://hl7.org/fhir/causalityExpectation",
     "caseSensitive": true,
