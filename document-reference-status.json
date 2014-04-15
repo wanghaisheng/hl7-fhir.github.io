@@ -19,7 +19,7 @@
   ],
   "description": "The status of the document reference",
   "status": "draft",
-  "date": "2014-04-15T03:36:34.145-00:00",
+  "date": "2014-04-15T06:55:42.478-00:00",
   "define": {
     "system": "http://hl7.org/fhir/document-reference-status",
     "caseSensitive": true,

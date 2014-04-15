@@ -19,7 +19,7 @@
   ],
   "description": "The expected format of an answer",
   "status": "draft",
-  "date": "2014-04-15T03:36:34.154-00:00",
+  "date": "2014-04-15T06:55:42.487-00:00",
   "define": {
     "system": "http://hl7.org/fhir/answer-format",
     "caseSensitive": true,

@@ -4,17 +4,17 @@
   <title>Resources as Profiles</title>
   <id>http://hl7.org/fhir/profile/resources</id>
   <link href="http://hl7.org/implement/standards/fhir/profiles-resources.xml" rel="self"/>
-  <updated>2014-04-15T03:36:22.221-00:00</updated>
+  <updated>2014-04-15T06:55:31.205-00:00</updated>
   <entry>
     <title>&quot;conformance-base&quot; - to help with system development</title>
     <id>http://hl7.org/fhir/conformance/conformance-base</id>
     <link href="http://hl7.org/implement/standards/fhir/conformance/conformance-base" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Conformance xmlns="http://hl7.org/fhir">
         <text>
@@ -30,7 +30,7 @@
         </telecom>
         <description value="This is the base conformance statement for FHIR. It represents a server that provides the full set of functionality defined by FHIR. It is provided to use as a template for system designers to build their own conformance statements from"/>
         <status value="draft"/>
-        <date value="2014-04-15T03:35:53.644-00:00"/>
+        <date value="2014-04-15T06:55:02.639-00:00"/>
         <fhirVersion value="0.80"/>
         <acceptUnknown value="false"/>
         <format value="xml"/>
@@ -4872,12 +4872,12 @@
     <title>&quot;conformance-base2&quot; - to help with system development</title>
     <id>http://hl7.org/fhir/conformance/conformance-base2</id>
     <link href="http://hl7.org/implement/standards/fhir/conformance/conformance-base2" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Conformance xmlns="http://hl7.org/fhir">
         <text>
@@ -4893,7 +4893,7 @@
         </telecom>
         <description value="This is the base conformance statement for FHIR. It represents a server that provides the none of the functionality defined by FHIR. It is provided to use as a template for system designers to build their own conformance statements from. A conformance profile has to contain something, so this contains a read of a Conformance Statement"/>
         <status value="draft"/>
-        <date value="2014-04-15T03:35:53.644-00:00"/>
+        <date value="2014-04-15T06:55:02.639-00:00"/>
         <fhirVersion value="0.80"/>
         <acceptUnknown value="false"/>
         <format value="xml"/>
@@ -4917,12 +4917,12 @@
     <title>&quot;valueset&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/valueset</id>
     <link href="http://hl7.org/implement/standards/fhir/valueset.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -6071,12 +6071,12 @@ A value set can also be &quot;expanded&quot;, where the value set is turned into
     <title>&quot;conformance-base&quot; - to help with system development</title>
     <id>http://hl7.org/fhir/conformance/conformance-base</id>
     <link href="http://hl7.org/implement/standards/fhir/conformance/conformance-base" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Conformance xmlns="http://hl7.org/fhir">
         <text>
@@ -6092,7 +6092,7 @@ A value set can also be &quot;expanded&quot;, where the value set is turned into
         </telecom>
         <description value="This is the base conformance statement for FHIR. It represents a server that provides the full set of functionality defined by FHIR. It is provided to use as a template for system designers to build their own conformance statements from"/>
         <status value="draft"/>
-        <date value="2014-04-15T03:35:53.644-00:00"/>
+        <date value="2014-04-15T06:55:02.639-00:00"/>
         <fhirVersion value="0.80"/>
         <acceptUnknown value="false"/>
         <format value="xml"/>
@@ -10934,12 +10934,12 @@ A value set can also be &quot;expanded&quot;, where the value set is turned into
     <title>&quot;conformance-base2&quot; - to help with system development</title>
     <id>http://hl7.org/fhir/conformance/conformance-base2</id>
     <link href="http://hl7.org/implement/standards/fhir/conformance/conformance-base2" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Conformance xmlns="http://hl7.org/fhir">
         <text>
@@ -10955,7 +10955,7 @@ A value set can also be &quot;expanded&quot;, where the value set is turned into
         </telecom>
         <description value="This is the base conformance statement for FHIR. It represents a server that provides the none of the functionality defined by FHIR. It is provided to use as a template for system designers to build their own conformance statements from. A conformance profile has to contain something, so this contains a read of a Conformance Statement"/>
         <status value="draft"/>
-        <date value="2014-04-15T03:35:53.644-00:00"/>
+        <date value="2014-04-15T06:55:02.639-00:00"/>
         <fhirVersion value="0.80"/>
         <acceptUnknown value="false"/>
         <format value="xml"/>
@@ -10979,12 +10979,12 @@ A value set can also be &quot;expanded&quot;, where the value set is turned into
     <title>&quot;adversereaction&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/adversereaction</id>
     <link href="http://hl7.org/implement/standards/fhir/adversereaction.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -11531,12 +11531,12 @@ Note: Observation also needs to have a subject of the Adverse Reaction itself (i
     <title>&quot;alert&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/alert</id>
     <link href="http://hl7.org/implement/standards/fhir/alert.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -11809,12 +11809,12 @@ Usually, resources specific to particular types of issues (health conditions, al
     <title>&quot;allergyintolerance&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/allergyintolerance</id>
     <link href="http://hl7.org/implement/standards/fhir/allergyintolerance.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -12254,12 +12254,12 @@ Note that this specification draws a distinction between the patients condition/
     <title>&quot;appointment&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/appointment</id>
     <link href="http://hl7.org/implement/standards/fhir/appointment.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -12881,12 +12881,12 @@ There are 2 typical workflows that occur with appointments * Outlook Style - Com
     <title>&quot;appointmentresponse&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/appointmentresponse</id>
     <link href="http://hl7.org/implement/standards/fhir/appointmentresponse.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -13274,12 +13274,12 @@ This definition takes the concepts of appointments in a clinical setting and als
     <title>&quot;availability&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/availability</id>
     <link href="http://hl7.org/implement/standards/fhir/availability.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -13583,12 +13583,12 @@ If there is no comment, then the line can be excluded from the iCalendar entry"/
     <title>&quot;careplan&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/careplan</id>
     <link href="http://hl7.org/implement/standards/fhir/careplan.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -14747,12 +14747,12 @@ cancelled = aborted"/>
     <title>&quot;composition&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/composition</id>
     <link href="http://hl7.org/implement/standards/fhir/composition.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -15773,12 +15773,12 @@ unique(./participation[typeCode=&quot;SBJ&quot; and isNormalParticipation]/role[
     <title>&quot;conceptmap&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/conceptmap</id>
     <link href="http://hl7.org/implement/standards/fhir/conceptmap.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -16517,12 +16517,12 @@ unique(./participation[typeCode=&quot;SBJ&quot; and isNormalParticipation]/role[
     <title>&quot;condition&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/condition</id>
     <link href="http://hl7.org/implement/standards/fhir/condition.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -17567,12 +17567,12 @@ or
     <title>&quot;conformance&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/conformance</id>
     <link href="http://hl7.org/implement/standards/fhir/conformance.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -19558,12 +19558,12 @@ Typical supported profiles cross resource types to describe a network of related
     <title>&quot;device&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/device</id>
     <link href="http://hl7.org/implement/standards/fhir/device.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -20007,12 +20007,12 @@ Devices that are implanted in a patient differ from medications because they are
     <title>&quot;deviceobservationreport&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/deviceobservationreport</id>
     <link href="http://hl7.org/implement/standards/fhir/deviceobservationreport.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -20488,12 +20488,12 @@ This capability is expected to be subject of additional resources that are yet t
     <title>&quot;diagnosticorder&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/diagnosticorder</id>
     <link href="http://hl7.org/implement/standards/fhir/diagnosticorder.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -21250,12 +21250,12 @@ also influenced by whether a ControlAct fulfillment requeste exists, whether a p
     <title>&quot;diagnosticreport&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/diagnosticreport</id>
     <link href="http://hl7.org/implement/standards/fhir/diagnosticreport.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -21984,12 +21984,12 @@ Note: final and amended are distinguished by whether observation is the subject 
     <title>&quot;documentmanifest&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/documentmanifest</id>
     <link href="http://hl7.org/implement/standards/fhir/documentmanifest.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -22533,12 +22533,12 @@ Identifiers, XDS Workflow Instance Identifiers."/>
     <title>&quot;documentreference&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/documentreference</id>
     <link href="http://hl7.org/implement/standards/fhir/documentreference.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -23807,12 +23807,12 @@ where it is simply &quot;Procedure Report&quot; and the procedure was a &quot;co
     <title>&quot;encounter&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/encounter</id>
     <link href="http://hl7.org/implement/standards/fhir/encounter.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -24988,12 +24988,12 @@ Encounter instances may exist before the actual encounter takes place to convey 
     <title>&quot;familyhistory&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/familyhistory</id>
     <link href="http://hl7.org/implement/standards/fhir/familyhistory.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -25516,12 +25516,12 @@ Use originalText for string"/>
     <title>&quot;group&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/group</id>
     <link href="http://hl7.org/implement/standards/fhir/group.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -26039,12 +26039,12 @@ false: ./determinerCode=&quot;GRP_KIND&quot;"/>
     <title>&quot;imagingstudy&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/imagingstudy</id>
     <link href="http://hl7.org/implement/standards/fhir/imagingstudy.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -27125,12 +27125,12 @@ Note that there is a many-many relationship between orders and studies."/>
     <title>&quot;immunization&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/immunization</id>
     <link href="http://hl7.org/implement/standards/fhir/immunization.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -28245,12 +28245,12 @@ Additionally, the immunization resource is expected to cover key concepts relate
     <title>&quot;immunizationrecommendation&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/immunizationrecommendation</id>
     <link href="http://hl7.org/implement/standards/fhir/immunizationrecommendation.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -28963,12 +28963,12 @@ Additionally, the ImmunizationRecommendation resource is expected to cover key c
     <title>&quot;list&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/list</id>
     <link href="http://hl7.org/implement/standards/fhir/list.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -29516,12 +29516,12 @@ or
     <title>&quot;location&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/location</id>
     <link href="http://hl7.org/implement/standards/fhir/location.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -30068,12 +30068,12 @@ Examples of Locations are:
     <title>&quot;media&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/media</id>
     <link href="http://hl7.org/implement/standards/fhir/media.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -30619,12 +30619,12 @@ The Media resource may contain medical images in a DICOM format. While such imag
     <title>&quot;medication&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/medication</id>
     <link href="http://hl7.org/implement/standards/fhir/medication.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -31288,12 +31288,12 @@ if medication: RXO-2-Requested Give Amount - Minimum &amp; RXO-4-Requested Give 
     <title>&quot;medicationadministration&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/medicationadministration</id>
     <link href="http://hl7.org/implement/standards/fhir/medicationadministration.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -32066,12 +32066,12 @@ Terminologies used often pre-coordinate this term with the route and or form of 
     <title>&quot;medicationdispense&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/medicationdispense</id>
     <link href="http://hl7.org/implement/standards/fhir/medicationdispense.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -33113,12 +33113,12 @@ Terminologies used often pre-coordinate this term with the route and or form of 
     <title>&quot;medicationprescription&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/medicationprescription</id>
     <link href="http://hl7.org/implement/standards/fhir/medicationprescription.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -34111,12 +34111,12 @@ In some situations, this attribute may be used instead of quantity to identify t
     <title>&quot;medicationstatement&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/medicationstatement</id>
     <link href="http://hl7.org/implement/standards/fhir/medicationstatement.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -34745,12 +34745,12 @@ Terminologies used often pre-coordinate this term with the route and or form of 
     <title>&quot;messageheader&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/messageheader</id>
     <link href="http://hl7.org/implement/standards/fhir/messageheader.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -35556,12 +35556,12 @@ PRT-8-Participation Organization:PRT-4-Participation=&#39;OP&#39;
     <title>&quot;namespace&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/namespace</id>
     <link href="http://hl7.org/implement/standards/fhir/namespace.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -36066,12 +36066,12 @@ PRT-8-Participation Organization:PRT-4-Participation=&#39;OP&#39;
     <title>&quot;observation&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/observation</id>
     <link href="http://hl7.org/implement/standards/fhir/observation.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -37021,12 +37021,12 @@ Amended &amp; Final are differentiated by whether it is the subject of a Control
     <title>&quot;operationoutcome&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/operationoutcome</id>
     <link href="http://hl7.org/implement/standards/fhir/operationoutcome.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -37338,12 +37338,12 @@ Specifically, OperationOutcomes are used in the following circumstances:
     <title>&quot;order&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/order</id>
     <link href="http://hl7.org/implement/standards/fhir/order.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -37837,12 +37837,12 @@ Note that there are a variety of processes associated with making and processing
     <title>&quot;orderresponse&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/orderresponse</id>
     <link href="http://hl7.org/implement/standards/fhir/orderresponse.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -38221,12 +38221,12 @@ or
     <title>&quot;organization&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/organization</id>
     <link href="http://hl7.org/implement/standards/fhir/organization.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -38842,12 +38842,12 @@ or
     <title>&quot;other&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/other</id>
     <link href="http://hl7.org/implement/standards/fhir/other.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -39121,12 +39121,12 @@ Implementers don&#39;t really need to be concerned with one of the two categorie
     <title>&quot;patient&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/patient</id>
     <link href="http://hl7.org/implement/standards/fhir/patient.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -40191,12 +40191,12 @@ The data in the Resource covers the &quot;who&quot; information about the patien
     <title>&quot;practitioner&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/practitioner</id>
     <link href="http://hl7.org/implement/standards/fhir/practitioner.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -40931,12 +40931,12 @@ However these are accessed via the Site.ServiceSite.ServiceSiteProvider record. 
     <title>&quot;procedure&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/procedure</id>
     <link href="http://hl7.org/implement/standards/fhir/procedure.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -41584,12 +41584,12 @@ Note that many diagnostic processes are procedures that generate observations an
     <title>&quot;profile&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/profile</id>
     <link href="http://hl7.org/implement/standards/fhir/profile.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -43661,12 +43661,12 @@ A FHIR RESTful server serving the profile resource is also a profile repository.
     <title>&quot;provenance&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/provenance</id>
     <link href="http://hl7.org/implement/standards/fhir/provenance.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -44347,12 +44347,12 @@ OR
     <title>&quot;query&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/query</id>
     <link href="http://hl7.org/implement/standards/fhir/query.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -44769,12 +44769,12 @@ or
     <title>&quot;questionnaire&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/questionnaire</id>
     <link href="http://hl7.org/implement/standards/fhir/questionnaire.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -45568,12 +45568,12 @@ or
     <title>&quot;relatedperson&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/relatedperson</id>
     <link href="http://hl7.org/implement/standards/fhir/relatedperson.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -45963,12 +45963,12 @@ Example RelatedPersons are:
     <title>&quot;securityevent&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/securityevent</id>
     <link href="http://hl7.org/implement/standards/fhir/securityevent.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -47337,12 +47337,12 @@ role.player.code"/>
     <title>&quot;slot&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/slot</id>
     <link href="http://hl7.org/implement/standards/fhir/slot.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -47683,12 +47683,12 @@ If the freeBusyType is BUSY, then this value can be excluded (as shown)"/>
     <title>&quot;specimen&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/specimen</id>
     <link href="http://hl7.org/implement/standards/fhir/specimen.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -48598,12 +48598,12 @@ or
     <title>&quot;substance&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/substance</id>
     <link href="http://hl7.org/implement/standards/fhir/substance.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
@@ -49011,12 +49011,12 @@ The composition of the material can be specified in terms of a mix of other mate
     <title>&quot;supply&quot; as a profile (to help derivation)</title>
     <id>http://hl7.org/fhir/profile/supply</id>
     <link href="http://hl7.org/implement/standards/fhir/supply.profile.xml" rel="self"/>
-    <updated>2014-04-15T03:35:53.644-00:00</updated>
+    <updated>2014-04-15T06:55:02.639-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T03:35:53.644-00:00</published>
+    <published>2014-04-15T06:55:02.639-00:00</published>
     <content type="text/xml">
       <Profile xmlns="http://hl7.org/fhir">
         <text>
