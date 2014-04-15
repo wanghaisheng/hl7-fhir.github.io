@@ -9,7 +9,7 @@
         <a href="name-use.html">http://hl7.org/fhir/vs/name-use</a> to 
         <a href="v2/0200/index.html">http://hl7.org/fhir/v2/vs/0200</a>
       </p>
-      <p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (
+      <p>Draft. Published on 15-Apr 2014 19:53 by HL7 (FHIR Project) (
         <a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, 
         <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). 
       </p>
@@ -83,7 +83,7 @@
   </telecom>
   <description value="v2 Map (0200)"/>
   <status value="draft"/>
-  <date value="2014-04-15T18:10:19.719-00:00"/>
+  <date value="2014-04-15T19:53:38.256-00:00"/>
   <source>
     <reference value="http://hl7.org/fhir/vs/name-use"/>
   </source>

@@ -2,7 +2,7 @@
   "resourceType": "ConceptMap",
   "text": {
     "status": "generated",
-    "div": "<div><h2>v3 map for DocumentReferenceStatus (http://hl7.org/fhir/cm/v3/document-reference-status)</h2><p>Mapping from <a href=\"document-reference-status.html\">http://hl7.org/fhir/vs/document-reference-status</a> to <a href=\"v3/ActStatus/index.html\">http://hl7.org/fhir/v3/vs/ActStatus</a></p><p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (<a href=\"http://hl7.org/fhir\">http://hl7.org/fhir</a>, <a href=\"mailto:fhir@lists.hl7.org\">fhir@lists.hl7.org</a>). </p><p>v3 Map (ActStatus)</p><br/><table class=\"grid\"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>current</td><td>equivalent</td><td>active (active)</td></tr><tr><td>superceded</td><td>equivalent</td><td>obsolete (obsolete)</td></tr><tr><td>entered in error</td><td>equivalent</td><td>nullified (nullified)</td></tr></table></div>"
+    "div": "<div><h2>v3 map for DocumentReferenceStatus (http://hl7.org/fhir/cm/v3/document-reference-status)</h2><p>Mapping from <a href=\"document-reference-status.html\">http://hl7.org/fhir/vs/document-reference-status</a> to <a href=\"v3/ActStatus/index.html\">http://hl7.org/fhir/v3/vs/ActStatus</a></p><p>Draft. Published on 15-Apr 2014 19:53 by HL7 (FHIR Project) (<a href=\"http://hl7.org/fhir\">http://hl7.org/fhir</a>, <a href=\"mailto:fhir@lists.hl7.org\">fhir@lists.hl7.org</a>). </p><p>v3 Map (ActStatus)</p><br/><table class=\"grid\"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>current</td><td>equivalent</td><td>active (active)</td></tr><tr><td>superceded</td><td>equivalent</td><td>obsolete (obsolete)</td></tr><tr><td>entered in error</td><td>equivalent</td><td>nullified (nullified)</td></tr></table></div>"
   },
   "identifier": "http://hl7.org/fhir/cm/v3/document-reference-status",
   "name": "v3 map for DocumentReferenceStatus",
@@ -19,7 +19,7 @@
   ],
   "description": "v3 Map (ActStatus)",
   "status": "draft",
-  "date": "2014-04-15T18:10:18.753-00:00",
+  "date": "2014-04-15T19:53:37.623-00:00",
   "source": {
     "reference": "http://hl7.org/fhir/vs/document-reference-status"
   },

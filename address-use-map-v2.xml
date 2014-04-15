@@ -9,7 +9,7 @@
         <a href="address-use.html">http://hl7.org/fhir/vs/address-use</a> to 
         <a href="v2/0190/index.html">http://hl7.org/fhir/v2/vs/0190</a>
       </p>
-      <p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (
+      <p>Draft. Published on 15-Apr 2014 19:53 by HL7 (FHIR Project) (
         <a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, 
         <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). 
       </p>
@@ -70,7 +70,7 @@
   </telecom>
   <description value="v2 Map (0190)"/>
   <status value="draft"/>
-  <date value="2014-04-15T18:10:20.182-00:00"/>
+  <date value="2014-04-15T19:53:38.573-00:00"/>
   <source>
     <reference value="http://hl7.org/fhir/vs/address-use"/>
   </source>

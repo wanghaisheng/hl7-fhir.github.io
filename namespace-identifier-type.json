@@ -19,7 +19,7 @@
   ],
   "description": "Identifies the style of unique identifier used to identify a namepace",
   "status": "draft",
-  "date": "2014-04-15T18:10:18.036-00:00",
+  "date": "2014-04-15T19:53:37.076-00:00",
   "define": {
     "system": "http://hl7.org/fhir/namespace-identifier-type",
     "caseSensitive": true,

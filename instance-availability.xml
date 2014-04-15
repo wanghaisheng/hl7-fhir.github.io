@@ -64,7 +64,7 @@
   <description value="Availability of the resource"/>
   <copyright value="These codes are excerpted from Digital Imaging and Communications in Medicine (DICOM) Standard, Part 16: Content Mapping Resource, Copyright 2011 by the National Electrical Manufacturers Association"/>
   <status value="draft"/>
-  <date value="2014-04-15T18:10:18.038-00:00"/>
+  <date value="2014-04-15T19:53:37.077-00:00"/>
   <compose>
     <include>
       <system value="http://nema.org/dicom/dcid"/>

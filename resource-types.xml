@@ -408,7 +408,7 @@ Related resources tie this event to the authorizing prescription, and the specif
   </telecom>
   <description value="One of the resource types defined as part of FHIR"/>
   <status value="draft"/>
-  <date value="2014-04-15T18:10:18.047-00:00"/>
+  <date value="2014-04-15T19:53:37.085-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/resource-types"/>
     <caseSensitive value="true"/>

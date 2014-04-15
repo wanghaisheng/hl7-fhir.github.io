@@ -19,7 +19,7 @@
   ],
   "description": "A set of generally useful codes defined so they can be included in value sets",
   "status": "draft",
-  "date": "2014-04-15T18:10:18.036-00:00",
+  "date": "2014-04-15T19:53:37.076-00:00",
   "define": {
     "system": "http://hl7.org/fhir/special-values",
     "caseSensitive": true,
