@@ -19,7 +19,7 @@
   ],
   "description": "The type of relationship between documents",
   "status": "draft",
-  "date": "2014-04-15T12:51:59.848-00:00",
+  "date": "2014-04-15T15:09:14.231-00:00",
   "define": {
     "system": "http://hl7.org/fhir/document-relationship-type",
     "caseSensitive": true,

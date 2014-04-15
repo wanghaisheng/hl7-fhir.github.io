@@ -71,7 +71,7 @@ alter the observations in the prior document.</td>
   </telecom>
   <description value="The kind of relationship between two XDS documents"/>
   <status value="draft"/>
-  <date value="2014-04-15T12:51:59.836-00:00"/>
+  <date value="2014-04-15T15:09:14.207-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/xds-relationship-type"/>
     <caseSensitive value="true"/>

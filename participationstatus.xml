@@ -77,7 +77,7 @@
   </telecom>
   <description value="The Participation status of an appointment"/>
   <status value="draft"/>
-  <date value="2014-04-15T12:51:59.830-00:00"/>
+  <date value="2014-04-15T15:09:14.199-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/participationstatus"/>
     <caseSensitive value="true"/>

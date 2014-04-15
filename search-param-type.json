@@ -19,7 +19,7 @@
   ],
   "description": "Data types allowed to be used for search parameters",
   "status": "draft",
-  "date": "2014-04-15T12:51:59.836-00:00",
+  "date": "2014-04-15T15:09:14.206-00:00",
   "define": {
     "system": "http://hl7.org/fhir/search-param-type",
     "caseSensitive": true,

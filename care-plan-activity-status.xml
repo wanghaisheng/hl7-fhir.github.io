@@ -77,7 +77,7 @@
   </telecom>
   <description value="Indicates where the activity is at in its overall life cycle"/>
   <status value="draft"/>
-  <date value="2014-04-15T12:51:59.842-00:00"/>
+  <date value="2014-04-15T15:09:14.219-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/care-plan-activity-status"/>
     <caseSensitive value="true"/>
