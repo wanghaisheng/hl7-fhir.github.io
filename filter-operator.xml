@@ -77,7 +77,7 @@
   </telecom>
   <description value="The kind of operation to perform as a part of a property based filter"/>
   <status value="draft"/>
-  <date value="2014-04-15T15:09:14.198-00:00"/>
+  <date value="2014-04-15T18:10:18.031-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/filter-operator"/>
     <caseSensitive value="true"/>

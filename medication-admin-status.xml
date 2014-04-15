@@ -70,7 +70,7 @@
   </telecom>
   <description value="A set of codes indicating the current status of a MedicationAdministration"/>
   <status value="draft"/>
-  <date value="2014-04-15T15:09:14.205-00:00"/>
+  <date value="2014-04-15T18:10:18.038-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/medication-admin-status"/>
     <caseSensitive value="true"/>

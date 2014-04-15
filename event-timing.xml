@@ -90,7 +90,7 @@
   </telecom>
   <description value="Real world event that the schedule relates to"/>
   <status value="draft"/>
-  <date value="2014-04-15T15:09:14.233-00:00"/>
+  <date value="2014-04-15T18:10:18.053-00:00"/>
   <compose>
     <include>
       <system value="http://hl7.org/fhir/v3/TimingEvent"/>

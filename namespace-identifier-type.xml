@@ -63,7 +63,7 @@
   </telecom>
   <description value="Identifies the style of unique identifier used to identify a namepace"/>
   <status value="draft"/>
-  <date value="2014-04-15T15:09:14.203-00:00"/>
+  <date value="2014-04-15T18:10:18.036-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/namespace-identifier-type"/>
     <caseSensitive value="true"/>

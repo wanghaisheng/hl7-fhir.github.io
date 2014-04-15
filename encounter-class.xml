@@ -91,7 +91,7 @@
   </telecom>
   <description value="Classification of the encounter"/>
   <status value="draft"/>
-  <date value="2014-04-15T15:09:14.214-00:00"/>
+  <date value="2014-04-15T18:10:18.041-00:00"/>
   <define>
     <system value="http://hl7.org/fhir/encounter-class"/>
     <caseSensitive value="true"/>

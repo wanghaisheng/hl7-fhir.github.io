@@ -2,7 +2,7 @@
   "resourceType": "ConceptMap",
   "text": {
     "status": "generated",
-    "div": "<div><h2>v3 map for ObservationRelationshipType (http://hl7.org/fhir/cm/v3/observation-relationshiptypes)</h2><p>Mapping from <a href=\"observation-relationshiptypes.html\">http://hl7.org/fhir/vs/observation-relationshiptypes</a> to <a href=\"v3/ActRelationshipType/index.html\">http://hl7.org/fhir/v3/vs/ActRelationshipType</a></p><p>Draft. Published on 15-Apr 2014 15:9 by HL7 (FHIR Project) (<a href=\"http://hl7.org/fhir\">http://hl7.org/fhir</a>, <a href=\"mailto:fhir@lists.hl7.org\">fhir@lists.hl7.org</a>). </p><p>v3 Map (ActRrelationshipType)</p><br/><table class=\"grid\"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>has-component</td><td>equal</td><td>COMP</td></tr><tr><td>has-member</td><td>equal</td><td>MBR</td></tr><tr><td>derived-from</td><td>equal</td><td>DRIV</td></tr><tr><td>sequel-to</td><td>equal</td><td>SEQL</td></tr><tr><td>replaces</td><td>equal</td><td>RPLC</td></tr><tr><td>qualified-by</td><td>equal</td><td>QUALF</td></tr><tr><td>interfered-by</td><td>equal</td><td>INTF</td></tr></table></div>"
+    "div": "<div><h2>v3 map for ObservationRelationshipType (http://hl7.org/fhir/cm/v3/observation-relationshiptypes)</h2><p>Mapping from <a href=\"observation-relationshiptypes.html\">http://hl7.org/fhir/vs/observation-relationshiptypes</a> to <a href=\"v3/ActRelationshipType/index.html\">http://hl7.org/fhir/v3/vs/ActRelationshipType</a></p><p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (<a href=\"http://hl7.org/fhir\">http://hl7.org/fhir</a>, <a href=\"mailto:fhir@lists.hl7.org\">fhir@lists.hl7.org</a>). </p><p>v3 Map (ActRrelationshipType)</p><br/><table class=\"grid\"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>has-component</td><td>equal</td><td>COMP</td></tr><tr><td>has-member</td><td>equal</td><td>MBR</td></tr><tr><td>derived-from</td><td>equal</td><td>DRIV</td></tr><tr><td>sequel-to</td><td>equal</td><td>SEQL</td></tr><tr><td>replaces</td><td>equal</td><td>RPLC</td></tr><tr><td>qualified-by</td><td>equal</td><td>QUALF</td></tr><tr><td>interfered-by</td><td>equal</td><td>INTF</td></tr></table></div>"
   },
   "identifier": "http://hl7.org/fhir/cm/v3/observation-relationshiptypes",
   "name": "v3 map for ObservationRelationshipType",
@@ -19,7 +19,7 @@
   ],
   "description": "v3 Map (ActRrelationshipType)",
   "status": "draft",
-  "date": "2014-04-15T15:09:17.221-00:00",
+  "date": "2014-04-15T18:10:20.451-00:00",
   "source": {
     "reference": "http://hl7.org/fhir/vs/observation-relationshiptypes"
   },

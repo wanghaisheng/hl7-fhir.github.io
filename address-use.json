@@ -19,7 +19,7 @@
   ],
   "description": "The use of an address",
   "status": "draft",
-  "date": "2014-04-15T15:09:14.217-00:00",
+  "date": "2014-04-15T18:10:18.043-00:00",
   "define": {
     "system": "http://hl7.org/fhir/address-use",
     "caseSensitive": true,

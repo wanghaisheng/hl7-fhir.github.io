@@ -4,7 +4,7 @@
   <title>FHIR Core Concept Maps</title>
   <id>http://hl7.org/fhir/profile/conceptmaps</id>
   <link href="http://hl7.org/implement/standards/fhir/conceptmaps.xml" rel="self"/>
-  <updated>2014-04-15T15:08:56.580-00:00</updated>
+  <updated>2014-04-15T18:09:59.277-00:00</updated>
   <entry>
     <id>http://hl7.org/fhir/cm/v3/data-absent-reason</id>
     <link href="data-absent-reason-map-v3.html" rel="self"/>
@@ -12,7 +12,7 @@
     <content type="text/xml">
       <ConceptMap xmlns="http://hl7.org/fhir">
         <text>
-          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for DataAbsentReason (http://hl7.org/fhir/cm/v3/data-absent-reason)</h2><p>Mapping from <a href="data-absent-reason.html">http://hl7.org/fhir/vs/data-absent-reason</a> to <a href="v3/NullFlavor/index.html">http://hl7.org/fhir/v3/vs/NullFlavor</a></p><p>Draft. Published on 15-Apr 2014 15:9 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (NullFlavor)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>unknown</td><td>equal</td><td>UNK (unknown)</td></tr><tr><td>asked</td><td>equal</td><td>ASKU (asked but unknown)</td></tr><tr><td>temp</td><td>equal</td><td>NAV (temporarily unavailable)</td></tr><tr><td>notasked</td><td>equal</td><td>NASK (not asked)</td></tr><tr><td>masked</td><td>equal</td><td>MSK (masked)</td></tr><tr><td>unsupported</td><td>wider</td><td>NA (not applicable)</td></tr><tr><td>error</td><td>wider</td><td>NA (not applicable)</td></tr></table></div>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for DataAbsentReason (http://hl7.org/fhir/cm/v3/data-absent-reason)</h2><p>Mapping from <a href="data-absent-reason.html">http://hl7.org/fhir/vs/data-absent-reason</a> to <a href="v3/NullFlavor/index.html">http://hl7.org/fhir/v3/vs/NullFlavor</a></p><p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (NullFlavor)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>unknown</td><td>equal</td><td>UNK (unknown)</td></tr><tr><td>asked</td><td>equal</td><td>ASKU (asked but unknown)</td></tr><tr><td>temp</td><td>equal</td><td>NAV (temporarily unavailable)</td></tr><tr><td>notasked</td><td>equal</td><td>NASK (not asked)</td></tr><tr><td>masked</td><td>equal</td><td>MSK (masked)</td></tr><tr><td>unsupported</td><td>wider</td><td>NA (not applicable)</td></tr><tr><td>error</td><td>wider</td><td>NA (not applicable)</td></tr></table></div>
         </text>
         <identifier value="http://hl7.org/fhir/cm/v3/data-absent-reason"/>
         <name value="v3 map for DataAbsentReason"/>
@@ -27,7 +27,7 @@
         </telecom>
         <description value="v3 Map (NullFlavor)"/>
         <status value="draft"/>
-        <date value="2014-04-15T15:09:15.096-00:00"/>
+        <date value="2014-04-15T18:10:18.654-00:00"/>
         <source>
           <reference value="http://hl7.org/fhir/vs/data-absent-reason"/>
         </source>
@@ -107,7 +107,7 @@
     <content type="text/xml">
       <ConceptMap xmlns="http://hl7.org/fhir">
         <text>
-          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for DocumentReferenceStatus (http://hl7.org/fhir/cm/v3/document-reference-status)</h2><p>Mapping from <a href="document-reference-status.html">http://hl7.org/fhir/vs/document-reference-status</a> to <a href="v3/ActStatus/index.html">http://hl7.org/fhir/v3/vs/ActStatus</a></p><p>Draft. Published on 15-Apr 2014 15:9 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (ActStatus)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>current</td><td>equivalent</td><td>active (active)</td></tr><tr><td>superceded</td><td>equivalent</td><td>obsolete (obsolete)</td></tr><tr><td>entered in error</td><td>equivalent</td><td>nullified (nullified)</td></tr></table></div>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for DocumentReferenceStatus (http://hl7.org/fhir/cm/v3/document-reference-status)</h2><p>Mapping from <a href="document-reference-status.html">http://hl7.org/fhir/vs/document-reference-status</a> to <a href="v3/ActStatus/index.html">http://hl7.org/fhir/v3/vs/ActStatus</a></p><p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (ActStatus)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>current</td><td>equivalent</td><td>active (active)</td></tr><tr><td>superceded</td><td>equivalent</td><td>obsolete (obsolete)</td></tr><tr><td>entered in error</td><td>equivalent</td><td>nullified (nullified)</td></tr></table></div>
         </text>
         <identifier value="http://hl7.org/fhir/cm/v3/document-reference-status"/>
         <name value="v3 map for DocumentReferenceStatus"/>
@@ -122,7 +122,7 @@
         </telecom>
         <description value="v3 Map (ActStatus)"/>
         <status value="draft"/>
-        <date value="2014-04-15T15:09:15.179-00:00"/>
+        <date value="2014-04-15T18:10:18.753-00:00"/>
         <source>
           <reference value="http://hl7.org/fhir/vs/document-reference-status"/>
         </source>
@@ -166,7 +166,7 @@
     <content type="text/xml">
       <ConceptMap xmlns="http://hl7.org/fhir">
         <text>
-          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v2 map for NameUse (http://hl7.org/fhir/cm/v2/name-use)</h2><p>Mapping from <a href="name-use.html">http://hl7.org/fhir/vs/name-use</a> to <a href="v2/0200/index.html">http://hl7.org/fhir/v2/vs/0200</a></p><p>Draft. Published on 15-Apr 2014 15:9 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v2 Map (0200)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>usual</td><td>equivalent</td><td>D (Customary Name)</td></tr><tr><td>official</td><td>equivalent</td><td>L (Official Registry Name)</td></tr><tr><td>temp</td><td>equivalent</td><td>TEMP (Temporary Name)</td></tr><tr><td>nickname</td><td>equivalent</td><td>N (Nickname)</td></tr><tr><td>anonymous</td><td>equivalent</td><td>S (Pseudonym)</td></tr><tr><td>old</td><td>narrower</td><td>NOUSE (No Longer To Be Used)</td></tr><tr><td>old</td><td>narrower</td><td>BAD (Bad Name)</td></tr><tr><td>maiden</td><td>equivalent</td><td>M (Maiden Name)</td></tr></table></div>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v2 map for NameUse (http://hl7.org/fhir/cm/v2/name-use)</h2><p>Mapping from <a href="name-use.html">http://hl7.org/fhir/vs/name-use</a> to <a href="v2/0200/index.html">http://hl7.org/fhir/v2/vs/0200</a></p><p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v2 Map (0200)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>usual</td><td>equivalent</td><td>D (Customary Name)</td></tr><tr><td>official</td><td>equivalent</td><td>L (Official Registry Name)</td></tr><tr><td>temp</td><td>equivalent</td><td>TEMP (Temporary Name)</td></tr><tr><td>nickname</td><td>equivalent</td><td>N (Nickname)</td></tr><tr><td>anonymous</td><td>equivalent</td><td>S (Pseudonym)</td></tr><tr><td>old</td><td>narrower</td><td>NOUSE (No Longer To Be Used)</td></tr><tr><td>old</td><td>narrower</td><td>BAD (Bad Name)</td></tr><tr><td>maiden</td><td>equivalent</td><td>M (Maiden Name)</td></tr></table></div>
         </text>
         <identifier value="http://hl7.org/fhir/cm/v2/name-use"/>
         <name value="v2 map for NameUse"/>
@@ -181,7 +181,7 @@
         </telecom>
         <description value="v2 Map (0200)"/>
         <status value="draft"/>
-        <date value="2014-04-15T15:09:16.285-00:00"/>
+        <date value="2014-04-15T18:10:19.719-00:00"/>
         <source>
           <reference value="http://hl7.org/fhir/vs/name-use"/>
         </source>
@@ -270,7 +270,7 @@
     <content type="text/xml">
       <ConceptMap xmlns="http://hl7.org/fhir">
         <text>
-          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for NameUse (http://hl7.org/fhir/cm/v3/name-use)</h2><p>Mapping from <a href="name-use.html">http://hl7.org/fhir/vs/name-use</a> to <a href="v3/EntityNameUseR2/index.html">http://hl7.org/fhir/v3/vs/EntityNameUseR2</a></p><p>Draft. Published on 15-Apr 2014 15:9 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (EntityNameUseR2)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>usual</td><td>equal</td><td>C (customary)</td></tr><tr><td>official</td><td>equal</td><td>OR (official registry name)</td></tr><tr><td>temp</td><td>equal</td><td>T (temporary)</td></tr><tr><td>nickname</td><td>equivalent</td><td>P (Other/Pseudonym/Alias)</td></tr><tr><td>anonymous</td><td>equivalent</td><td>ANON (Anonymous)</td></tr><tr><td>old</td><td>equivalent</td><td>OLD (no longer in use)</td></tr><tr><td>maiden</td><td>equal</td><td>M (maiden name)</td></tr></table></div>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for NameUse (http://hl7.org/fhir/cm/v3/name-use)</h2><p>Mapping from <a href="name-use.html">http://hl7.org/fhir/vs/name-use</a> to <a href="v3/EntityNameUseR2/index.html">http://hl7.org/fhir/v3/vs/EntityNameUseR2</a></p><p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (EntityNameUseR2)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>usual</td><td>equal</td><td>C (customary)</td></tr><tr><td>official</td><td>equal</td><td>OR (official registry name)</td></tr><tr><td>temp</td><td>equal</td><td>T (temporary)</td></tr><tr><td>nickname</td><td>equivalent</td><td>P (Other/Pseudonym/Alias)</td></tr><tr><td>anonymous</td><td>equivalent</td><td>ANON (Anonymous)</td></tr><tr><td>old</td><td>equivalent</td><td>OLD (no longer in use)</td></tr><tr><td>maiden</td><td>equal</td><td>M (maiden name)</td></tr></table></div>
         </text>
         <identifier value="http://hl7.org/fhir/cm/v3/name-use"/>
         <name value="v3 map for NameUse"/>
@@ -285,7 +285,7 @@
         </telecom>
         <description value="v3 Map (EntityNameUseR2)"/>
         <status value="draft"/>
-        <date value="2014-04-15T15:09:16.308-00:00"/>
+        <date value="2014-04-15T18:10:19.737-00:00"/>
         <source>
           <reference value="http://hl7.org/fhir/vs/name-use"/>
         </source>
@@ -365,7 +365,7 @@
     <content type="text/xml">
       <ConceptMap xmlns="http://hl7.org/fhir">
         <text>
-          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v2 map for AddressUse (http://hl7.org/fhir/cm/v2/address-use)</h2><p>Mapping from <a href="address-use.html">http://hl7.org/fhir/vs/address-use</a> to <a href="v2/0190/index.html">http://hl7.org/fhir/v2/vs/0190</a></p><p>Draft. Published on 15-Apr 2014 15:9 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v2 Map (0190)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td><td><b>Comments</b></td></tr><tr><td>home</td><td>equivalent</td><td>H (Home)</td><td/></tr><tr><td>work</td><td>equivalent</td><td>O (Office/Business)</td><td/></tr><tr><td>temp</td><td>equivalent</td><td>C (Current Or Temporary)</td><td/></tr><tr><td>old</td><td>narrower</td><td>BA (Bad address)</td><td>unclear about old addresses</td></tr></table></div>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v2 map for AddressUse (http://hl7.org/fhir/cm/v2/address-use)</h2><p>Mapping from <a href="address-use.html">http://hl7.org/fhir/vs/address-use</a> to <a href="v2/0190/index.html">http://hl7.org/fhir/v2/vs/0190</a></p><p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v2 Map (0190)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td><td><b>Comments</b></td></tr><tr><td>home</td><td>equivalent</td><td>H (Home)</td><td/></tr><tr><td>work</td><td>equivalent</td><td>O (Office/Business)</td><td/></tr><tr><td>temp</td><td>equivalent</td><td>C (Current Or Temporary)</td><td/></tr><tr><td>old</td><td>narrower</td><td>BA (Bad address)</td><td>unclear about old addresses</td></tr></table></div>
         </text>
         <identifier value="http://hl7.org/fhir/cm/v2/address-use"/>
         <name value="v2 map for AddressUse"/>
@@ -380,7 +380,7 @@
         </telecom>
         <description value="v2 Map (0190)"/>
         <status value="draft"/>
-        <date value="2014-04-15T15:09:16.917-00:00"/>
+        <date value="2014-04-15T18:10:20.182-00:00"/>
         <source>
           <reference value="http://hl7.org/fhir/vs/address-use"/>
         </source>
@@ -434,7 +434,7 @@
     <content type="text/xml">
       <ConceptMap xmlns="http://hl7.org/fhir">
         <text>
-          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for AddressUse (http://hl7.org/fhir/cm/v3/address-use)</h2><p>Mapping from <a href="address-use.html">http://hl7.org/fhir/vs/address-use</a> to <a href="v3/AddressUse/index.html">http://hl7.org/fhir/v3/vs/AddressUse</a></p><p>Draft. Published on 15-Apr 2014 15:9 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (AddressUse)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>home</td><td>equal</td><td>H (home address)</td></tr><tr><td>work</td><td>equal</td><td>WP (work place)</td></tr><tr><td>temp</td><td>equal</td><td>TMP (temporary address)</td></tr><tr><td>old</td><td>narrower</td><td>OLD (no longer in use)</td></tr><tr><td>old</td><td>narrower</td><td>BAD (bad address)</td></tr></table></div>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for AddressUse (http://hl7.org/fhir/cm/v3/address-use)</h2><p>Mapping from <a href="address-use.html">http://hl7.org/fhir/vs/address-use</a> to <a href="v3/AddressUse/index.html">http://hl7.org/fhir/v3/vs/AddressUse</a></p><p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (AddressUse)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>home</td><td>equal</td><td>H (home address)</td></tr><tr><td>work</td><td>equal</td><td>WP (work place)</td></tr><tr><td>temp</td><td>equal</td><td>TMP (temporary address)</td></tr><tr><td>old</td><td>narrower</td><td>OLD (no longer in use)</td></tr><tr><td>old</td><td>narrower</td><td>BAD (bad address)</td></tr></table></div>
         </text>
         <identifier value="http://hl7.org/fhir/cm/v3/address-use"/>
         <name value="v3 map for AddressUse"/>
@@ -449,7 +449,7 @@
         </telecom>
         <description value="v3 Map (AddressUse)"/>
         <status value="draft"/>
-        <date value="2014-04-15T15:09:16.933-00:00"/>
+        <date value="2014-04-15T18:10:20.199-00:00"/>
         <source>
           <reference value="http://hl7.org/fhir/vs/address-use"/>
         </source>
@@ -511,7 +511,7 @@
     <content type="text/xml">
       <ConceptMap xmlns="http://hl7.org/fhir">
         <text>
-          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for ObservationRelationshipType (http://hl7.org/fhir/cm/v3/observation-relationshiptypes)</h2><p>Mapping from <a href="observation-relationshiptypes.html">http://hl7.org/fhir/vs/observation-relationshiptypes</a> to <a href="v3/ActRelationshipType/index.html">http://hl7.org/fhir/v3/vs/ActRelationshipType</a></p><p>Draft. Published on 15-Apr 2014 15:9 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (ActRrelationshipType)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>has-component</td><td>equal</td><td>COMP</td></tr><tr><td>has-member</td><td>equal</td><td>MBR</td></tr><tr><td>derived-from</td><td>equal</td><td>DRIV</td></tr><tr><td>sequel-to</td><td>equal</td><td>SEQL</td></tr><tr><td>replaces</td><td>equal</td><td>RPLC</td></tr><tr><td>qualified-by</td><td>equal</td><td>QUALF</td></tr><tr><td>interfered-by</td><td>equal</td><td>INTF</td></tr></table></div>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for ObservationRelationshipType (http://hl7.org/fhir/cm/v3/observation-relationshiptypes)</h2><p>Mapping from <a href="observation-relationshiptypes.html">http://hl7.org/fhir/vs/observation-relationshiptypes</a> to <a href="v3/ActRelationshipType/index.html">http://hl7.org/fhir/v3/vs/ActRelationshipType</a></p><p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (ActRrelationshipType)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>has-component</td><td>equal</td><td>COMP</td></tr><tr><td>has-member</td><td>equal</td><td>MBR</td></tr><tr><td>derived-from</td><td>equal</td><td>DRIV</td></tr><tr><td>sequel-to</td><td>equal</td><td>SEQL</td></tr><tr><td>replaces</td><td>equal</td><td>RPLC</td></tr><tr><td>qualified-by</td><td>equal</td><td>QUALF</td></tr><tr><td>interfered-by</td><td>equal</td><td>INTF</td></tr></table></div>
         </text>
         <identifier value="http://hl7.org/fhir/cm/v3/observation-relationshiptypes"/>
         <name value="v3 map for ObservationRelationshipType"/>
@@ -526,7 +526,7 @@
         </telecom>
         <description value="v3 Map (ActRrelationshipType)"/>
         <status value="draft"/>
-        <date value="2014-04-15T15:09:17.221-00:00"/>
+        <date value="2014-04-15T18:10:20.451-00:00"/>
         <source>
           <reference value="http://hl7.org/fhir/vs/observation-relationshiptypes"/>
         </source>
@@ -606,7 +606,7 @@
     <content type="text/xml">
       <ConceptMap xmlns="http://hl7.org/fhir">
         <text>
-          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v2 map for ContactUse (http://hl7.org/fhir/cm/v2/contact-use)</h2><p>Mapping from <a href="contact-use.html">http://hl7.org/fhir/vs/contact-use</a> to <a href="v2/0201/index.html">http://hl7.org/fhir/v2/vs/0201</a></p><p>Draft. Published on 15-Apr 2014 15:9 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v2 Map (0201)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>home</td><td>narrower</td><td>PRN (Primary Residence Number)</td></tr><tr><td>home</td><td>narrower</td><td>ORN (Other Residence Number)</td></tr><tr><td>home</td><td>narrower</td><td>VHN (Vacation Home Number)</td></tr><tr><td>work</td><td>equivalent</td><td>WPN (Work Number)</td></tr><tr><td>mobile</td><td>equivalent</td><td>PRS (Personal)</td></tr></table></div>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v2 map for ContactUse (http://hl7.org/fhir/cm/v2/contact-use)</h2><p>Mapping from <a href="contact-use.html">http://hl7.org/fhir/vs/contact-use</a> to <a href="v2/0201/index.html">http://hl7.org/fhir/v2/vs/0201</a></p><p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v2 Map (0201)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>home</td><td>narrower</td><td>PRN (Primary Residence Number)</td></tr><tr><td>home</td><td>narrower</td><td>ORN (Other Residence Number)</td></tr><tr><td>home</td><td>narrower</td><td>VHN (Vacation Home Number)</td></tr><tr><td>work</td><td>equivalent</td><td>WPN (Work Number)</td></tr><tr><td>mobile</td><td>equivalent</td><td>PRS (Personal)</td></tr></table></div>
         </text>
         <identifier value="http://hl7.org/fhir/cm/v2/contact-use"/>
         <name value="v2 map for ContactUse"/>
@@ -621,7 +621,7 @@
         </telecom>
         <description value="v2 Map (0201)"/>
         <status value="draft"/>
-        <date value="2014-04-15T15:09:17.930-00:00"/>
+        <date value="2014-04-15T18:10:21.171-00:00"/>
         <source>
           <reference value="http://hl7.org/fhir/vs/contact-use"/>
         </source>
@@ -683,7 +683,7 @@
     <content type="text/xml">
       <ConceptMap xmlns="http://hl7.org/fhir">
         <text>
-          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for ContactUse (http://hl7.org/fhir/cm/v3/contact-use)</h2><p>Mapping from <a href="contact-use.html">http://hl7.org/fhir/vs/contact-use</a> to <a href="v3/AddressUse/index.html">http://hl7.org/fhir/v3/vs/AddressUse</a></p><p>Draft. Published on 15-Apr 2014 15:9 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (AddressUse)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>home</td><td>equal</td><td>H (home address)</td></tr><tr><td>work</td><td>equal</td><td>WP (work place)</td></tr><tr><td>temp</td><td>equal</td><td>TMP (temporary address)</td></tr><tr><td>old</td><td>narrower</td><td>OLD (no longer in use)</td></tr><tr><td>old</td><td>narrower</td><td>BAD (bad address)</td></tr><tr><td>mobile</td><td>equal</td><td>MC (mobile contact))</td></tr></table></div>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for ContactUse (http://hl7.org/fhir/cm/v3/contact-use)</h2><p>Mapping from <a href="contact-use.html">http://hl7.org/fhir/vs/contact-use</a> to <a href="v3/AddressUse/index.html">http://hl7.org/fhir/v3/vs/AddressUse</a></p><p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (AddressUse)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>home</td><td>equal</td><td>H (home address)</td></tr><tr><td>work</td><td>equal</td><td>WP (work place)</td></tr><tr><td>temp</td><td>equal</td><td>TMP (temporary address)</td></tr><tr><td>old</td><td>narrower</td><td>OLD (no longer in use)</td></tr><tr><td>old</td><td>narrower</td><td>BAD (bad address)</td></tr><tr><td>mobile</td><td>equal</td><td>MC (mobile contact))</td></tr></table></div>
         </text>
         <identifier value="http://hl7.org/fhir/cm/v3/contact-use"/>
         <name value="v3 map for ContactUse"/>
@@ -698,7 +698,7 @@
         </telecom>
         <description value="v3 Map (AddressUse)"/>
         <status value="draft"/>
-        <date value="2014-04-15T15:09:17.947-00:00"/>
+        <date value="2014-04-15T18:10:21.188-00:00"/>
         <source>
           <reference value="http://hl7.org/fhir/vs/contact-use"/>
         </source>
@@ -769,7 +769,7 @@
     <content type="text/xml">
       <ConceptMap xmlns="http://hl7.org/fhir">
         <text>
-          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v2 map for ContactSystem (http://hl7.org/fhir/cm/v2/contact-system)</h2><p>Mapping from <a href="contact-system.html">http://hl7.org/fhir/vs/contact-system</a> to <a href="v2/0202/index.html">http://hl7.org/fhir/v2/vs/0202</a></p><p>Draft. Published on 15-Apr 2014 15:9 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v2 Map (0202)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td><td><b>Comments</b></td></tr><tr><td>phone</td><td>equivalent</td><td>PH (Telephone)</td><td/></tr><tr><td>fax</td><td>equivalent</td><td>FX (Fax)</td><td/></tr><tr><td>email</td><td>wider</td><td>Internet (Internet Address)</td><td>use mailto: protocol</td></tr><tr><td>url</td><td>wider</td><td>Internet (Internet Address)</td><td/></tr></table></div>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v2 map for ContactSystem (http://hl7.org/fhir/cm/v2/contact-system)</h2><p>Mapping from <a href="contact-system.html">http://hl7.org/fhir/vs/contact-system</a> to <a href="v2/0202/index.html">http://hl7.org/fhir/v2/vs/0202</a></p><p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v2 Map (0202)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td><td><b>Comments</b></td></tr><tr><td>phone</td><td>equivalent</td><td>PH (Telephone)</td><td/></tr><tr><td>fax</td><td>equivalent</td><td>FX (Fax)</td><td/></tr><tr><td>email</td><td>wider</td><td>Internet (Internet Address)</td><td>use mailto: protocol</td></tr><tr><td>url</td><td>wider</td><td>Internet (Internet Address)</td><td/></tr></table></div>
         </text>
         <identifier value="http://hl7.org/fhir/cm/v2/contact-system"/>
         <name value="v2 map for ContactSystem"/>
@@ -784,7 +784,7 @@
         </telecom>
         <description value="v2 Map (0202)"/>
         <status value="draft"/>
-        <date value="2014-04-15T15:09:18.120-00:00"/>
+        <date value="2014-04-15T18:10:21.268-00:00"/>
         <source>
           <reference value="http://hl7.org/fhir/vs/contact-system"/>
         </source>
@@ -838,7 +838,7 @@
     <content type="text/xml">
       <ConceptMap xmlns="http://hl7.org/fhir">
         <text>
-          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for CompositionStatus (http://hl7.org/fhir/cm/v3/composition-status)</h2><p>Mapping from <a href="composition-status.html">http://hl7.org/fhir/vs/composition-status</a> to <a href="v3/ActStatus/index.html">http://hl7.org/fhir/v3/vs/ActStatus</a></p><p>Draft. Published on 15-Apr 2014 15:9 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (ActStatus)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>preliminary</td><td>equivalent</td><td>active (active)</td></tr><tr><td>final</td><td>wider</td><td>completed (completed)</td></tr><tr><td>appended</td><td>wider</td><td>completed (completed)</td></tr><tr><td>amended</td><td>wider</td><td>completed (completed)</td></tr><tr><td>entered in error</td><td>equivalent</td><td>nullified (nullified)</td></tr></table></div>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><h2>v3 map for CompositionStatus (http://hl7.org/fhir/cm/v3/composition-status)</h2><p>Mapping from <a href="composition-status.html">http://hl7.org/fhir/vs/composition-status</a> to <a href="v3/ActStatus/index.html">http://hl7.org/fhir/v3/vs/ActStatus</a></p><p>Draft. Published on 15-Apr 2014 18:10 by HL7 (FHIR Project) (<a href="http://hl7.org/fhir">http://hl7.org/fhir</a>, <a href="mailto:fhir@lists.hl7.org">fhir@lists.hl7.org</a>). </p><p>v3 Map (ActStatus)</p><br/><table class="grid"><tr><td><b>Source Code</b></td><td><b>Equivalence</b></td><td><b>Destination Code</b></td></tr><tr><td>preliminary</td><td>equivalent</td><td>active (active)</td></tr><tr><td>final</td><td>wider</td><td>completed (completed)</td></tr><tr><td>appended</td><td>wider</td><td>completed (completed)</td></tr><tr><td>amended</td><td>wider</td><td>completed (completed)</td></tr><tr><td>entered in error</td><td>equivalent</td><td>nullified (nullified)</td></tr></table></div>
         </text>
         <identifier value="http://hl7.org/fhir/cm/v3/composition-status"/>
         <name value="v3 map for CompositionStatus"/>
@@ -853,7 +853,7 @@
         </telecom>
         <description value="v3 Map (ActStatus)"/>
         <status value="draft"/>
-        <date value="2014-04-15T15:09:18.167-00:00"/>
+        <date value="2014-04-15T18:10:21.320-00:00"/>
         <source>
           <reference value="http://hl7.org/fhir/vs/composition-status"/>
         </source>
@@ -912,12 +912,12 @@
     <title>Concept Map &quot;256a5231-a2bb-49bd-9fea-f349d428b70d&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/conceptmap/256a5231-a2bb-49bd-9fea-f349d428b70d</id>
     <link href="http://hl7.org/implement/standards/fhir/conceptmap/256a5231-a2bb-49bd-9fea-f349d428b70d" rel="self"/>
-    <updated>2014-04-15T15:08:18.186-00:00</updated>
+    <updated>2014-04-15T18:09:17.807-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T15:08:18.186-00:00</published>
+    <published>2014-04-15T18:09:17.807-00:00</published>
     <content type="text/xml">
       <ConceptMap xmlns="http://hl7.org/fhir">
         <text>
@@ -996,12 +996,12 @@
     <title>Concept Map &quot;http://hl7.org/fhir/conceptmap-example-specimen-type.html&quot; to support automated processing</title>
     <id>http://hl7.org/fhir/conceptmap/http://hl7.org/fhir/conceptmap-example-specimen-type.html</id>
     <link href="http://hl7.org/implement/standards/fhir/conceptmap/http://hl7.org/fhir/conceptmap-example-specimen-type.html" rel="self"/>
-    <updated>2014-04-15T15:08:18.186-00:00</updated>
+    <updated>2014-04-15T18:09:17.807-00:00</updated>
     <author>
       <name>HL7, Inc (FHIR Project)</name>
       <uri>http://hl7.org/fhir</uri>
     </author>
-    <published>2014-04-15T15:08:18.186-00:00</published>
+    <published>2014-04-15T18:09:17.807-00:00</published>
     <content type="text/xml">
       <ConceptMap xmlns="http://hl7.org/fhir">
         <text>

@@ -19,7 +19,7 @@
   ],
   "description": "The lifecycle status of a Value Set or Concept Map",
   "status": "draft",
-  "date": "2014-04-15T15:09:14.234-00:00",
+  "date": "2014-04-15T18:10:18.054-00:00",
   "define": {
     "system": "http://hl7.org/fhir/valueset-status",
     "caseSensitive": true,

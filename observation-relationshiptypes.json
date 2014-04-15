@@ -19,7 +19,7 @@
   ],
   "description": "Codes specifying how two observations are related",
   "status": "draft",
-  "date": "2014-04-15T15:09:14.219-00:00",
+  "date": "2014-04-15T18:10:18.045-00:00",
   "define": {
     "system": "http://hl7.org/fhir/observation-relationshiptypes",
     "caseSensitive": true,

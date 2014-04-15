@@ -19,7 +19,7 @@
   ],
   "description": "The type of an element - one of the FHIR data types",
   "status": "draft",
-  "date": "2014-04-15T15:09:14.215-00:00",
+  "date": "2014-04-15T18:10:18.042-00:00",
   "define": {
     "system": "http://hl7.org/fhir/data-types",
     "caseSensitive": true,
